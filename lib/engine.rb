@@ -2,18 +2,16 @@ class Engine
   
   
   def initialize
-    
-    
+    @commands = Commandify::process
   end
   
   
-  def run( user_input )
-    p 'You entered: ' + user_input
-    
-    
-    case user_input
-    when 'get subscribes'
-      return Reddibot::get_subscribes
+  def run
+    p @commands
+
+    case @commands['action']
+    when 'get_links'
+      p Reddibot::get_links( @commands['options'].sub )
     end
     
   end
