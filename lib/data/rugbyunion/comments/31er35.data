@@ -1,0 +1,152 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31er35
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0v988
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: aniun
+    :parent_id: t3_31er35
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: Portugal lost 38-8 to wales, and end in the 6th place
+    :edited: false
+    :author_flair_css_class: portugal
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Portugal lost 38-8 to wales, and end in the 6th place&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0v988
+    :created: 1428175756.0
+    :author_flair_text: Portugal
+    :created_utc: 1428146956.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31er35
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: mly7fptw5aaf6e8090e99275311e9a2079216e0b2dd5a8091d
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31er35
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq10fil
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: alcalioh
+            :parent_id: t1_cq0zfpv
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: Solid game from Georgia, but they need to stop kicking the ball
+              away.
+            :edited: false
+            :author_flair_css_class: clermont-auvergne
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Solid game from Georgia, but they need to stop kicking the ball away.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq10fil
+            :created: 1428190871.0
+            :author_flair_text: Clermont Auvergne
+            :created_utc: 1428162071.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0zfpv
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Kartofeel
+    :parent_id: t3_31er35
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: You can watch France Vs. Georgia [here](http://1tv.ge/ge/live.html)
+    :edited: false
+    :author_flair_css_class: georgia
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;You can watch France Vs. Georgia &lt;a href="http://1tv.ge/ge/live.html"&gt;here&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0zfpv
+    :created: 1428188709.0
+    :author_flair_text: Georgia
+    :created_utc: 1428159909.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31er35
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0v14t
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: HMFCalltheway
+    :parent_id: t3_31er35
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Great Scotland U18 finish at the bottom of the division after losing 21-12
+      to Ireland Schools.
+    :edited: false
+    :author_flair_css_class: edinburgh
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Great Scotland U18 finish at the bottom of the division after losing 21-12 to Ireland Schools.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0v14t
+    :created: 1428174601.0
+    :author_flair_text: Gunners
+    :created_utc: 1428145801.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

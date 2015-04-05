@@ -1,0 +1,73 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31h22e
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1setj
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: fettsack
+    :parent_id: t3_31h22e
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: How was that not a try by Toomua?
+    :edited: false
+    :author_flair_css_class: biarritz
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;How was that not a try by Toomua?&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1setj
+    :created: 1428252142.0
+    :author_flair_text: Biarritz
+    :created_utc: 1428223342.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31h22e
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1izgi
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: skeeter1980
+    :parent_id: t3_31h22e
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Photo Gallery: http://www.gettyimages.com/galleries/events/518587087'
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Photo Gallery: &lt;a href="http://www.gettyimages.com/galleries/events/518587087"&gt;http://www.gettyimages.com/galleries/events/518587087&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1izgi
+    :created: 1428227078.0
+    :author_flair_text: 
+    :created_utc: 1428198278.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

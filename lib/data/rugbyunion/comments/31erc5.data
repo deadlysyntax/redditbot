@@ -1,0 +1,4001 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1err5
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: munkifisht
+            :parent_id: t1_cq10s0a
+            :score: 3
+            :approved_by: 
+            :controversiality: 0
+            :body: And he has 98 caps for Ireland.
+            :edited: false
+            :author_flair_css_class: 
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;And he has 98 caps for Ireland.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1err5
+            :created: 1428218742.0
+            :author_flair_text: 
+            :created_utc: 1428189942.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 3
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq10s0a
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: fettsack
+    :parent_id: t3_31erc5
+    :score: 24
+    :approved_by: 
+    :controversiality: 0
+    :body: Stringer played for Munster and now plays in England. Yet he gets a standing
+      ovation from Leinater fans. That tells you how much of a legend he is.
+    :edited: false
+    :author_flair_css_class: biarritz
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Stringer played for Munster and now plays in England. Yet he gets a standing ovation from Leinater fans. That tells you how much of a legend he is.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq10s0a
+    :created: 1428191610.0
+    :author_flair_text: Biarritz
+    :created_utc: 1428162810.0
+    :ups: 24
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq11bhg
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: BZH_JJM
+    :parent_id: t3_31erc5
+    :score: 13
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Heaslip should have tapped and gone on the last penalty, just for the
+      lulz. '
+    :edited: false
+    :author_flair_css_class: usa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Heaslip should have tapped and gone on the last penalty, just for the lulz. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11bhg
+    :created: 1428192716.0
+    :author_flair_text: C-O-L-L-I-D-G-E
+    :created_utc: 1428163916.0
+    :ups: 13
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq119r0
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Ch13fK33f
+    :parent_id: t3_31erc5
+    :score: 11
+    :approved_by: 
+    :controversiality: 0
+    :body: Ridiculous call
+    :edited: false
+    :author_flair_css_class: northampton
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Ridiculous call&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq119r0
+    :created: 1428192616.0
+    :author_flair_text: Northampton Saints
+    :created_utc: 1428163816.0
+    :ups: 11
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0x8w3
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: simplybusiness
+            :parent_id: t1_cq0vwy2
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: Thank you
+            :edited: false
+            :author_flair_css_class: connacht
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Thank you&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0x8w3
+            :created: 1428183143.0
+            :author_flair_text: Connacht
+            :created_utc: 1428154343.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0xxln
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: Shade_NLD
+            :parent_id: t1_cq0vwy2
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: It's a bit laggy here.. Shame, cause it looks like a very good
+              stream!
+            :edited: false
+            :author_flair_css_class: four
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;It&amp;#39;s a bit laggy here.. Shame, cause it looks like a very good stream!&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0xxln
+            :created: 1428185023.0
+            :author_flair_text: The Netherlands
+            :created_utc: 1428156223.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        - :kind: more
+          :data:
+            :count: 8
+            :parent_id: t1_cq0vwy2
+            :children:
+            - cq0yihg
+            - cq0ykxq
+            :id: cq0yihg
+            :name: t1_cq0yihg
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0vwy2
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: kingtiger1001
+    :parent_id: t3_31erc5
+    :score: 10
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      ID for Rugby today
+
+      Kingtiger @2000Kbs (HD)
+
+      acestream://db9cb082294f7bd548cfb4ede450d2d69c6944df
+
+      if you're feeling generous, Please help with server costs :)
+
+      https://imraising.tv/u/kingtiger/
+    :edited: false
+    :author_flair_css_class: munster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;ID for Rugby today&lt;/p&gt;
+
+      &lt;p&gt;Kingtiger @2000Kbs (HD)&lt;/p&gt;
+
+      &lt;p&gt;acestream://db9cb082294f7bd548cfb4ede450d2d69c6944df&lt;/p&gt;
+
+      &lt;p&gt;if you&amp;#39;re feeling generous, Please help with server costs :)&lt;/p&gt;
+
+      &lt;p&gt;&lt;a href="https://imraising.tv/u/kingtiger/"&gt;https://imraising.tv/u/kingtiger/&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0vwy2
+    :created: 1428178672.0
+    :author_flair_text: Munster
+    :created_utc: 1428149872.0
+    :ups: 10
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 3
+            :parent_id: t1_cq11bxa
+            :children:
+            - cq11fiw
+            :id: cq11fiw
+            :name: t1_cq11fiw
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq11bxa
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: BathJets
+    :parent_id: t3_31erc5
+    :score: 10
+    :approved_by: 
+    :controversiality: 0
+    :body: Gave away far too many pens, but what a fucking bullshit call at the end
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Gave away far too many pens, but what a fucking bullshit call at the end&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11bxa
+    :created: 1428192743.0
+    :author_flair_text: Bath
+    :created_utc: 1428163943.0
+    :ups: 10
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0yqt4
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Ch13fK33f
+    :parent_id: t3_31erc5
+    :score: 9
+    :approved_by: 
+    :controversiality: 0
+    :body: Lovely try. Ford is such a quality player.
+    :edited: false
+    :author_flair_css_class: northampton
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Lovely try. Ford is such a quality player.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0yqt4
+    :created: 1428187089.0
+    :author_flair_text: Northampton Saints
+    :created_utc: 1428158289.0
+    :ups: 9
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 1
+            :parent_id: t1_cq11ctw
+            :children:
+            - cq11l5s
+            :id: cq11l5s
+            :name: t1_cq11l5s
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq11ctw
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: SimilarSimian
+    :parent_id: t3_31erc5
+    :score: 6
+    :approved_by: 
+    :controversiality: 0
+    :body: |
+      Don't know how we won that. I'd be gutted if i was a Bath player.
+
+      I was watching on a pretty bad stream there at the end and couldn't really see but it looked like the penalty should have gone to Bath.
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Don&amp;#39;t know how we won that. I&amp;#39;d be gutted if i was a Bath player.&lt;/p&gt;
+
+      &lt;p&gt;I was watching on a pretty bad stream there at the end and couldn&amp;#39;t really see but it looked like the penalty should have gone to Bath.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11ctw
+    :created: 1428192795.0
+    :author_flair_text: Leinster
+    :created_utc: 1428163995.0
+    :ups: 6
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 8
+            :parent_id: t1_cq0z6ir
+            :children:
+            - cq0zfet
+            - cq0zgzr
+            - cq14gth
+            :id: cq0zfet
+            :name: t1_cq0zfet
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0z6ir
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: pigmeatstrips
+    :parent_id: t3_31erc5
+    :score: 9
+    :approved_by: 
+    :controversiality: 0
+    :body: Yellow seemed a fair call. Bad form by Heaslip asking for a red.
+    :edited: false
+    :author_flair_css_class: connacht
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Yellow seemed a fair call. Bad form by Heaslip asking for a red.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0z6ir
+    :created: 1428188123.0
+    :author_flair_text: Connacht
+    :created_utc: 1428159323.0
+    :ups: 9
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31erc5
+                    :likes: 
+                    :replies:
+                      :kind: Listing
+                      :data:
+                        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+                        :children:
+                        - :kind: t1
+                          :data:
+                            :subreddit_id: t5_2qkbe
+                            :banned_by: 
+                            :link_id: t3_31erc5
+                            :likes: 
+                            :replies: ''
+                            :user_reports: []
+                            :saved: false
+                            :id: cq0x6tp
+                            :gilded: 0
+                            :archived: false
+                            :report_reasons: 
+                            :author: reddititis
+                            :parent_id: t1_cq0wde5
+                            :score: 13
+                            :approved_by: 
+                            :controversiality: 0
+                            :body: He probably knows their mothers....
+                            :edited: false
+                            :author_flair_css_class: leinster
+                            :downs: 0
+                            :body_html: |-
+                              &lt;div class="md"&gt;&lt;p&gt;He probably knows their mothers....&lt;/p&gt;
+                              &lt;/div&gt;
+                            :subreddit: rugbyunion
+                            :score_hidden: false
+                            :name: t1_cq0x6tp
+                            :created: 1428182970.0
+                            :author_flair_text: Leinster
+                            :created_utc: 1428154170.0
+                            :distinguished: 
+                            :mod_reports: []
+                            :num_reports: 
+                            :ups: 13
+                        :after: 
+                        :before: 
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0wde5
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: Chudraa
+                    :parent_id: t1_cq0vwys
+                    :score: 6
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: |-
+                      To be honest Stringer might have been a good shout
+                      He knows a lot of the Irish boys too
+                    :edited: false
+                    :author_flair_css_class: bath
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;To be honest Stringer might have been a good shout
+                      He knows a lot of the Irish boys too&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0wde5
+                    :created: 1428180293.0
+                    :author_flair_text: Bath
+                    :created_utc: 1428151493.0
+                    :ups: 6
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0vwys
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: Marshsonu
+            :parent_id: t1_cq0vbtz
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: I think he's just got back from injury so they're resting him?
+              Micky Young is just so much worse though, I really can't understand
+              the decision
+            :edited: false
+            :author_flair_css_class: bath
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;I think he&amp;#39;s just got back from injury so they&amp;#39;re resting him? Micky Young is just so much worse though, I really can&amp;#39;t understand the decision&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0vwys
+            :created: 1428178674.0
+            :author_flair_text: Bath
+            :created_utc: 1428149874.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0vbtz
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: trc007
+    :parent_id: t3_31erc5
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: Is that serious Micky Young at 9? If it is, we are even more knackered
+      than I thought we were going to be anyway - he was absolutely abysmal last week
+      against London Welsh. Anyone know where Chris Cook is?
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Is that serious Micky Young at 9? If it is, we are even more knackered than I thought we were going to be anyway - he was absolutely abysmal last week against London Welsh. Anyone know where Chris Cook is?&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0vbtz
+    :created: 1428176117.0
+    :author_flair_text: Bath
+    :created_utc: 1428147317.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0x6f4
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: PipBoy808
+    :parent_id: t3_31erc5
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: I'm a long time Ireland and Leinster fan, but have only been to one game
+      played by either - Ireland's record win over Wales in 2002 which was POC's debut.
+      Today I'm off to the Aviva! :D
+    :edited: false
+    :author_flair_css_class: ireland
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I&amp;#39;m a long time Ireland and Leinster fan, but have only been to one game played by either - Ireland&amp;#39;s record win over Wales in 2002 which was POC&amp;#39;s debut. Today I&amp;#39;m off to the Aviva! :D&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0x6f4
+    :created: 1428182938.0
+    :author_flair_text: Ireland
+    :created_utc: 1428154138.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0zaan
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: small_far_away
+    :parent_id: t3_31erc5
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: 'So many penalties for Bath. '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;So many penalties for Bath. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0zaan
+    :created: 1428188365.0
+    :author_flair_text: Leinster
+    :created_utc: 1428159565.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq101b3
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: da_gan
+    :parent_id: t3_31erc5
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: My god Kearney just can't counter attack even with an acre of space in
+      front.
+    :edited: false
+    :author_flair_css_class: blues
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;My god Kearney just can&amp;#39;t counter attack even with an acre of space in front.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq101b3
+    :created: 1428190041.0
+    :author_flair_text: Blues
+    :created_utc: 1428161241.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq119za
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: edzilla09
+    :parent_id: t3_31erc5
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: Garces just would not give Bath a penalty there.
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Garces just would not give Bath a penalty there.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq119za
+    :created: 1428192630.0
+    :author_flair_text: 
+    :created_utc: 1428163830.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0xwvz
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: small_far_away
+    :parent_id: t3_31erc5
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Sake BT stop interviewing Arsene Wenger and get the coverage going '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Sake BT stop interviewing Arsene Wenger and get the coverage going &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0xwvz
+    :created: 1428184968.0
+    :author_flair_text: Leinster
+    :created_utc: 1428156168.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0y6r0
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Chudraa
+    :parent_id: t3_31erc5
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: |
+      I can't wait for this one. Come on you Bath!
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I can&amp;#39;t wait for this one. Come on you Bath!&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0y6r0
+    :created: 1428185695.0
+    :author_flair_text: Bath
+    :created_utc: 1428156895.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq112w1
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Thelomen_Toblakai
+    :parent_id: t3_31erc5
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: It was a fuckin ruck !!
+    :edited: false
+    :author_flair_css_class: ireland
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;It was a fuckin ruck !!&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq112w1
+    :created: 1428192231.0
+    :author_flair_text: Ireland
+    :created_utc: 1428163431.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq11jcx
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: JurgenTheNotSoGerman
+            :parent_id: t1_cq11aql
+            :score: 4
+            :approved_by: 
+            :controversiality: 0
+            :body: Yeah and if Leinster had killed off the game when they had the
+              chance it would have been over long before it was, goes both ways
+            :edited: false
+            :author_flair_css_class: ireland
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Yeah and if Leinster had killed off the game when they had the chance it would have been over long before it was, goes both ways&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq11jcx
+            :created: 1428193158.0
+            :author_flair_text: Ireland
+            :created_utc: 1428164358.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 4
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq11aql
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: genstogata
+    :parent_id: t3_31erc5
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: Bath were their own worst enemies in that match. Cut out the penalties
+      and the handling errors and I don't think Leinster would have been able to match
+      them.
+    :edited: false
+    :author_flair_css_class: wasps
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Bath were their own worst enemies in that match. Cut out the penalties and the handling errors and I don&amp;#39;t think Leinster would have been able to match them.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11aql
+    :created: 1428192673.0
+    :author_flair_text: London Wasps
+    :created_utc: 1428163873.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq11fgc
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: J0nShannow
+    :parent_id: t3_31erc5
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: As a neutral who only saw the 2nd half thanks to BT Sport being shit. That
+      was not a particularly great match. Both sides made key errors that stopped
+      play really flow in the second half. As previously stated the ref also seemed
+      to favour Leinster most of the time. Either way looks like Leinster will be
+      playing Toulon, lets be honest Toulon are gunna beat Wasps.
+    :edited: false
+    :author_flair_css_class: harlequins
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;As a neutral who only saw the 2nd half thanks to BT Sport being shit. That was not a particularly great match. Both sides made key errors that stopped play really flow in the second half. As previously stated the ref also seemed to favour Leinster most of the time. Either way looks like Leinster will be playing Toulon, lets be honest Toulon are gunna beat Wasps.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11fgc
+    :created: 1428192940.0
+    :author_flair_text: Harlequins
+    :created_utc: 1428164140.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 4
+            :parent_id: t1_cq11e5v
+            :children:
+            - cq12ev2
+            - cq15hdc
+            :id: cq12ev2
+            :name: t1_cq12ev2
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq11e5v
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: ronnierosenthal
+    :parent_id: t3_31erc5
+    :score: 7
+    :approved_by: 
+    :controversiality: 0
+    :body: God, that was a dreadful game. Looking forward to being destroyed in Toulon
+      again.
+    :edited: false
+    :author_flair_css_class: ireland
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;God, that was a dreadful game. Looking forward to being destroyed in Toulon again.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11e5v
+    :created: 1428192870.0
+    :author_flair_text: Ireland
+    :created_utc: 1428164070.0
+    :ups: 7
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0vfkk
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: harblstuff
+    :parent_id: t3_31erc5
+    :score: 11
+    :approved_by: 
+    :controversiality: 0
+    :body: "Sipping on a *cappuccino* in my chinos, loafers and Leinster attire, looking
+      out at Lansdowne Road from my rooftop in the sunshine. \n\nThat's focking roysh,
+      it's game day. \n\n-----\nBack to being normal: heading to the match with my
+      father (he bought me and himself some 80 euro tickets, not bad for a Connacht
+      man whose first sport is GAA), convinced a visiting German to buy a ticket (30
+      euro) to see his first rugby match. \n\nShould be a good day regardless of the
+      result. Good luck to both teams and hope you all enjoy it. "
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Sipping on a &lt;em&gt;cappuccino&lt;/em&gt; in my chinos, loafers and Leinster attire, looking out at Lansdowne Road from my rooftop in the sunshine. &lt;/p&gt;
+
+      &lt;p&gt;That&amp;#39;s focking roysh, it&amp;#39;s game day. &lt;/p&gt;
+
+      &lt;hr/&gt;
+
+      &lt;p&gt;Back to being normal: heading to the match with my father (he bought me and himself some 80 euro tickets, not bad for a Connacht man whose first sport is GAA), convinced a visiting German to buy a ticket (30 euro) to see his first rugby match. &lt;/p&gt;
+
+      &lt;p&gt;Should be a good day regardless of the result. Good luck to both teams and hope you all enjoy it. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0vfkk
+    :created: 1428176608.0
+    :author_flair_text: Leinster
+    :created_utc: 1428147808.0
+    :ups: 11
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq11cyx
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: BennyG02
+            :parent_id: t1_cq11asa
+            :score: 6
+            :approved_by: 
+            :controversiality: 0
+            :body: I think Leinster deserved it based on the first 60. They were so
+              clinical and bath gave away so many penalties. Think they played stupidly
+              towards the end, but bath still didn't take advantage.
+            :edited: false
+            :author_flair_css_class: leicester
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;I think Leinster deserved it based on the first 60. They were so clinical and bath gave away so many penalties. Think they played stupidly towards the end, but bath still didn&amp;#39;t take advantage.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq11cyx
+            :created: 1428192802.0
+            :author_flair_text: Leicester Tigers
+            :created_utc: 1428164002.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 6
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq11asa
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: letsgohome45
+    :parent_id: t3_31erc5
+    :score: 6
+    :approved_by: 
+    :controversiality: 0
+    :body: Underserved IMO, leinster looked so shaky at the end. Not sure about that
+      penalty either. Good game tho.
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Underserved IMO, leinster looked so shaky at the end. Not sure about that penalty either. Good game tho.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11asa
+    :created: 1428192675.0
+    :author_flair_text: 
+    :created_utc: 1428163875.0
+    :ups: 6
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0yrt0
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: Space-manatee
+            :parent_id: t1_cq0yqpt
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: Surprise Leinster allowed him the time to do that- he did it almost
+              every time he had ball in hand in the 6N against France.
+            :edited: false
+            :author_flair_css_class: 
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Surprise Leinster allowed him the time to do that- he did it almost every time he had ball in hand in the 6N against France.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0yrt0
+            :created: 1428187159.0
+            :author_flair_text: 
+            :created_utc: 1428158359.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0yqpt
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Thelomen_Toblakai
+    :parent_id: t3_31erc5
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Embarrassing defence from Leinster. '
+    :edited: false
+    :author_flair_css_class: ireland
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Embarrassing defence from Leinster. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0yqpt
+    :created: 1428187083.0
+    :author_flair_text: Ireland
+    :created_utc: 1428158283.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0zhme
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: small_far_away
+            :parent_id: t1_cq0zds4
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: 'Great hit. Need some more of that in the second half '
+            :edited: false
+            :author_flair_css_class: leinster
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Great hit. Need some more of that in the second half &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0zhme
+            :created: 1428188830.0
+            :author_flair_text: Leinster
+            :created_utc: 1428160030.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        - :kind: more
+          :data:
+            :count: 1
+            :parent_id: t1_cq0zds4
+            :children:
+            - cq0zjrv
+            :id: cq0zjrv
+            :name: t1_cq0zjrv
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0zds4
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: lynam1104
+    :parent_id: t3_31erc5
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: I fucking love Ferg
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I fucking love Ferg&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0zds4
+    :created: 1428188587.0
+    :author_flair_text: Leinster
+    :created_utc: 1428159787.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq102z6
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: pickledpeas
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Thanks Kearney.
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Thanks Kearney.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq102z6
+    :created: 1428190142.0
+    :author_flair_text: Leinster
+    :created_utc: 1428161342.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq103yd
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Ch13fK33f
+    :parent_id: t3_31erc5
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: Ford is the best English ten since Jonny, no question.
+    :edited: false
+    :author_flair_css_class: northampton
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Ford is the best English ten since Jonny, no question.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq103yd
+    :created: 1428190199.0
+    :author_flair_text: Northampton Saints
+    :created_utc: 1428161399.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq110r4
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: thomandshush
+            :parent_id: t1_cq10rk6
+            :score: 8
+            :approved_by: 
+            :controversiality: 0
+            :body: 'If Stringer was one of the hobbits it would have taken him 1 movie
+              to get the ring to mordor '
+            :edited: false
+            :author_flair_css_class: munster
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;If Stringer was one of the hobbits it would have taken him 1 movie to get the ring to mordor &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq110r4
+            :created: 1428192110.0
+            :author_flair_text: Munster
+            :created_utc: 1428163310.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 8
+        - :kind: more
+          :data:
+            :count: 3
+            :parent_id: t1_cq10rk6
+            :children:
+            - cq10uqn
+            - cq10wqb
+            :id: cq10uqn
+            :name: t1_cq10uqn
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq10rk6
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: J0nShannow
+    :parent_id: t3_31erc5
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: Stringer could easily have been cast as an Elf in Lord of The Rings.
+    :edited: false
+    :author_flair_css_class: harlequins
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Stringer could easily have been cast as an Elf in Lord of The Rings.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq10rk6
+    :created: 1428191584.0
+    :author_flair_text: Harlequins
+    :created_utc: 1428162784.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq10vae
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: weedkrum
+    :parent_id: t3_31erc5
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: Good lord what a clearance from Ford
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Good lord what a clearance from Ford&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq10vae
+    :created: 1428191796.0
+    :author_flair_text: Bath
+    :created_utc: 1428162996.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq11ded
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: reddititis
+            :parent_id: t1_cq119b6
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: We got negative and looked afraid, Toulon/wasps will fancy their
+              chances.
+            :edited: false
+            :author_flair_css_class: leinster
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;We got negative and looked afraid, Toulon/wasps will fancy their chances.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq11ded
+            :created: 1428192826.0
+            :author_flair_text: Leinster
+            :created_utc: 1428164026.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq119b6
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: da_gan
+    :parent_id: t3_31erc5
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: I'm really surprised Leinster won that.
+    :edited: false
+    :author_flair_css_class: blues
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I&amp;#39;m really surprised Leinster won that.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq119b6
+    :created: 1428192590.0
+    :author_flair_text: Blues
+    :created_utc: 1428163790.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq119cg
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: twelveinchtyrone
+    :parent_id: t3_31erc5
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: No way
+    :edited: false
+    :author_flair_css_class: clermont-auvergne
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;No way&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq119cg
+    :created: 1428192592.0
+    :author_flair_text: Clermont Auvergne
+    :created_utc: 1428163792.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq119mi
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Thelomen_Toblakai
+    :parent_id: t3_31erc5
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Thank fuck for that. I don''t even know what the hell happened there. '
+    :edited: false
+    :author_flair_css_class: ireland
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Thank fuck for that. I don&amp;#39;t even know what the hell happened there. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq119mi
+    :created: 1428192610.0
+    :author_flair_text: Ireland
+    :created_utc: 1428163810.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq11apk
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: uknemo
+    :parent_id: t3_31erc5
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: I think I need to go and apologise to my neighbours.
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I think I need to go and apologise to my neighbours.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11apk
+    :created: 1428192671.0
+    :author_flair_text: Bath
+    :created_utc: 1428163871.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq11b02
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Thelomen_Toblakai
+    :parent_id: t3_31erc5
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Leinster through by the skin of their teeth. MOC''s reign of terror continues. '
+    :edited: false
+    :author_flair_css_class: ireland
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Leinster through by the skin of their teeth. MOC&amp;#39;s reign of terror continues. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11b02
+    :created: 1428192689.0
+    :author_flair_text: Ireland
+    :created_utc: 1428163889.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq11b5k
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: fettsack
+    :parent_id: t3_31erc5
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: Leinster are very lucky to be through, even though they're the worthy winners
+      in the end. They controlled the first half and had none in the second. Bath
+      lost the game because of their bad discipline and shit handling.
+    :edited: false
+    :author_flair_css_class: biarritz
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Leinster are very lucky to be through, even though they&amp;#39;re the worthy winners in the end. They controlled the first half and had none in the second. Bath lost the game because of their bad discipline and shit handling.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11b5k
+    :created: 1428192697.0
+    :author_flair_text: Biarritz
+    :created_utc: 1428163897.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq11cs9
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: small_far_away
+    :parent_id: t3_31erc5
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Well come on Wasps. Toulon would fucking dismantle this Leinster side.
+      We would at least have a chance with Wasps but it will be tough. '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Well come on Wasps. Toulon would fucking dismantle this Leinster side. We would at least have a chance with Wasps but it will be tough. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11cs9
+    :created: 1428192792.0
+    :author_flair_text: Leinster
+    :created_utc: 1428163992.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 3
+            :parent_id: t1_cq11d80
+            :children:
+            - cq11unn
+            :id: cq11unn
+            :name: t1_cq11unn
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq11d80
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: liontamerhat
+    :parent_id: t3_31erc5
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: jaysus Mads looked angry there
+    :edited: false
+    :author_flair_css_class: munster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;jaysus Mads looked angry there&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11d80
+    :created: 1428192816.0
+    :author_flair_text: Munster
+    :created_utc: 1428164016.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 5
+            :parent_id: t1_cq119f8
+            :children:
+            - cq11aui
+            :id: cq11aui
+            :name: t1_cq11aui
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq119f8
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: weedkrum
+    :parent_id: t3_31erc5
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: disgraceful call so many irish hands in that ruck
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;disgraceful call so many irish hands in that ruck&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq119f8
+    :created: 1428192597.0
+    :author_flair_text: Bath
+    :created_utc: 1428163797.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq11a0r
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: lynam1104
+    :parent_id: t3_31erc5
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: Poor poor call
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Poor poor call&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11a0r
+    :created: 1428192631.0
+    :author_flair_text: Leinster
+    :created_utc: 1428163831.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 1
+            :parent_id: t1_cq0y9om
+            :children:
+            - cq0yb72
+            :id: cq0yb72
+            :name: t1_cq0yb72
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0y9om
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: pickledpeas
+    :parent_id: t3_31erc5
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Drink every time the Ireland-England game is the last 6N is mentioned. '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Drink every time the Ireland-England game is the last 6N is mentioned. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0y9om
+    :created: 1428185906.0
+    :author_flair_text: Leinster
+    :created_utc: 1428157106.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0yx7w
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Thelomen_Toblakai
+    :parent_id: t3_31erc5
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Not even worth challenging high balls now tbh. Whoever doesn''t claim
+      it will be likely to get sent off. '
+    :edited: false
+    :author_flair_css_class: ireland
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Not even worth challenging high balls now tbh. Whoever doesn&amp;#39;t claim it will be likely to get sent off. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0yx7w
+    :created: 1428187521.0
+    :author_flair_text: Ireland
+    :created_utc: 1428158721.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 5
+            :parent_id: t1_cq0yy7n
+            :children:
+            - cq0z3p0
+            - cq0z5xj
+            :id: cq0z3p0
+            :name: t1_cq0z3p0
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0yy7n
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: trc007
+    :parent_id: t3_31erc5
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: Look it was clumsy absolutely a penalty but I'm so fed up with this bullshit
+      of any challenge in the air means a yellow if not a red. May as well make a
+      rule that nobody can jump to catch the ball
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Look it was clumsy absolutely a penalty but I&amp;#39;m so fed up with this bullshit of any challenge in the air means a yellow if not a red. May as well make a rule that nobody can jump to catch the ball&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0yy7n
+    :created: 1428187585.0
+    :author_flair_text: Bath
+    :created_utc: 1428158785.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 1
+            :parent_id: t1_cq11ddl
+            :children:
+            - cq12gf3
+            :id: cq12gf3
+            :name: t1_cq12gf3
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq11ddl
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: weedkrum
+    :parent_id: t3_31erc5
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: Hate losing when other teams dont score a try against you. Says it all
+      about the game tbh. Fair to say Leinster arent going to win the competition
+      playing rugby like that. They were way too negative in the second half. Still
+      Madigan had a blinder off the tee.
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Hate losing when other teams dont score a try against you. Says it all about the game tbh. Fair to say Leinster arent going to win the competition playing rugby like that. They were way too negative in the second half. Still Madigan had a blinder off the tee.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11ddl
+    :created: 1428192824.0
+    :author_flair_text: Bath
+    :created_utc: 1428164024.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0vf1u
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: sionnach
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Disappointed in myself - I booked a flight to take off at 3pm today. Couldn't
+      have been worse timing!
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Disappointed in myself - I booked a flight to take off at 3pm today. Couldn&amp;#39;t have been worse timing!&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0vf1u
+    :created: 1428176545.0
+    :author_flair_text: Leinster
+    :created_utc: 1428147745.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 1
+            :parent_id: t1_cq0w8qd
+            :children:
+            - cq0y0z9
+            :id: cq0y0z9
+            :name: t1_cq0y0z9
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0w8qd
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: thisisnotmysand
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Fairly nervous for this match. That bath midfield could tear the leinster
+      one apart. Te'o is not a very effective defense centre and both gopperth and
+      madigan are not known for being great tacklers. Hopefully the forwards can prevent
+      ford from having clean ball and time with ball in hand.
+    :edited: false
+    :author_flair_css_class: ireland
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Fairly nervous for this match. That bath midfield could tear the leinster one apart. Te&amp;#39;o is not a very effective defense centre and both gopperth and madigan are not known for being great tacklers. Hopefully the forwards can prevent ford from having clean ball and time with ball in hand.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0w8qd
+    :created: 1428179837.0
+    :author_flair_text: Ireland
+    :created_utc: 1428151037.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0wdea
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: small_far_away
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Let me get this Leinster flair back up. Pretty nervous about this one.
+      Didn''t manage to get a ticket (far too broke for that) so going to head to
+      a pub. Maybe a bit of hair of the dog will help my hangover. '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Let me get this Leinster flair back up. Pretty nervous about this one. Didn&amp;#39;t manage to get a ticket (far too broke for that) so going to head to a pub. Maybe a bit of hair of the dog will help my hangover. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0wdea
+    :created: 1428180293.0
+    :author_flair_text: Leinster
+    :created_utc: 1428151493.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0xx0o
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: weedkrum
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Buzzing for this but slightly nervous. Hopefully we see some of Stringer
+      today. Back row battle is gonna be amazing.
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Buzzing for this but slightly nervous. Hopefully we see some of Stringer today. Back row battle is gonna be amazing.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0xx0o
+    :created: 1428184976.0
+    :author_flair_text: Bath
+    :created_utc: 1428156176.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0yf0m
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: small_far_away
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Holy shit Jimmy. That was a monster kick '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Holy shit Jimmy. That was a monster kick &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0yf0m
+    :created: 1428186280.0
+    :author_flair_text: Leinster
+    :created_utc: 1428157480.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0yiyj
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: small_far_away
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Jesus so slow to that last ruck. Leinster lucky he went all the way back
+      for the pen '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Jesus so slow to that last ruck. Leinster lucky he went all the way back for the pen &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0yiyj
+    :created: 1428186552.0
+    :author_flair_text: Leinster
+    :created_utc: 1428157752.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0yq4f
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: small_far_away
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: 'That is disgraceful tackling from Leinster '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;That is disgraceful tackling from Leinster &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0yq4f
+    :created: 1428187042.0
+    :author_flair_text: Leinster
+    :created_utc: 1428158242.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0yrdi
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: small_far_away
+            :parent_id: t1_cq0yqpe
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: 'He gave leinster a very long one earlier. Nice of leinster to
+              forget how to tackle '
+            :edited: false
+            :author_flair_css_class: leinster
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;He gave leinster a very long one earlier. Nice of leinster to forget how to tackle &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0yrdi
+            :created: 1428187129.0
+            :author_flair_text: Leinster
+            :created_utc: 1428158329.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0yqpe
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: k726xah
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Good by the ref to play the advantage that long.
+    :edited: false
+    :author_flair_css_class: germany
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Good by the ref to play the advantage that long.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0yqpe
+    :created: 1428187082.0
+    :author_flair_text: Germany
+    :created_utc: 1428158282.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0yru2
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Rugbylegacy
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: What a run by Ford. Great Try!
+    :edited: false
+    :author_flair_css_class: usa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;What a run by Ford. Great Try!&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0yru2
+    :created: 1428187161.0
+    :author_flair_text: Mike Tolkin Take the Wheel and don't kill us
+    :created_utc: 1428158361.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0ysdy
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: KPATB
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Cheeky steal by Toner
+    :edited: false
+    :author_flair_css_class: glasgow
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Cheeky steal by Toner&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0ysdy
+    :created: 1428187202.0
+    :author_flair_text: Glasgow Warriors
+    :created_utc: 1428158402.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0yse3
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: DerelictCasino
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Fantastic from Ford '
+    :edited: false
+    :author_flair_css_class: england
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Fantastic from Ford &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0yse3
+    :created: 1428187202.0
+    :author_flair_text: England
+    :created_utc: 1428158402.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0yzzh
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Rugbylegacy
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Leinster slowly chipping away
+    :edited: false
+    :author_flair_css_class: usa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Leinster slowly chipping away&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0yzzh
+    :created: 1428187703.0
+    :author_flair_text: Mike Tolkin Take the Wheel and don't kill us
+    :created_utc: 1428158903.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0z622
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: lynam1104
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Leinster scrum fantastic, also so much better at getting over the gain
+      line. Hands are still an issue. '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Leinster scrum fantastic, also so much better at getting over the gain line. Hands are still an issue. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0z622
+    :created: 1428188094.0
+    :author_flair_text: Leinster
+    :created_utc: 1428159294.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 1
+            :parent_id: t1_cq0z6kb
+            :children:
+            - cq0z7yp
+            :id: cq0z7yp
+            :name: t1_cq0z7yp
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0z6kb
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: ronnierosenthal
+    :parent_id: t3_31erc5
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: Garces lets no advantage at all for a penalty. Second you get tackled he
+      blows up.
+    :edited: false
+    :author_flair_css_class: ireland
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Garces lets no advantage at all for a penalty. Second you get tackled he blows up.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0z6kb
+    :created: 1428188127.0
+    :author_flair_text: Ireland
+    :created_utc: 1428159327.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0z8ts
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: small_far_away
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: 'How did they get away with that lineout? So crooked '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;How did they get away with that lineout? So crooked &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0z8ts
+    :created: 1428188273.0
+    :author_flair_text: Leinster
+    :created_utc: 1428159473.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 3
+            :parent_id: t1_cq0zb0w
+            :children:
+            - cq0zdp8
+            :id: cq0zdp8
+            :name: t1_cq0zdp8
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0zb0w
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: small_far_away
+    :parent_id: t3_31erc5
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Jesus that replay with Mads getting kicked in the head isn''t pretty '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Jesus that replay with Mads getting kicked in the head isn&amp;#39;t pretty &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0zb0w
+    :created: 1428188410.0
+    :author_flair_text: Leinster
+    :created_utc: 1428159610.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0zcgw
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Rugbylegacy
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Make it 5 in a row for Madigan
+    :edited: false
+    :author_flair_css_class: usa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Make it 5 in a row for Madigan&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0zcgw
+    :created: 1428188502.0
+    :author_flair_text: Mike Tolkin Take the Wheel and don't kill us
+    :created_utc: 1428159702.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+                :children:
+                - :kind: more
+                  :data:
+                    :count: 1
+                    :parent_id: t1_cq0zmny
+                    :children:
+                    - cq0zvwl
+                    :name: t1_cq0zvwl
+                    :id: cq0zvwl
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0zmny
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: small_far_away
+            :parent_id: t1_cq0zh4i
+            :score: 3
+            :approved_by: 
+            :controversiality: 0
+            :body: And they want to take the 6 Nations. Piss right off
+            :edited: false
+            :author_flair_css_class: leinster
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;And they want to take the 6 Nations. Piss right off&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0zmny
+            :created: 1428189144.0
+            :author_flair_text: Leinster
+            :created_utc: 1428160344.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 3
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0zh4i
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: J0nShannow
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: I would be making lots of hilarious comments about this match but the BT
+      sport player is so intensely shit i've barely seen a thing. Fuck you BT Sport.
+    :edited: false
+    :author_flair_css_class: harlequins
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I would be making lots of hilarious comments about this match but the BT sport player is so intensely shit i&amp;#39;ve barely seen a thing. Fuck you BT Sport.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0zh4i
+    :created: 1428188797.0
+    :author_flair_text: Harlequins
+    :created_utc: 1428159997.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0zljl
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: small_far_away
+            :parent_id: t1_cq0zih2
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: 'Will need lots more of it. I feel Bath will get a bollocking and
+              come out swinging '
+            :edited: false
+            :author_flair_css_class: leinster
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Will need lots more of it. I feel Bath will get a bollocking and come out swinging &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0zljl
+            :created: 1428189076.0
+            :author_flair_text: Leinster
+            :created_utc: 1428160276.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0zrpn
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: reddititis
+            :parent_id: t1_cq0zih2
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: At least, incredible.
+            :edited: false
+            :author_flair_css_class: leinster
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;At least, incredible.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0zrpn
+            :created: 1428189460.0
+            :author_flair_text: Leinster
+            :created_utc: 1428160660.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0zih2
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: hoodsballs
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: that defensive effort at the end was immense. must've pushed them back
+      about 15m with three tackles
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;that defensive effort at the end was immense. must&amp;#39;ve pushed them back about 15m with three tackles&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0zih2
+    :created: 1428188889.0
+    :author_flair_text: Leinster
+    :created_utc: 1428160089.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0zub4
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: lynam1104
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: ':('
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;:(&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0zub4
+    :created: 1428189622.0
+    :author_flair_text: Leinster
+    :created_utc: 1428160822.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0zwnp
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: small_far_away
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Least he is walking off. Looks out of it though. Get well Ferg. '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Least he is walking off. Looks out of it though. Get well Ferg. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0zwnp
+    :created: 1428189764.0
+    :author_flair_text: Leinster
+    :created_utc: 1428160964.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 2
+            :parent_id: t1_cq100k5
+            :children:
+            - cq103u9
+            :id: cq103u9
+            :name: t1_cq103u9
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq100k5
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: OldPulteney
+    :parent_id: t3_31erc5
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: Where is burgess, come on get him on
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Where is burgess, come on get him on&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq100k5
+    :created: 1428189996.0
+    :author_flair_text: 
+    :created_utc: 1428161196.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq102kk
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: small_far_away
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: 'That is more fucking ridiculous tackling from Leinster '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;That is more fucking ridiculous tackling from Leinster &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq102kk
+    :created: 1428190118.0
+    :author_flair_text: Leinster
+    :created_utc: 1428161318.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq10dms
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: Thelomen_Toblakai
+            :parent_id: t1_cq10ar8
+            :score: 3
+            :approved_by: 
+            :controversiality: 0
+            :body: 'I don''t understand why coaches persist with him. He''s got zero
+              attacking ability. His defence is very suspect. His boot is unreliable.
+              All he has is an aerial game and even that isn''t very consistent. '
+            :edited: false
+            :author_flair_css_class: ireland
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;I don&amp;#39;t understand why coaches persist with him. He&amp;#39;s got zero attacking ability. His defence is very suspect. His boot is unreliable. All he has is an aerial game and even that isn&amp;#39;t very consistent. &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq10dms
+            :created: 1428190761.0
+            :author_flair_text: Ireland
+            :created_utc: 1428161961.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 3
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq10ar8
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: finnfb
+    :parent_id: t3_31erc5
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: Seems Kearney's lack of passing in the six nations is continuing.
+    :edited: false
+    :author_flair_css_class: ireland
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Seems Kearney&amp;#39;s lack of passing in the six nations is continuing.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq10ar8
+    :created: 1428190597.0
+    :author_flair_text: Ireland
+    :created_utc: 1428161797.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq10k7k
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: weedkrum
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Stage is set for big Sam. We just need to be more patient and go through
+      the phases and go for those offloads when its the right time.
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Stage is set for big Sam. We just need to be more patient and go through the phases and go for those offloads when its the right time.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq10k7k
+    :created: 1428191151.0
+    :author_flair_text: Bath
+    :created_utc: 1428162351.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq10l16
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: weedkrum
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: What. A. Fucking. Counter.
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;What. A. Fucking. Counter.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq10l16
+    :created: 1428191201.0
+    :author_flair_text: Bath
+    :created_utc: 1428162401.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq10okw
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: weedkrum
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Matt Slamahan
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Matt Slamahan&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq10okw
+    :created: 1428191413.0
+    :author_flair_text: Bath
+    :created_utc: 1428162613.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq10q6l
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: small_far_away
+    :parent_id: t3_31erc5
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: 'You know what is a great idea. Kicking it straight to Bath''s biggest
+      attacking threat '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;You know what is a great idea. Kicking it straight to Bath&amp;#39;s biggest attacking threat &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq10q6l
+    :created: 1428191504.0
+    :author_flair_text: Leinster
+    :created_utc: 1428162704.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 1
+            :parent_id: t1_cq10qxz
+            :children:
+            - cq10rg9
+            :id: cq10rg9
+            :name: t1_cq10rg9
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq10qxz
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: lynam1104
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Redden has been told to kick the leather off the ball.
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Redden has been told to kick the leather off the ball.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq10qxz
+    :created: 1428191550.0
+    :author_flair_text: Leinster
+    :created_utc: 1428162750.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq10qzy
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: amplebooty
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Banahans defense has been great '
+    :edited: false
+    :author_flair_css_class: england
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Banahans defense has been great &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq10qzy
+    :created: 1428191553.0
+    :author_flair_text: 'England #theempirestrikesback'
+    :created_utc: 1428162753.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq112i3
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: small_far_away
+    :parent_id: t3_31erc5
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Well he was in from the side '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Well he was in from the side &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq112i3
+    :created: 1428192210.0
+    :author_flair_text: Leinster
+    :created_utc: 1428163410.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 6
+            :parent_id: t1_cq112y5
+            :children:
+            - cq1137x
+            :id: cq1137x
+            :name: t1_cq1137x
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq112y5
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: BathJets
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Massive steal by Louw!
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Massive steal by Louw!&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq112y5
+    :created: 1428192234.0
+    :author_flair_text: Bath
+    :created_utc: 1428163434.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq116gn
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Thelomen_Toblakai
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Nervy ending.
+    :edited: false
+    :author_flair_css_class: ireland
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Nervy ending.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq116gn
+    :created: 1428192430.0
+    :author_flair_text: Ireland
+    :created_utc: 1428163630.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq117et
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: uknemo
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Aaaarfggggg
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Aaaarfggggg&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq117et
+    :created: 1428192483.0
+    :author_flair_text: Bath
+    :created_utc: 1428163683.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq117zn
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Thelomen_Toblakai
+    :parent_id: t3_31erc5
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Fuckin hell ! Reddan what are ya at ?
+    :edited: false
+    :author_flair_css_class: ireland
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Fuckin hell ! Reddan what are ya at ?&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq117zn
+    :created: 1428192515.0
+    :author_flair_text: Ireland
+    :created_utc: 1428163715.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq118x3
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: small_far_away
+    :parent_id: t3_31erc5
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: Well fuck me that was tight.
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Well fuck me that was tight.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq118x3
+    :created: 1428192568.0
+    :author_flair_text: Leinster
+    :created_utc: 1428163768.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: more
+          :data:
+            :count: 2
+            :parent_id: t1_cq1192r
+            :children:
+            - cq11c9r
+            :id: cq11c9r
+            :name: t1_cq11c9r
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq1192r
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: amplebooty
+    :parent_id: t3_31erc5
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Absolute joke, so many infringements '
+    :edited: false
+    :author_flair_css_class: england
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Absolute joke, so many infringements &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1192r
+    :created: 1428192578.0
+    :author_flair_text: 'England #theempirestrikesback'
+    :created_utc: 1428163778.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31erc5
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31erc5
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31erc5
+                    :likes: 
+                    :replies:
+                      :kind: Listing
+                      :data:
+                        :modhash: hfdspnorow8df6fe6f669ede7720e33a21d71a81c74676c2a4
+                        :children:
+                        - :kind: more
+                          :data:
+                            :count: 1
+                            :parent_id: t1_cq12ws3
+                            :id: cq15uhk
+                            :children:
+                            - cq15uhk
+                            :name: t1_cq15uhk
+                        :after: 
+                        :before: 
+                    :user_reports: []
+                    :saved: false
+                    :id: cq12ws3
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: BATuba15
+                    :parent_id: t1_cq11jz8
+                    :score: 3
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: 'If Fa''osiliva had grounded the try after that blocked
+                      kick in the 78th minute Bath could have made up for some sloppy
+                      play. I''d say George Ford and Ian Madigan were the only lads
+                      out there who played legitimate Rugby. '
+                    :edited: false
+                    :author_flair_css_class: bath
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;If Fa&amp;#39;osiliva had grounded the try after that blocked kick in the 78th minute Bath could have made up for some sloppy play. I&amp;#39;d say George Ford and Ian Madigan were the only lads out there who played legitimate Rugby. &lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq12ws3
+                    :created: 1428195912.0
+                    :author_flair_text: Jonathan Joseph for president
+                    :created_utc: 1428167112.0
+                    :ups: 3
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq11jz8
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: ronnierosenthal
+            :parent_id: t1_cq11frh
+            :score: 6
+            :approved_by: 
+            :controversiality: 0
+            :body: If Bath had snatched it I'd have said Leinster lost it. Both teams
+              were disappointing I think, although Bath at least played some rugby.
+            :edited: false
+            :author_flair_css_class: ireland
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;If Bath had snatched it I&amp;#39;d have said Leinster lost it. Both teams were disappointing I think, although Bath at least played some rugby.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq11jz8
+            :created: 1428193195.0
+            :author_flair_text: Ireland
+            :created_utc: 1428164395.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 6
+        - :kind: more
+          :data:
+            :count: 6
+            :parent_id: t1_cq11frh
+            :children:
+            - cq11g7r
+            - cq11hgb
+            - cq11hxs
+            - cq11jaq
+            :id: cq11g7r
+            :name: t1_cq11g7r
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq11frh
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: BATuba15
+    :parent_id: t3_31erc5
+    :score: 6
+    :approved_by: 
+    :controversiality: 0
+    :body: not a Leinster win, but a bath loss
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;not a Leinster win, but a bath loss&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq11frh
+    :created: 1428192957.0
+    :author_flair_text: Jonathan Joseph for president
+    :created_utc: 1428164157.0
+    :ups: 6
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- 

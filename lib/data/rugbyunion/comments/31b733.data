@@ -1,0 +1,1238 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31b733
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: a4j52851g78bdcb30e3d252c69022764cb0cecc80e7cefaf78
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31b733
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: a4j52851g78bdcb30e3d252c69022764cb0cecc80e7cefaf78
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31b733
+                    :likes: 
+                    :replies:
+                      :kind: Listing
+                      :data:
+                        :modhash: a4j52851g78bdcb30e3d252c69022764cb0cecc80e7cefaf78
+                        :children:
+                        - :kind: t1
+                          :data:
+                            :subreddit_id: t5_2qkbe
+                            :banned_by: 
+                            :link_id: t3_31b733
+                            :likes: 
+                            :replies:
+                              :kind: Listing
+                              :data:
+                                :modhash: a4j52851g78bdcb30e3d252c69022764cb0cecc80e7cefaf78
+                                :children:
+                                - :kind: t1
+                                  :data:
+                                    :subreddit_id: t5_2qkbe
+                                    :banned_by: 
+                                    :link_id: t3_31b733
+                                    :likes: 
+                                    :replies:
+                                      :kind: Listing
+                                      :data:
+                                        :modhash: a4j52851g78bdcb30e3d252c69022764cb0cecc80e7cefaf78
+                                        :children:
+                                        - :kind: t1
+                                          :data:
+                                            :subreddit_id: t5_2qkbe
+                                            :banned_by: 
+                                            :link_id: t3_31b733
+                                            :likes: 
+                                            :replies: ''
+                                            :user_reports: []
+                                            :saved: false
+                                            :id: cq128nf
+                                            :gilded: 0
+                                            :archived: false
+                                            :report_reasons: 
+                                            :author: dekx11
+                                            :parent_id: t1_cq120e0
+                                            :score: 1
+                                            :approved_by: 
+                                            :controversiality: 0
+                                            :body: 'I''m not on any... But I''ll figure
+                                              it out. '
+                                            :edited: false
+                                            :author_flair_css_class: 
+                                            :downs: 0
+                                            :body_html: |-
+                                              &lt;div class="md"&gt;&lt;p&gt;I&amp;#39;m not on any... But I&amp;#39;ll figure it out. &lt;/p&gt;
+                                              &lt;/div&gt;
+                                            :subreddit: rugbyunion
+                                            :score_hidden: false
+                                            :name: t1_cq128nf
+                                            :created: 1428194576.0
+                                            :author_flair_text: 
+                                            :created_utc: 1428165776.0
+                                            :distinguished: 
+                                            :mod_reports: []
+                                            :num_reports: 
+                                            :ups: 1
+                                        :after: 
+                                        :before: 
+                                    :user_reports: []
+                                    :saved: false
+                                    :id: cq120e0
+                                    :gilded: 0
+                                    :archived: false
+                                    :report_reasons: 
+                                    :author: LegendxFundz
+                                    :parent_id: t1_cq0t9ny
+                                    :score: 1
+                                    :approved_by: 
+                                    :controversiality: 0
+                                    :body: 'He does call Harare a shithole in one
+                                      of his videos. You could try his social media. '
+                                    :edited: false
+                                    :author_flair_css_class: six
+                                    :downs: 0
+                                    :body_html: |-
+                                      &lt;div class="md"&gt;&lt;p&gt;He does call Harare a shithole in one of his videos. You could try his social media. &lt;/p&gt;
+                                      &lt;/div&gt;
+                                    :subreddit: rugbyunion
+                                    :score_hidden: false
+                                    :name: t1_cq120e0
+                                    :created: 1428194120.0
+                                    :author_flair_text: Openside
+                                    :created_utc: 1428165320.0
+                                    :ups: 1
+                                    :mod_reports: []
+                                    :num_reports: 
+                                    :distinguished: 
+                                :after: 
+                                :before: 
+                            :user_reports: []
+                            :saved: false
+                            :id: cq0t9ny
+                            :gilded: 0
+                            :archived: false
+                            :report_reasons: 
+                            :author: dekx11
+                            :parent_id: t1_cq0fuek
+                            :score: 1
+                            :approved_by: 
+                            :controversiality: 0
+                            :body: 'Yeah. Asked them and they weren''t in contact
+                              with him and didn''t know anyone that was. '
+                            :edited: false
+                            :author_flair_css_class: 
+                            :downs: 0
+                            :body_html: |-
+                              &lt;div class="md"&gt;&lt;p&gt;Yeah. Asked them and they weren&amp;#39;t in contact with him and didn&amp;#39;t know anyone that was. &lt;/p&gt;
+                              &lt;/div&gt;
+                            :subreddit: rugbyunion
+                            :score_hidden: false
+                            :name: t1_cq0t9ny
+                            :created: 1428139950.0
+                            :author_flair_text: 
+                            :created_utc: 1428136350.0
+                            :distinguished: 
+                            :mod_reports: []
+                            :num_reports: 
+                            :ups: 1
+                        :after: 
+                        :before: 
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0fuek
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: LegendxFundz
+                    :parent_id: t1_cq02yo9
+                    :score: 2
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: 'Peterhouse boys? '
+                    :edited: false
+                    :author_flair_css_class: six
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;Peterhouse boys? &lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0fuek
+                    :created: 1428104928.0
+                    :author_flair_text: Openside
+                    :created_utc: 1428101328.0
+                    :ups: 2
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq02yo9
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: dekx11
+            :parent_id: t1_cq02i76
+            :score: 8
+            :approved_by: 
+            :controversiality: 0
+            :body: I agree. Am friends with a bunch of guys who went to high school
+              with him so will see if any are still in contact with him. Maybe someone
+              else here knows him too.
+            :edited: false
+            :author_flair_css_class: 
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;I agree. Am friends with a bunch of guys who went to high school with him so will see if any are still in contact with him. Maybe someone else here knows him too.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq02yo9
+            :created: 1428107743.0
+            :author_flair_text: 
+            :created_utc: 1428078943.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 8
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq02i76
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Polamora
+    :parent_id: t3_31b733
+    :score: 11
+    :approved_by: 
+    :controversiality: 0
+    :body: I've been keeping up with his videos since he first started releasing them,
+      he seems like the kind of player who would be willing to put himself out there
+      for an AMA.
+    :edited: false
+    :author_flair_css_class: ball
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I&amp;#39;ve been keeping up with his videos since he first started releasing them, he seems like the kind of player who would be willing to put himself out there for an AMA.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq02i76
+    :created: 1428106976.0
+    :author_flair_text: Ol' Slow and Reliable
+    :created_utc: 1428078176.0
+    :ups: 11
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31b733
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: a4j52851g78bdcb30e3d252c69022764cb0cecc80e7cefaf78
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31b733
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cpzzp4i
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: dekx11
+            :parent_id: t1_cpzzbof
+            :score: 16
+            :approved_by: 
+            :controversiality: 0
+            :body: "All the videos are very funny and insightful. I recommend watching
+              it Episode 1 so you can see the growth and what not...\n\n\nI wait on
+              this like Game of Thrones. "
+            :edited: false
+            :author_flair_css_class: 
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;All the videos are very funny and insightful. I recommend watching it Episode 1 so you can see the growth and what not...&lt;/p&gt;
+
+              &lt;p&gt;I wait on this like Game of Thrones. &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cpzzp4i
+            :created: 1428102118.0
+            :author_flair_text: 
+            :created_utc: 1428073318.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 16
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31b733
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: a4j52851g78bdcb30e3d252c69022764cb0cecc80e7cefaf78
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31b733
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq06niu
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: Mizzyaxp
+                    :parent_id: t1_cq05401
+                    :score: 3
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: "The BBQ eipsode. 40ish or so.\n\nTo BBQ is not to Braai,
+                      is the title i think. "
+                    :edited: false
+                    :author_flair_css_class: 
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;The BBQ eipsode. 40ish or so.&lt;/p&gt;
+
+                      &lt;p&gt;To BBQ is not to Braai, is the title i think. &lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq06niu
+                    :created: 1428088651.0
+                    :author_flair_text: 
+                    :created_utc: 1428085051.0
+                    :ups: 3
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq05401
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: sdfdsize
+            :parent_id: t1_cpzzbof
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: Which vid does he talk about Super Rugby in?
+            :edited: false
+            :author_flair_css_class: hurricanes
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Which vid does he talk about Super Rugby in?&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq05401
+            :created: 1428086112.0
+            :author_flair_text: Hurricanes
+            :created_utc: 1428082512.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31b733
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1eihj
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: BZH_JJM
+            :parent_id: t1_cpzzbof
+            :score: 1
+            :approved_by: 
+            :controversiality: 0
+            :body: "&gt;I don't like SuperRugby, it's too poppy, too Iggy and Taylor
+              Swift for me\n\nTo continue the analogy, I suppose the Top 14 is Yeezus-era
+              Kanye West, and the league I play in is a teenage Rush cover band that
+              hasn't played a show yet. "
+            :edited: false
+            :author_flair_css_class: usa
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;blockquote&gt;
+              &lt;p&gt;I don&amp;#39;t like SuperRugby, it&amp;#39;s too poppy, too Iggy and Taylor Swift for me&lt;/p&gt;
+              &lt;/blockquote&gt;
+
+              &lt;p&gt;To continue the analogy, I suppose the Top 14 is Yeezus-era Kanye West, and the league I play in is a teenage Rush cover band that hasn&amp;#39;t played a show yet. &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1eihj
+            :created: 1428218238.0
+            :author_flair_text: C-O-L-L-I-D-G-E
+            :created_utc: 1428189438.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 1
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cpzzbof
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Mizzyaxp
+    :parent_id: t3_31b733
+    :score: 19
+    :approved_by: 
+    :controversiality: 0
+    :body: "Good share. \n\nThe 10 minutes I watched were pretty funny. \n\n\"If you're
+      lookin', it ain't cookin' \" - advice on smoking meat. \n\n\"I don't like SuperRugby,
+      it's too poppy, too Iggy and Taylor Swift for me\" - on why he doesn't watch
+      Super 15. "
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Good share. &lt;/p&gt;
+
+      &lt;p&gt;The 10 minutes I watched were pretty funny. &lt;/p&gt;
+
+      &lt;p&gt;&amp;quot;If you&amp;#39;re lookin&amp;#39;, it ain&amp;#39;t cookin&amp;#39; &amp;quot; - advice on smoking meat. &lt;/p&gt;
+
+      &lt;p&gt;&amp;quot;I don&amp;#39;t like SuperRugby, it&amp;#39;s too poppy, too Iggy and Taylor Swift for me&amp;quot; - on why he doesn&amp;#39;t watch Super 15. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cpzzbof
+    :created: 1428101432.0
+    :author_flair_text: 
+    :created_utc: 1428072632.0
+    :ups: 19
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31b733
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0cyv1
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Aertar
+    :parent_id: t3_31b733
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: Well there went any productivity I had planned for my day...
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Well there went any productivity I had planned for my day...&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0cyv1
+    :created: 1428099562.0
+    :author_flair_text: 
+    :created_utc: 1428095962.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31b733
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0f59s
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Madman_Salvo
+    :parent_id: t3_31b733
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: Dat back.
+    :edited: false
+    :author_flair_css_class: england
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Dat back.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0f59s
+    :created: 1428128776.0
+    :author_flair_text: England
+    :created_utc: 1428099976.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31b733
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: a4j52851g78bdcb30e3d252c69022764cb0cecc80e7cefaf78
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31b733
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0vul1
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: Wobbly_
+            :parent_id: t1_cq06adv
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: Well that's a bit shit...
+            :edited: false
+            :author_flair_css_class: all-blacks
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Well that&amp;#39;s a bit shit...&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0vul1
+            :created: 1428178404.0
+            :author_flair_text: All Blacks
+            :created_utc: 1428149604.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq06adv
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: rugger62
+    :parent_id: t3_31b733
+    :score: 6
+    :approved_by: 
+    :controversiality: 0
+    :body: "&gt; Despite having already played for the Springboks Mujati's test career
+      was cut short when he was declared ineligible to play because he was not legally
+      a South African citizen. \n\n[Wiki for the lazy](http://en.wikipedia.org/wiki/Brian_Mujati)"
+    :edited: false
+    :author_flair_css_class: usa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;blockquote&gt;
+      &lt;p&gt;Despite having already played for the Springboks Mujati&amp;#39;s test career was cut short when he was declared ineligible to play because he was not legally a South African citizen. &lt;/p&gt;
+      &lt;/blockquote&gt;
+
+      &lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Brian_Mujati"&gt;Wiki for the lazy&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq06adv
+    :created: 1428113253.0
+    :author_flair_text: USA
+    :created_utc: 1428084453.0
+    :ups: 6
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31b733
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq03r6r
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: woodsxc
+    :parent_id: t3_31b733
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: Mujati is awesome!   He seems like a really great guy and he puts up funny
+      and insightful stuff.
+    :edited: false
+    :author_flair_css_class: usa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Mujati is awesome!   He seems like a really great guy and he puts up funny and insightful stuff.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq03r6r
+    :created: 1428083860.0
+    :author_flair_text: USA
+    :created_utc: 1428080260.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31b733
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: a4j52851g78bdcb30e3d252c69022764cb0cecc80e7cefaf78
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31b733
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: a4j52851g78bdcb30e3d252c69022764cb0cecc80e7cefaf78
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31b733
+                    :likes: 
+                    :replies:
+                      :kind: Listing
+                      :data:
+                        :modhash: a4j52851g78bdcb30e3d252c69022764cb0cecc80e7cefaf78
+                        :children:
+                        - :kind: t1
+                          :data:
+                            :subreddit_id: t5_2qkbe
+                            :banned_by: 
+                            :link_id: t3_31b733
+                            :likes: 
+                            :replies:
+                              :kind: Listing
+                              :data:
+                                :modhash: a4j52851g78bdcb30e3d252c69022764cb0cecc80e7cefaf78
+                                :children:
+                                - :kind: t1
+                                  :data:
+                                    :subreddit_id: t5_2qkbe
+                                    :banned_by: 
+                                    :link_id: t3_31b733
+                                    :likes: 
+                                    :replies:
+                                      :kind: Listing
+                                      :data:
+                                        :modhash: a4j52851g78bdcb30e3d252c69022764cb0cecc80e7cefaf78
+                                        :children:
+                                        - :kind: t1
+                                          :data:
+                                            :subreddit_id: t5_2qkbe
+                                            :banned_by: 
+                                            :link_id: t3_31b733
+                                            :likes: 
+                                            :replies: ''
+                                            :user_reports: []
+                                            :saved: false
+                                            :id: cq0f566
+                                            :gilded: 0
+                                            :archived: false
+                                            :report_reasons: 
+                                            :author: woodsxc
+                                            :parent_id: t1_cq0ckl8
+                                            :score: 3
+                                            :approved_by: 
+                                            :controversiality: 0
+                                            :body: |-
+                                              Brian Mujati is.
+                                              http://www.dailynews.co.zw/articles/2014/08/19/the-life-of-brian-mujati
+                                            :edited: 1428100153.0
+                                            :author_flair_css_class: usa
+                                            :downs: 0
+                                            :body_html: |-
+                                              &lt;div class="md"&gt;&lt;p&gt;Brian Mujati is.
+                                              &lt;a href="http://www.dailynews.co.zw/articles/2014/08/19/the-life-of-brian-mujati"&gt;http://www.dailynews.co.zw/articles/2014/08/19/the-life-of-brian-mujati&lt;/a&gt;&lt;/p&gt;
+                                              &lt;/div&gt;
+                                            :subreddit: rugbyunion
+                                            :score_hidden: false
+                                            :name: t1_cq0f566
+                                            :created: 1428103571.0
+                                            :author_flair_text: USA
+                                            :created_utc: 1428099971.0
+                                            :distinguished: 
+                                            :mod_reports: []
+                                            :num_reports: 
+                                            :ups: 3
+                                        :after: 
+                                        :before: 
+                                    :user_reports: []
+                                    :saved: false
+                                    :id: cq0ckl8
+                                    :gilded: 0
+                                    :archived: false
+                                    :report_reasons: 
+                                    :author: RhodiusMaximus
+                                    :parent_id: t1_cq07zqn
+                                    :score: 4
+                                    :approved_by: 
+                                    :controversiality: 0
+                                    :body: 110 kg and 10% body fat. Not sure you will
+                                      ever see a prop this ridiculously shredded...
+                                    :edited: false
+                                    :author_flair_css_class: 
+                                    :downs: 0
+                                    :body_html: |-
+                                      &lt;div class="md"&gt;&lt;p&gt;110 kg and 10% body fat. Not sure you will ever see a prop this ridiculously shredded...&lt;/p&gt;
+                                      &lt;/div&gt;
+                                    :subreddit: rugbyunion
+                                    :score_hidden: false
+                                    :name: t1_cq0ckl8
+                                    :created: 1428124049.0
+                                    :author_flair_text: 
+                                    :created_utc: 1428095249.0
+                                    :ups: 4
+                                    :mod_reports: []
+                                    :num_reports: 
+                                    :distinguished: 
+                                - :kind: t1
+                                  :data:
+                                    :subreddit_id: t5_2qkbe
+                                    :banned_by: 
+                                    :link_id: t3_31b733
+                                    :likes: 
+                                    :replies: ''
+                                    :user_reports: []
+                                    :saved: false
+                                    :id: cq0d837
+                                    :gilded: 0
+                                    :archived: false
+                                    :report_reasons: 
+                                    :author: MyPersonalBubble
+                                    :parent_id: t1_cq07zqn
+                                    :score: 2
+                                    :approved_by: 
+                                    :controversiality: 0
+                                    :body: i put on the chub and started getting used
+                                      more than people who are more athletic or better
+                                      in the loose just because i'm harder to move.
+                                      i'm not going to sell myself short; my dark
+                                      arts game is strong. but i've had a bunch of
+                                      people mention that my extra bulk is worth the
+                                      sacrifice a little speed out of one of the tight
+                                      5. YMMV.
+                                    :edited: false
+                                    :author_flair_css_class: usa
+                                    :downs: 0
+                                    :body_html: |-
+                                      &lt;div class="md"&gt;&lt;p&gt;i put on the chub and started getting used more than people who are more athletic or better in the loose just because i&amp;#39;m harder to move. i&amp;#39;m not going to sell myself short; my dark arts game is strong. but i&amp;#39;ve had a bunch of people mention that my extra bulk is worth the sacrifice a little speed out of one of the tight 5. YMMV.&lt;/p&gt;
+                                      &lt;/div&gt;
+                                    :subreddit: rugbyunion
+                                    :score_hidden: false
+                                    :name: t1_cq0d837
+                                    :created: 1428100014.0
+                                    :author_flair_text: prop, lock it, drop it
+                                    :created_utc: 1428096414.0
+                                    :ups: 2
+                                    :mod_reports: []
+                                    :num_reports: 
+                                    :distinguished: 
+                                - :kind: t1
+                                  :data:
+                                    :subreddit_id: t5_2qkbe
+                                    :banned_by: 
+                                    :link_id: t3_31b733
+                                    :likes: 
+                                    :replies:
+                                      :kind: Listing
+                                      :data:
+                                        :modhash: a4j52851g78bdcb30e3d252c69022764cb0cecc80e7cefaf78
+                                        :children:
+                                        - :kind: t1
+                                          :data:
+                                            :subreddit_id: t5_2qkbe
+                                            :banned_by: 
+                                            :link_id: t3_31b733
+                                            :likes: 
+                                            :replies: ''
+                                            :user_reports: []
+                                            :saved: false
+                                            :id: cq0js0y
+                                            :gilded: 0
+                                            :archived: false
+                                            :report_reasons: 
+                                            :author: generic_username_
+                                            :parent_id: t1_cq0fyp1
+                                            :score: 2
+                                            :approved_by: 
+                                            :controversiality: 0
+                                            :body: In his videos he weighs himself
+                                              at 106kgs and he is comfortable at that.
+                                              He dropped from 125 or something like
+                                              that!
+                                            :edited: false
+                                            :author_flair_css_class: 
+                                            :downs: 0
+                                            :body_html: |-
+                                              &lt;div class="md"&gt;&lt;p&gt;In his videos he weighs himself at 106kgs and he is comfortable at that. He dropped from 125 or something like that!&lt;/p&gt;
+                                              &lt;/div&gt;
+                                            :subreddit: rugbyunion
+                                            :score_hidden: false
+                                            :name: t1_cq0js0y
+                                            :created: 1428138311.0
+                                            :author_flair_text: 
+                                            :created_utc: 1428109511.0
+                                            :distinguished: 
+                                            :mod_reports: []
+                                            :num_reports: 
+                                            :ups: 2
+                                        :after: 
+                                        :before: 
+                                    :user_reports: []
+                                    :saved: false
+                                    :id: cq0fyp1
+                                    :gilded: 0
+                                    :archived: false
+                                    :report_reasons: 
+                                    :author: LegendxFundz
+                                    :parent_id: t1_cq07zqn
+                                    :score: 1
+                                    :approved_by: 
+                                    :controversiality: 0
+                                    :body: "I was wondering how much he weighs now,
+                                      googling only brought up his weight as 118.
+                                      That's pretty insane. Haven't followed him since
+                                      he played in SA, how's his scrummaging? Does
+                                      he get around the field an extraordinary amount?
+                                      \n\nEDIT: Wiki has him as 105, which seems tiny
+                                      for a prop. "
+                                    :edited: false
+                                    :author_flair_css_class: six
+                                    :downs: 0
+                                    :body_html: |-
+                                      &lt;div class="md"&gt;&lt;p&gt;I was wondering how much he weighs now, googling only brought up his weight as 118. That&amp;#39;s pretty insane. Haven&amp;#39;t followed him since he played in SA, how&amp;#39;s his scrummaging? Does he get around the field an extraordinary amount? &lt;/p&gt;
+
+                                      &lt;p&gt;EDIT: Wiki has him as 105, which seems tiny for a prop. &lt;/p&gt;
+                                      &lt;/div&gt;
+                                    :subreddit: rugbyunion
+                                    :score_hidden: false
+                                    :name: t1_cq0fyp1
+                                    :created: 1428105159.0
+                                    :author_flair_text: Openside
+                                    :created_utc: 1428101559.0
+                                    :ups: 1
+                                    :mod_reports: []
+                                    :num_reports: 
+                                    :distinguished: 
+                                :after: 
+                                :before: 
+                            :user_reports: []
+                            :saved: false
+                            :id: cq07zqn
+                            :gilded: 0
+                            :archived: false
+                            :report_reasons: 
+                            :author: woodsxc
+                            :parent_id: t1_cq03e83
+                            :score: 7
+                            :approved_by: 
+                            :controversiality: 0
+                            :body: "One of my teammates, a prop, has dropped about
+                              14 kgs (30 lbs) leading up to this season.  He feels
+                              like he's scrumming better and is more effective on
+                              the field without the extra weight.  \n\nI would think
+                              that a 110 kg prop with 10% body fat would be just as
+                              powerful as a 120 kg prop at 18% body fat. It would
+                              seem that if their skills were the same, the more physically
+                              fit prop would be a better choice than a heavier prop.\n\nI'm
+                              just a back trying to learn about the other half, so
+                              if I'm totally off the mark, just say so."
+                            :edited: false
+                            :author_flair_css_class: usa
+                            :downs: 0
+                            :body_html: |-
+                              &lt;div class="md"&gt;&lt;p&gt;One of my teammates, a prop, has dropped about 14 kgs (30 lbs) leading up to this season.  He feels like he&amp;#39;s scrumming better and is more effective on the field without the extra weight.  &lt;/p&gt;
+
+                              &lt;p&gt;I would think that a 110 kg prop with 10% body fat would be just as powerful as a 120 kg prop at 18% body fat. It would seem that if their skills were the same, the more physically fit prop would be a better choice than a heavier prop.&lt;/p&gt;
+
+                              &lt;p&gt;I&amp;#39;m just a back trying to learn about the other half, so if I&amp;#39;m totally off the mark, just say so.&lt;/p&gt;
+                              &lt;/div&gt;
+                            :subreddit: rugbyunion
+                            :score_hidden: false
+                            :name: t1_cq07zqn
+                            :created: 1428116062.0
+                            :author_flair_text: USA
+                            :created_utc: 1428087262.0
+                            :distinguished: 
+                            :mod_reports: []
+                            :num_reports: 
+                            :ups: 7
+                        :after: 
+                        :before: 
+                    :user_reports: []
+                    :saved: false
+                    :id: cq03e83
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: GlenHelder
+                    :parent_id: t1_cq023ke
+                    :score: 3
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: His reasoning is slightly depressing tho. He says that
+                      whatever he's losing in the scrum by being lighter doesn't matter
+                      cause refs are guessing at scrum time. Doesn't really matter
+                      who is on top. Probably right but not great to hear from a player.
+                    :edited: false
+                    :author_flair_css_class: ireland
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;His reasoning is slightly depressing tho. He says that whatever he&amp;#39;s losing in the scrum by being lighter doesn&amp;#39;t matter cause refs are guessing at scrum time. Doesn&amp;#39;t really matter who is on top. Probably right but not great to hear from a player.&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq03e83
+                    :created: 1428108459.0
+                    :author_flair_text: Ireland
+                    :created_utc: 1428079659.0
+                    :ups: 3
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq023ke
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: dekx11
+            :parent_id: t1_cq01oyt
+            :score: 9
+            :approved_by: 
+            :controversiality: 0
+            :body: 'He makes a very good argument for his decision to pursue both
+              though. If you watch the video called Rugby Theories or something along
+              those lines he explains how he hasn''t lost anything in the way of strength,
+              flexibility, scrumming ability etc even though he has lost considerable
+              body fat. He has always been into bodybuilding, he is just leaner. '
+            :edited: false
+            :author_flair_css_class: 
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;He makes a very good argument for his decision to pursue both though. If you watch the video called Rugby Theories or something along those lines he explains how he hasn&amp;#39;t lost anything in the way of strength, flexibility, scrumming ability etc even though he has lost considerable body fat. He has always been into bodybuilding, he is just leaner. &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq023ke
+            :created: 1428106299.0
+            :author_flair_text: 
+            :created_utc: 1428077499.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 9
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq01oyt
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Buddygunz
+    :parent_id: t3_31b733
+    :score: 8
+    :approved_by: 
+    :controversiality: 0
+    :body: 'These are nuts. The guy is owing his own bodybuilding training whilst
+      being a full time pro. Clearly doesn''t give a fuck about the functional stuff. '
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;These are nuts. The guy is owing his own bodybuilding training whilst being a full time pro. Clearly doesn&amp;#39;t give a fuck about the functional stuff. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq01oyt
+    :created: 1428105620.0
+    :author_flair_text: 
+    :created_utc: 1428076820.0
+    :ups: 8
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31b733
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0q0bl
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Byxit
+    :parent_id: t3_31b733
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: 'This guy is a warrior, a Zulu Matabele warrior. What a man! Zimbabwean,
+      from Matabeleland. The Matabeles, led by a Shaka Induna called Mzilikazi split
+      off from Shaka over 200 years ago and eventually settled in what is now Matabeleland
+      in Western Zimbabwe. Mzilikazis Royal seat was called Gubulawayo, the Place
+      of Killing. Brian was born in Bulawayo. It was called this because Mzilikazi
+      executed a whole bunch of his Indunas there for plotting against him. They thought
+      he was dead as he had not appeared for over two years. Big mistake. His son
+      Lobengula got into some serious wars with Cecil John Rhode''s thugs called the
+      British South Africa Police. The Matabeles originally ran rampage over the local
+      farming Shona tribes. Today, they are in minority in Zimbabwe and have suffered
+      the consequences. It is thrilling to see this man playing professional rugby,
+      and sharing his life on You Tube. '
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;This guy is a warrior, a Zulu Matabele warrior. What a man! Zimbabwean, from Matabeleland. The Matabeles, led by a Shaka Induna called Mzilikazi split off from Shaka over 200 years ago and eventually settled in what is now Matabeleland in Western Zimbabwe. Mzilikazis Royal seat was called Gubulawayo, the Place of Killing. Brian was born in Bulawayo. It was called this because Mzilikazi executed a whole bunch of his Indunas there for plotting against him. They thought he was dead as he had not appeared for over two years. Big mistake. His son Lobengula got into some serious wars with Cecil John Rhode&amp;#39;s thugs called the British South Africa Police. The Matabeles originally ran rampage over the local farming Shona tribes. Today, they are in minority in Zimbabwe and have suffered the consequences. It is thrilling to see this man playing professional rugby, and sharing his life on You Tube. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0q0bl
+    :created: 1428153041.0
+    :author_flair_text: 
+    :created_utc: 1428124241.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31b733
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0dk5l
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: gphillips5
+    :parent_id: t3_31b733
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Please come back, Brian, we love you. '
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Please come back, Brian, we love you. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0dk5l
+    :created: 1428100622.0
+    :author_flair_text: 
+    :created_utc: 1428097022.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31b733
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0ftmu
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: LegendxFundz
+    :parent_id: t3_31b733
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Brian is really surprisingly lean. '
+    :edited: false
+    :author_flair_css_class: six
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Brian is really surprisingly lean. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0ftmu
+    :created: 1428104887.0
+    :author_flair_text: Openside
+    :created_utc: 1428101287.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31b733
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0jymk
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: blackers123
+    :parent_id: t3_31b733
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: MOOOOJ
+    :edited: false
+    :author_flair_css_class: northampton
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;MOOOOJ&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0jymk
+    :created: 1428113514.0
+    :author_flair_text: COYS
+    :created_utc: 1428109914.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31b733
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0totd
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Dontevenjoke
+    :parent_id: t3_31b733
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: Well, there goes my afternoon... Awesome guy, awesome videos. Love it!
+    :edited: false
+    :author_flair_css_class: melbourne-rebels
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Well, there goes my afternoon... Awesome guy, awesome videos. Love it!&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0totd
+    :created: 1428142062.0
+    :author_flair_text: Melbourne Rebels, Rising, Bulls, Boks
+    :created_utc: 1428138462.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

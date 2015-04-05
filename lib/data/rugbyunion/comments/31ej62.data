@@ -1,0 +1,1069 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ej62
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 5e3z1t82nu8ff24793a4d6d93c797136f50e5c022674470eac
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31ej62
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: 5e3z1t82nu8ff24793a4d6d93c797136f50e5c022674470eac
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31ej62
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0wfze
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: Tyestor
+                    :parent_id: t1_cq0uox9
+                    :score: 5
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: race you there.
+                    :edited: false
+                    :author_flair_css_class: reds
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;race you there.&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0wfze
+                    :created: 1428180543.0
+                    :author_flair_text: Reds
+                    :created_utc: 1428151743.0
+                    :ups: 5
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31ej62
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq1g8xq
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: krakkerz
+                    :parent_id: t1_cq0uox9
+                    :score: 4
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: You'll get us on points, though. At least you can get a
+                      bonus point here and there.
+                    :edited: false
+                    :author_flair_css_class: australia
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;You&amp;#39;ll get us on points, though. At least you can get a bonus point here and there.&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq1g8xq
+                    :created: 1428221620.0
+                    :author_flair_text: Australia
+                    :created_utc: 1428192820.0
+                    :ups: 4
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0uox9
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: itoldyouiwouldeatyou
+            :parent_id: t1_cq0t8oh
+            :score: 6
+            :approved_by: 
+            :controversiality: 0
+            :body: |-
+              You guys are going all out to secure that wooden spoon.
+
+              But fuck you guys... 0-7 baby... beat that
+            :edited: false
+            :author_flair_css_class: auckland
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;You guys are going all out to secure that wooden spoon.&lt;/p&gt;
+
+              &lt;p&gt;But fuck you guys... 0-7 baby... beat that&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0uox9
+            :created: 1428172745.0
+            :author_flair_text: Auckland
+            :created_utc: 1428143945.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 6
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31ej62
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0xexh
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: Reds_Klizun
+            :parent_id: t1_cq0t8oh
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: I'm not too worried about Schatz, it gives Browning a real chance
+              to stake a claim for the jersey, and I think he's looking really great
+              in the opportunities he's been given
+            :edited: false
+            :author_flair_css_class: reds
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;I&amp;#39;m not too worried about Schatz, it gives Browning a real chance to stake a claim for the jersey, and I think he&amp;#39;s looking really great in the opportunities he&amp;#39;s been given&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0xexh
+            :created: 1428183598.0
+            :author_flair_text: Reds
+            :created_utc: 1428154798.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0t8oh
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: GreatJusticeForSGU
+    :parent_id: t3_31ej62
+    :score: 8
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      Reds just can't take a trick this year.
+
+      Schatz also out for at least four weeks.
+    :edited: false
+    :author_flair_css_class: reds
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Reds just can&amp;#39;t take a trick this year.&lt;/p&gt;
+
+      &lt;p&gt;Schatz also out for at least four weeks.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0t8oh
+    :created: 1428165019.0
+    :author_flair_text: Reds
+    :created_utc: 1428136219.0
+    :ups: 8
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ej62
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq14494
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Johnson96
+    :parent_id: t3_31ej62
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: '[Reds fans celebrating his return.](http://i.imgur.com/GBLZrZ6.gif)'
+    :edited: false
+    :author_flair_css_class: nine
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;&lt;a href="http://i.imgur.com/GBLZrZ6.gif"&gt;Reds fans celebrating his return.&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq14494
+    :created: 1428198205.0
+    :author_flair_text: Scrumhalf stringer
+    :created_utc: 1428169405.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ej62
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0ta2u
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: deadlysyntax
+    :parent_id: t3_31ej62
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: This is a real shame. It would have been great to see Cooper have the opportunity
+      to atone for his last miserable world cup. And the Reds are wearing it thick
+      this year.
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;This is a real shame. It would have been great to see Cooper have the opportunity to atone for his last miserable world cup. And the Reds are wearing it thick this year.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0ta2u
+    :created: 1428140006.0
+    :author_flair_text: 
+    :created_utc: 1428136406.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ej62
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0uapk
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: I_Gets_The_Reference
+    :parent_id: t3_31ej62
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Really sad to see this.
+    :edited: false
+    :author_flair_css_class: south-africa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Really sad to see this.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0uapk
+    :created: 1428145335.0
+    :author_flair_text: South Africa
+    :created_utc: 1428141735.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ej62
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 5e3z1t82nu8ff24793a4d6d93c797136f50e5c022674470eac
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31ej62
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: 5e3z1t82nu8ff24793a4d6d93c797136f50e5c022674470eac
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31ej62
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0vrqy
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: Reds_Klizun
+                    :parent_id: t1_cq0vbpx
+                    :score: 2
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: |
+                      With cooper we may have been able to win back a few games, and save face perhaps. Now we'll be lucky not to come last, although the blues are having a torrid season too...
+                    :edited: false
+                    :author_flair_css_class: reds
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;With cooper we may have been able to win back a few games, and save face perhaps. Now we&amp;#39;ll be lucky not to come last, although the blues are having a torrid season too...&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0vrqy
+                    :created: 1428178094.0
+                    :author_flair_text: Reds
+                    :created_utc: 1428149294.0
+                    :ups: 2
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0vbpx
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: DoctorDbx
+            :parent_id: t1_cq0v1vd
+            :score: 4
+            :approved_by: 
+            :controversiality: 0
+            :body: To be fair that was gone already.
+            :edited: false
+            :author_flair_css_class: reds
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;To be fair that was gone already.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0vbpx
+            :created: 1428176101.0
+            :author_flair_text: Reds
+            :created_utc: 1428147301.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 4
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0v1vd
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Reds_Klizun
+    :parent_id: t3_31ej62
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: And there goes any chance of salvaging anything from this season...
+    :edited: false
+    :author_flair_css_class: reds
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;And there goes any chance of salvaging anything from this season...&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0v1vd
+    :created: 1428174706.0
+    :author_flair_text: Reds
+    :created_utc: 1428145906.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ej62
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 5e3z1t82nu8ff24793a4d6d93c797136f50e5c022674470eac
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31ej62
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq10wcy
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: anticsrugby
+            :parent_id: t1_cq0vc6g
+            :score: 4
+            :approved_by: 
+            :controversiality: 0
+            :body: I'm just astonished he was "cleared" to play by the inept Reds
+              physio/S&amp;C staff (who recently walked out, another story entirely)
+              only to injure the same fucking shoulder for the third time now. I really
+              do think they have a role to play in this now (especially considering
+              our massive injury lists under the same group for the 2 seasons preceding
+              this one), that's just not coincidence and shouldn't happen in this
+              short of a period of time with the medical technology available to sports
+              teams in competitions such as Super Rugby.
+            :edited: false
+            :author_flair_css_class: reds
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;I&amp;#39;m just astonished he was &amp;quot;cleared&amp;quot; to play by the inept Reds physio/S&amp;amp;C staff (who recently walked out, another story entirely) only to injure the same fucking shoulder for the third time now. I really do think they have a role to play in this now (especially considering our massive injury lists under the same group for the 2 seasons preceding this one), that&amp;#39;s just not coincidence and shouldn&amp;#39;t happen in this short of a period of time with the medical technology available to sports teams in competitions such as Super Rugby.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq10wcy
+            :created: 1428191860.0
+            :author_flair_text: Reds
+            :created_utc: 1428163060.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 4
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31ej62
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0xiam
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: DoctorDbx
+            :parent_id: t1_cq0vc6g
+            :score: 4
+            :approved_by: 
+            :controversiality: 0
+            :body: Look at Lachie Turner
+            :edited: false
+            :author_flair_css_class: reds
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Look at Lachie Turner&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0xiam
+            :created: 1428183849.0
+            :author_flair_text: Reds
+            :created_utc: 1428155049.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 4
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0vc6g
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: DubRichardson
+    :parent_id: t3_31ej62
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: 'I love quade as a player, but at what point does a career have to end
+      when you keep on getting injured. He had the ACL in 2011, then his hip right?
+      Then either shoulder or collar bone and now this. '
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I love quade as a player, but at what point does a career have to end when you keep on getting injured. He had the ACL in 2011, then his hip right? Then either shoulder or collar bone and now this. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0vc6g
+    :created: 1428176165.0
+    :author_flair_text: 
+    :created_utc: 1428147365.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ej62
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0zi17
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: lynam1104
+    :parent_id: t3_31ej62
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Should probably leave the Reds given they seem to be cursed. '
+    :edited: false
+    :author_flair_css_class: leinster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Should probably leave the Reds given they seem to be cursed. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0zi17
+    :created: 1428188859.0
+    :author_flair_text: Leinster
+    :created_utc: 1428160059.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ej62
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1s0gt
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: sennais1
+    :parent_id: t3_31ej62
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Course he is.
+    :edited: false
+    :author_flair_css_class: reds
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Course he is.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1s0gt
+    :created: 1428250283.0
+    :author_flair_text: If found return to Caxton Street.
+    :created_utc: 1428221483.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ej62
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 5e3z1t82nu8ff24793a4d6d93c797136f50e5c022674470eac
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31ej62
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: 5e3z1t82nu8ff24793a4d6d93c797136f50e5c022674470eac
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31ej62
+                    :likes: 
+                    :replies:
+                      :kind: Listing
+                      :data:
+                        :modhash: 5e3z1t82nu8ff24793a4d6d93c797136f50e5c022674470eac
+                        :children:
+                        - :kind: t1
+                          :data:
+                            :subreddit_id: t5_2qkbe
+                            :banned_by: 
+                            :link_id: t3_31ej62
+                            :likes: 
+                            :replies: ''
+                            :user_reports: []
+                            :saved: false
+                            :id: cq11ph3
+                            :gilded: 0
+                            :archived: false
+                            :report_reasons: 
+                            :author: douthinkthisisagame
+                            :parent_id: t1_cq0xhp6
+                            :score: 1
+                            :approved_by: 
+                            :controversiality: 0
+                            :body: 'I''m pretty sure it does at the end of the year '
+                            :edited: false
+                            :author_flair_css_class: australia
+                            :downs: 0
+                            :body_html: |-
+                              &lt;div class="md"&gt;&lt;p&gt;I&amp;#39;m pretty sure it does at the end of the year &lt;/p&gt;
+                              &lt;/div&gt;
+                            :subreddit: rugbyunion
+                            :score_hidden: false
+                            :name: t1_cq11ph3
+                            :created: 1428193505.0
+                            :author_flair_text: Australia
+                            :created_utc: 1428164705.0
+                            :distinguished: 
+                            :mod_reports: []
+                            :num_reports: 
+                            :ups: 1
+                        - :kind: t1
+                          :data:
+                            :subreddit_id: t5_2qkbe
+                            :banned_by: 
+                            :link_id: t3_31ej62
+                            :likes: 
+                            :replies: ''
+                            :user_reports: []
+                            :saved: false
+                            :id: cq1rmjx
+                            :gilded: 0
+                            :archived: false
+                            :report_reasons: 
+                            :author: Tyestor
+                            :parent_id: t1_cq0xhp6
+                            :score: 1
+                            :approved_by: 
+                            :controversiality: 0
+                            :body: this comes up every time we lose a game, cooper
+                              gets injured, cooper throws  a forward pass, cooper
+                              throws a pass into the stands, cooper misses a tackle,
+                              cooper tackles someone, cooper gets tackled, cooper
+                              steps someone, cooper steps into someone, cooper gets
+                              booed by kiwis and at the end of every season. par for
+                              the course.
+                            :edited: false
+                            :author_flair_css_class: reds
+                            :downs: 0
+                            :body_html: |-
+                              &lt;div class="md"&gt;&lt;p&gt;this comes up every time we lose a game, cooper gets injured, cooper throws  a forward pass, cooper throws a pass into the stands, cooper misses a tackle, cooper tackles someone, cooper gets tackled, cooper steps someone, cooper steps into someone, cooper gets booed by kiwis and at the end of every season. par for the course.&lt;/p&gt;
+                              &lt;/div&gt;
+                            :subreddit: rugbyunion
+                            :score_hidden: false
+                            :name: t1_cq1rmjx
+                            :created: 1428248628.0
+                            :author_flair_text: Reds
+                            :created_utc: 1428219828.0
+                            :distinguished: 
+                            :mod_reports: []
+                            :num_reports: 
+                            :ups: 1
+                        :after: 
+                        :before: 
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0xhp6
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: DoctorDbx
+                    :parent_id: t1_cq0wwxj
+                    :score: 2
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: His contract hasn't run out though.
+                    :edited: false
+                    :author_flair_css_class: reds
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;His contract hasn&amp;#39;t run out though.&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0xhp6
+                    :created: 1428183804.0
+                    :author_flair_text: Reds
+                    :created_utc: 1428155004.0
+                    :ups: 2
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0wwxj
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: douthinkthisisagame
+            :parent_id: t1_cq0vcea
+            :score: 1
+            :approved_by: 
+            :controversiality: 0
+            :body: Highly doubt he's going to league. This comes up every time his
+              contract runs out
+            :edited: false
+            :author_flair_css_class: australia
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Highly doubt he&amp;#39;s going to league. This comes up every time his contract runs out&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0wwxj
+            :created: 1428182132.0
+            :author_flair_text: Australia
+            :created_utc: 1428153332.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 1
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0vcea
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: DoctorDbx
+    :parent_id: t3_31ej62
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      I don't think he will be back for the Reds next year. The word on the street is he has already begun discussions with Rugby League clubs, including the Eels and the Broncos.
+
+      That could be the last time we see him in Red.
+    :edited: false
+    :author_flair_css_class: reds
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I don&amp;#39;t think he will be back for the Reds next year. The word on the street is he has already begun discussions with Rugby League clubs, including the Eels and the Broncos.&lt;/p&gt;
+
+      &lt;p&gt;That could be the last time we see him in Red.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0vcea
+    :created: 1428150996.0
+    :author_flair_text: Reds
+    :created_utc: 1428147396.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ej62
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0vxv2
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Squid_Chunks
+    :parent_id: t3_31ej62
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: "Holy shit that must hurt! I had half a dozen tiny holes drilled in mine
+      and that was the most pain I have ever had! \n\nFeel sorry for him, would have
+      been great to see him hit his strides for the world cup, he definitely has unfinished
+      business there..."
+    :edited: false
+    :author_flair_css_class: brumbles
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Holy shit that must hurt! I had half a dozen tiny holes drilled in mine and that was the most pain I have ever had! &lt;/p&gt;
+
+      &lt;p&gt;Feel sorry for him, would have been great to see him hit his strides for the world cup, he definitely has unfinished business there...&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0vxv2
+    :created: 1428178774.0
+    :author_flair_text: Brumbies
+    :created_utc: 1428149974.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ej62
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 5e3z1t82nu8ff24793a4d6d93c797136f50e5c022674470eac
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31ej62
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: 5e3z1t82nu8ff24793a4d6d93c797136f50e5c022674470eac
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31ej62
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq14zdk
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: penguin_bro
+                    :parent_id: t1_cq0y5cd
+                    :score: 4
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: Reds medical player management has to improve.
+                    :edited: false
+                    :author_flair_css_class: ulster
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;Reds medical player management has to improve.&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq14zdk
+                    :created: 1428199888.0
+                    :author_flair_text: Ulster
+                    :created_utc: 1428171088.0
+                    :ups: 4
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31ej62
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq10yem
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: anticsrugby
+                    :parent_id: t1_cq0y5cd
+                    :score: 2
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: "Third injury to the same shoulder almost immediately after
+                      being brought back both fucking times now. It's either the former
+                      S&amp;C/Physio staff are a bunch of fucking clowns or Dick has
+                      been rushing him back repeatedly... like he did with JOC at
+                      the beginning of the season turning a minor hamstring niggle
+                      into a multi-week problem. \n\nJust unreal stuff."
+                    :edited: false
+                    :author_flair_css_class: reds
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;Third injury to the same shoulder almost immediately after being brought back both fucking times now. It&amp;#39;s either the former S&amp;amp;C/Physio staff are a bunch of fucking clowns or Dick has been rushing him back repeatedly... like he did with JOC at the beginning of the season turning a minor hamstring niggle into a multi-week problem. &lt;/p&gt;
+
+                      &lt;p&gt;Just unreal stuff.&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq10yem
+                    :created: 1428191976.0
+                    :author_flair_text: Reds
+                    :created_utc: 1428163176.0
+                    :ups: 2
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31ej62
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0zs2j
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: JackEOrr
+                    :parent_id: t1_cq0y5cd
+                    :score: 1
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: Fair enough, looked fine on attack though. Just a pity
+                      to see him come back from injury and go out again right away.
+                    :edited: false
+                    :author_flair_css_class: ireland
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;Fair enough, looked fine on attack though. Just a pity to see him come back from injury and go out again right away.&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0zs2j
+                    :created: 1428189481.0
+                    :author_flair_text: Ireland
+                    :created_utc: 1428160681.0
+                    :ups: 1
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0y5cd
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: I_AM_YURI
+            :parent_id: t1_cq0wqt3
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: Dude last week he was trying his hardest not to use his shoulder
+              at all, hence the jersey throws
+            :edited: false
+            :author_flair_css_class: australia
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Dude last week he was trying his hardest not to use his shoulder at all, hence the jersey throws&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0y5cd
+            :created: 1428185592.0
+            :author_flair_text: Australia
+            :created_utc: 1428156792.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0wqt3
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: JackEOrr
+    :parent_id: t3_31ej62
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: Is Cooper made of butter or something? He looked so good last week and
+      now this.
+    :edited: false
+    :author_flair_css_class: ireland
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Is Cooper made of butter or something? He looked so good last week and now this.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0wqt3
+    :created: 1428181566.0
+    :author_flair_text: Ireland
+    :created_utc: 1428152766.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

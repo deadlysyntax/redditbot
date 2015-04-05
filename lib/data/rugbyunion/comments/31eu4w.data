@@ -1,0 +1,130 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eu4w
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0w4xs
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: TermWerker
+    :parent_id: t3_31eu4w
+    :score: 8
+    :approved_by: 
+    :controversiality: 0
+    :body: "Don't be nervous. Enjoy it man, it's a chance to smash up your best mates
+      and have fun! They'll be setting themselves up to try and get a big hit on you,
+      and you should be doing the same. Don't feel you have to prove anything, just
+      play it as you would any other game \n\nI left the club all my mates were at
+      at the Starr of the season for a better, more competitive club, and when we've
+      played, they go all out to hit me as hard as I can! Just enjoy the banter in
+      the bar afterwards!"
+    :edited: false
+    :author_flair_css_class: northampton
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Don&amp;#39;t be nervous. Enjoy it man, it&amp;#39;s a chance to smash up your best mates and have fun! They&amp;#39;ll be setting themselves up to try and get a big hit on you, and you should be doing the same. Don&amp;#39;t feel you have to prove anything, just play it as you would any other game &lt;/p&gt;
+
+      &lt;p&gt;I left the club all my mates were at at the Starr of the season for a better, more competitive club, and when we&amp;#39;ve played, they go all out to hit me as hard as I can! Just enjoy the banter in the bar afterwards!&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0w4xs
+    :created: 1428179487.0
+    :author_flair_text: Hartly For President
+    :created_utc: 1428150687.0
+    :ups: 8
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eu4w
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0xwp8
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: HiSpain
+    :parent_id: t3_31eu4w
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: "I loved playing against my old team. It was a great catch up and a fantastic
+      opportunity to be a bit cheeky with my play. \n\nI suppose it depends on the
+      ethos of your old team and your new one more than anything. "
+    :edited: false
+    :author_flair_css_class: london-welsh
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I loved playing against my old team. It was a great catch up and a fantastic opportunity to be a bit cheeky with my play. &lt;/p&gt;
+
+      &lt;p&gt;I suppose it depends on the ethos of your old team and your new one more than anything. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0xwp8
+    :created: 1428184954.0
+    :author_flair_text: London Welsh
+    :created_utc: 1428156154.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eu4w
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1gccs
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: krakkerz
+    :parent_id: t3_31eu4w
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      They will pick at you and harass you, try to snot you every chance they get and will goad you as much as possible at every break in play.
+
+      You should do much the same.
+
+      It'll probably be the best fun you've ever had playing footy.
+    :edited: false
+    :author_flair_css_class: australia
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;They will pick at you and harass you, try to snot you every chance they get and will goad you as much as possible at every break in play.&lt;/p&gt;
+
+      &lt;p&gt;You should do much the same.&lt;/p&gt;
+
+      &lt;p&gt;It&amp;#39;ll probably be the best fun you&amp;#39;ve ever had playing footy.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1gccs
+    :created: 1428221807.0
+    :author_flair_text: Australia
+    :created_utc: 1428193007.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

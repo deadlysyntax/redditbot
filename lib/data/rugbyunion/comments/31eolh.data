@@ -1,0 +1,763 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0urr0
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: wn_
+    :parent_id: t3_31eolh
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: I'm hyped for the Hal Amos show
+    :edited: false
+    :author_flair_css_class: newport
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I&amp;#39;m hyped for the Hal Amos show&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0urr0
+    :created: 1428173185.0
+    :author_flair_text: Pride of Wales
+    :created_utc: 1428144385.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0vfra
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: jamiroq
+    :parent_id: t3_31eolh
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: TAVIS KNOYLE AT 12? WHAT IS THIS
+    :edited: false
+    :author_flair_css_class: wales
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;TAVIS KNOYLE AT 12? WHAT IS THIS&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0vfra
+    :created: 1428176634.0
+    :author_flair_text: Wales
+    :created_utc: 1428147834.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0x270
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Alpha_Nathan
+    :parent_id: t3_31eolh
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: Cardiff kit is just terrible
+    :edited: false
+    :author_flair_css_class: ulster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Cardiff kit is just terrible&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0x270
+    :created: 1428182591.0
+    :author_flair_text: Ulster
+    :created_utc: 1428153791.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: fp3gkmhs783ca54ab7ebda1871a26fee4e5d6247f08ac1b0ff
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31eolh
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: fp3gkmhs783ca54ab7ebda1871a26fee4e5d6247f08ac1b0ff
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31eolh
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0wbuz
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: the_lust_monster
+                    :parent_id: t1_cq0urnv
+                    :score: 1
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: 'And rightly so. '
+                    :edited: false
+                    :author_flair_css_class: scotland
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;And rightly so. &lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0wbuz
+                    :created: 1428180146.0
+                    :author_flair_text: Scotland
+                    :created_utc: 1428151346.0
+                    :ups: 1
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0urnv
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: wn_
+            :parent_id: t1_cq0uedh
+            :score: 4
+            :approved_by: 
+            :controversiality: 0
+            :body: Dragons management decided to keep the home advantage we had earned
+            :edited: false
+            :author_flair_css_class: newport
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Dragons management decided to keep the home advantage we had earned&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0urnv
+            :created: 1428173173.0
+            :author_flair_text: Pride of Wales
+            :created_utc: 1428144373.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 4
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0uedh
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: HMFCalltheway
+    :parent_id: t3_31eolh
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      What happened to the idea of playing this game at the Millenium?
+
+      I guess the early kick-off time dictated by tv wouldn't have helped the crowd numbers if it was played there.
+    :edited: false
+    :author_flair_css_class: edinburgh
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;What happened to the idea of playing this game at the Millenium?&lt;/p&gt;
+
+      &lt;p&gt;I guess the early kick-off time dictated by tv wouldn&amp;#39;t have helped the crowd numbers if it was played there.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0uedh
+    :created: 1428145912.0
+    :author_flair_text: Gunners
+    :created_utc: 1428142312.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0uo1e
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: richyeh
+    :parent_id: t3_31eolh
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Expecting a Cardiff win, hopefully the dragons can prove me wrong '
+    :edited: false
+    :author_flair_css_class: ospreys
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Expecting a Cardiff win, hopefully the dragons can prove me wrong &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0uo1e
+    :created: 1428147395.0
+    :author_flair_text: The Ospreys
+    :created_utc: 1428143795.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0vj6c
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: HMFCalltheway
+    :parent_id: t3_31eolh
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: Good first try from L Williams for the Blues.
+    :edited: false
+    :author_flair_css_class: edinburgh
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Good first try from L Williams for the Blues.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0vj6c
+    :created: 1428151865.0
+    :author_flair_text: Gunners
+    :created_utc: 1428148265.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0vm5q
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: jamiroq
+    :parent_id: t3_31eolh
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: Hoeata is such a loose cannon
+    :edited: false
+    :author_flair_css_class: wales
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Hoeata is such a loose cannon&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0vm5q
+    :created: 1428152233.0
+    :author_flair_text: Wales
+    :created_utc: 1428148633.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0vom2
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: richyeh
+    :parent_id: t3_31eolh
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: has anyone got a stream? Struggling to find anything.
+    :edited: false
+    :author_flair_css_class: ospreys
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;has anyone got a stream? Struggling to find anything.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0vom2
+    :created: 1428152527.0
+    :author_flair_text: The Ospreys
+    :created_utc: 1428148927.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: fp3gkmhs783ca54ab7ebda1871a26fee4e5d6247f08ac1b0ff
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31eolh
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0w2sc
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: jamiroq
+            :parent_id: t1_cq0w2g6
+            :score: 1
+            :approved_by: 
+            :controversiality: 0
+            :body: If this season is anything to go by, most people would agree
+            :edited: false
+            :author_flair_css_class: wales
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;If this season is anything to go by, most people would agree&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0w2sc
+            :created: 1428179272.0
+            :author_flair_text: Wales
+            :created_utc: 1428150472.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 1
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0w2g6
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: KPATB
+    :parent_id: t3_31eolh
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Would put Amos above Cuthbert in the Welsh wingers ranking
+    :edited: false
+    :author_flair_css_class: glasgow
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Would put Amos above Cuthbert in the Welsh wingers ranking&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0w2g6
+    :created: 1428179236.0
+    :author_flair_text: Glasgow Warriors
+    :created_utc: 1428150436.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0wg8x
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: wn_
+    :parent_id: t3_31eolh
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      This could be interesting. Wouldn't like to call that.
+
+      Edit: Guess not. Thought they'd check that with the TMO
+    :edited: false
+    :author_flair_css_class: newport
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;This could be interesting. Wouldn&amp;#39;t like to call that.&lt;/p&gt;
+
+      &lt;p&gt;Edit: Guess not. Thought they&amp;#39;d check that with the TMO&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0wg8x
+    :created: 1428180569.0
+    :author_flair_text: Pride of Wales
+    :created_utc: 1428151769.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0wlzk
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: wn_
+    :parent_id: t3_31eolh
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: Blues are missing Jenkins. He killed us in the first half.
+    :edited: false
+    :author_flair_css_class: newport
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Blues are missing Jenkins. He killed us in the first half.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0wlzk
+    :created: 1428181110.0
+    :author_flair_text: Pride of Wales
+    :created_utc: 1428152310.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0wojg
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: wn_
+    :parent_id: t3_31eolh
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: That's probably the harshest yellow card and PT I've seen. Lol.
+    :edited: false
+    :author_flair_css_class: newport
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;That&amp;#39;s probably the harshest yellow card and PT I&amp;#39;ve seen. Lol.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0wojg
+    :created: 1428181360.0
+    :author_flair_text: Pride of Wales
+    :created_utc: 1428152560.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0wxzb
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: richyeh
+    :parent_id: t3_31eolh
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Knoyle being Knoyle, no surprises '
+    :edited: false
+    :author_flair_css_class: ospreys
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Knoyle being Knoyle, no surprises &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0wxzb
+    :created: 1428182227.0
+    :author_flair_text: The Ospreys
+    :created_utc: 1428153427.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0x4yq
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: wn_
+    :parent_id: t3_31eolh
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: I'm fully expecting a blues PT here but at least it's running down the
+      clock
+    :edited: false
+    :author_flair_css_class: newport
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I&amp;#39;m fully expecting a blues PT here but at least it&amp;#39;s running down the clock&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0x4yq
+    :created: 1428182821.0
+    :author_flair_text: Pride of Wales
+    :created_utc: 1428154021.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: fp3gkmhs783ca54ab7ebda1871a26fee4e5d6247f08ac1b0ff
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31eolh
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0xcum
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: wn_
+            :parent_id: t1_cq0xc3y
+            :score: 1
+            :approved_by: 
+            :controversiality: 0
+            :body: |-
+              That bloke must have been stood pitch side waiting to run on with his tesco's fireworks.
+
+              Only in Rodney Parade.
+            :edited: false
+            :author_flair_css_class: newport
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;That bloke must have been stood pitch side waiting to run on with his tesco&amp;#39;s fireworks.&lt;/p&gt;
+
+              &lt;p&gt;Only in Rodney Parade.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0xcum
+            :created: 1428183446.0
+            :author_flair_text: Pride of Wales
+            :created_utc: 1428154646.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 1
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0xc3y
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: HMFCalltheway
+    :parent_id: t3_31eolh
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      Those are some annoying fireworks.
+
+      Well done Dragons though, hopefully will see you at Murrayfield.
+    :edited: false
+    :author_flair_css_class: edinburgh
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Those are some annoying fireworks.&lt;/p&gt;
+
+      &lt;p&gt;Well done Dragons though, hopefully will see you at Murrayfield.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0xc3y
+    :created: 1428183393.0
+    :author_flair_text: Gunners
+    :created_utc: 1428154593.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eolh
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0yrwk
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Charredcheese
+    :parent_id: t3_31eolh
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: Just got back from RP, disappointing result but great atmosphere there.
+      Best of luck to the men of Gwent in the semis.
+    :edited: false
+    :author_flair_css_class: england
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Just got back from RP, disappointing result but great atmosphere there. Best of luck to the men of Gwent in the semis.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0yrwk
+    :created: 1428187167.0
+    :author_flair_text: 'Uruguay  '
+    :created_utc: 1428158367.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

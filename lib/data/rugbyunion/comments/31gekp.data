@@ -1,0 +1,434 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gekp
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: t1y91a4oo7483023b2ce77cd10ace93494598e962250c70425
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31gekp
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1e4pq
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: gxy5562
+            :parent_id: t1_cq1cyhg
+            :score: 3
+            :approved_by: 
+            :controversiality: 0
+            :body: agreed. I think the commentator realized he was wrong when he watched
+              the replay, though.
+            :edited: false
+            :author_flair_css_class: 
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;agreed. I think the commentator realized he was wrong when he watched the replay, though.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1e4pq
+            :created: 1428217496.0
+            :author_flair_text: 
+            :created_utc: 1428188696.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 3
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq1cyhg
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: TheNinjaWarrior
+    :parent_id: t3_31gekp
+    :score: 20
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      The commentator saying "He lead with the arm, didn't he?" makes my blood boil.
+
+      Every single player who goes into contact does this. He doesn't lead with the arm. He the players face hits the other players shoulder.
+
+      Fuck. Off.
+    :edited: false
+    :author_flair_css_class: all-blacks
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;The commentator saying &amp;quot;He lead with the arm, didn&amp;#39;t he?&amp;quot; makes my blood boil.&lt;/p&gt;
+
+      &lt;p&gt;Every single player who goes into contact does this. He doesn&amp;#39;t lead with the arm. He the players face hits the other players shoulder.&lt;/p&gt;
+
+      &lt;p&gt;Fuck. Off.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1cyhg
+    :created: 1428215183.0
+    :author_flair_text: Richie McCaw is My Lord and Savior
+    :created_utc: 1428186383.0
+    :ups: 20
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gekp
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1bgvu
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: cacambubba
+    :parent_id: t3_31gekp
+    :score: 10
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Its nice to see how responsive the players/refs/doctors are to these thing.
+      Sucks but sometimes you just get caught with your head in the wrong spot. Hoping
+      for a quick recovery. '
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Its nice to see how responsive the players/refs/doctors are to these thing. Sucks but sometimes you just get caught with your head in the wrong spot. Hoping for a quick recovery. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1bgvu
+    :created: 1428212360.0
+    :author_flair_text: 
+    :created_utc: 1428183560.0
+    :ups: 10
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gekp
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: t1y91a4oo7483023b2ce77cd10ace93494598e962250c70425
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31gekp
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1fe8h
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: rugger62
+            :parent_id: t1_cq1eu69
+            :score: 6
+            :approved_by: 
+            :controversiality: 0
+            :body: 'I think its technique related with the focus on tying up the ball
+              bringing the tackler''s body position up. '
+            :edited: false
+            :author_flair_css_class: usa
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;I think its technique related with the focus on tying up the ball bringing the tackler&amp;#39;s body position up. &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1fe8h
+            :created: 1428219948.0
+            :author_flair_text: USA
+            :created_utc: 1428191148.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 6
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31gekp
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: t1y91a4oo7483023b2ce77cd10ace93494598e962250c70425
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31gekp
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq1gdak
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: BZH_JJM
+                    :parent_id: t1_cq1g7oz
+                    :score: 3
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: 'Mandated after-match socials? '
+                    :edited: false
+                    :author_flair_css_class: usa
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;Mandated after-match socials? &lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq1gdak
+                    :created: 1428221859.0
+                    :author_flair_text: C-O-L-L-I-D-G-E
+                    :created_utc: 1428193059.0
+                    :ups: 3
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq1g7oz
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: twelveinchtyrone
+            :parent_id: t1_cq1eu69
+            :score: 1
+            :approved_by: 
+            :controversiality: 0
+            :body: |-
+              I honestly think so.
+              We'll see where things go I guess.
+            :edited: false
+            :author_flair_css_class: clermont-auvergne
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;I honestly think so.
+              We&amp;#39;ll see where things go I guess.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1g7oz
+            :created: 1428221551.0
+            :author_flair_text: Clermont Auvergne
+            :created_utc: 1428192751.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 1
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31gekp
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1r68d
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: Shadowing_Lemma
+            :parent_id: t1_cq1eu69
+            :score: 1
+            :approved_by: 
+            :controversiality: 0
+            :body: 'Nah. If you get your head in the wrong place you''ll get knocked
+              out by a collision with any size of player. '
+            :edited: false
+            :author_flair_css_class: llanelli-scarlets
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Nah. If you get your head in the wrong place you&amp;#39;ll get knocked out by a collision with any size of player. &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1r68d
+            :created: 1428246834.0
+            :author_flair_text: Llanelli Scarlets/Wales/Pontypridd/Treherbert RFC/Chiefs
+            :created_utc: 1428218034.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 1
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq1eu69
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: nigelwyn
+    :parent_id: t3_31gekp
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: 'That''s about the fourth knockout I''ve seen on rugby fields in the past
+      2 weeks. Have we got to the stage where players are just too big and fast? '
+    :edited: false
+    :author_flair_css_class: wales
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;That&amp;#39;s about the fourth knockout I&amp;#39;ve seen on rugby fields in the past 2 weeks. Have we got to the stage where players are just too big and fast? &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1eu69
+    :created: 1428218876.0
+    :author_flair_text: Wales
+    :created_utc: 1428190076.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gekp
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1pc6r
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: mmajor5
+    :parent_id: t3_31gekp
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: Played junior rugby with Lucas Hammond hope he's alright
+    :edited: false
+    :author_flair_css_class: canada
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Played junior rugby with Lucas Hammond hope he&amp;#39;s alright&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1pc6r
+    :created: 1428240877.0
+    :author_flair_text: Canada
+    :created_utc: 1428212077.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gekp
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: t1y91a4oo7483023b2ce77cd10ace93494598e962250c70425
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31gekp
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1hy00
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: fernta
+            :parent_id: t1_cq1g676
+            :score: 13
+            :approved_by: 
+            :controversiality: 0
+            :body: even ironic caricatures of american stereotypes aren't funny and
+              are still cringeworthy, just fyi.
+            :edited: false
+            :author_flair_css_class: crusaders
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;even ironic caricatures of american stereotypes aren&amp;#39;t funny and are still cringeworthy, just fyi.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1hy00
+            :created: 1428224985.0
+            :author_flair_text: Canterbury/Crusaders/All Blacks
+            :created_utc: 1428196185.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 13
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq1g676
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: aguyfrompa
+    :parent_id: t3_31gekp
+    :score: -17
+    :approved_by: 
+    :controversiality: 0
+    :body: That's what happens when you TRY TO TACKLE AMERICA
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;That&amp;#39;s what happens when you TRY TO TACKLE AMERICA&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1g676
+    :created: 1428221469.0
+    :author_flair_text: 
+    :created_utc: 1428192669.0
+    :ups: -17
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

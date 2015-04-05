@@ -1,0 +1,461 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31g59x
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1bs1h
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: bubububen
+    :parent_id: t3_31g59x
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: I really like Barnes. Don't understand the abuse he ships. It's Miles Harrison
+      that does my head in.
+    :edited: false
+    :author_flair_css_class: ulster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I really like Barnes. Don&amp;#39;t understand the abuse he ships. It&amp;#39;s Miles Harrison that does my head in.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1bs1h
+    :created: 1428212973.0
+    :author_flair_text: Ulster
+    :created_utc: 1428184173.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31g59x
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: jk4h5hwyvf30fc88032bf96f3f6d4b85fc01c6523e8269df8c
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31g59x
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq180rq
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: nonotto
+            :parent_id: t1_cq17x2n
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: whyever would i be
+            :edited: false
+            :author_flair_css_class: northampton
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;whyever would i be&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq180rq
+            :created: 1428205700.0
+            :author_flair_text: Northampton Saints
+            :created_utc: 1428176900.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq17x2n
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: thomandshush
+    :parent_id: t3_31g59x
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: Someone is cranky
+    :edited: false
+    :author_flair_css_class: munster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Someone is cranky&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq17x2n
+    :created: 1428205502.0
+    :author_flair_text: Munster
+    :created_utc: 1428176702.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31g59x
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq19fyp
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: richyeh
+    :parent_id: t3_31g59x
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Might have to set up a Facebook account for this. '
+    :edited: false
+    :author_flair_css_class: ospreys
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Might have to set up a Facebook account for this. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq19fyp
+    :created: 1428208392.0
+    :author_flair_text: The Ospreys
+    :created_utc: 1428179592.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31g59x
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: jk4h5hwyvf30fc88032bf96f3f6d4b85fc01c6523e8269df8c
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31g59x
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1akwg
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: Charredcheese
+            :parent_id: t1_cq19vzw
+            :score: 9
+            :approved_by: 
+            :controversiality: 0
+            :body: Nice try Stuart.
+            :edited: false
+            :author_flair_css_class: england
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Nice try Stuart.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1akwg
+            :created: 1428210619.0
+            :author_flair_text: 'Uruguay  '
+            :created_utc: 1428181819.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 9
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq19vzw
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: El_smashe
+    :parent_id: t3_31g59x
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: I always kinda liked Barnes. Does everyone else hate him?
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I always kinda liked Barnes. Does everyone else hate him?&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq19vzw
+    :created: 1428209271.0
+    :author_flair_text: 
+    :created_utc: 1428180471.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31g59x
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: jk4h5hwyvf30fc88032bf96f3f6d4b85fc01c6523e8269df8c
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31g59x
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1cpwq
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: nonotto
+            :parent_id: t1_cq1cca5
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: I wouldn't exactly call a joke facebook group a witch hunt
+            :edited: false
+            :author_flair_css_class: northampton
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;I wouldn&amp;#39;t exactly call a joke facebook group a witch hunt&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1cpwq
+            :created: 1428214724.0
+            :author_flair_text: Northampton Saints
+            :created_utc: 1428185924.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31g59x
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1cj1u
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: J0nShannow
+            :parent_id: t1_cq1cca5
+            :score: 1
+            :approved_by: 
+            :controversiality: 0
+            :body: Buzzkill.
+            :edited: false
+            :author_flair_css_class: harlequins
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Buzzkill.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1cj1u
+            :created: 1428214356.0
+            :author_flair_text: Harlequins
+            :created_utc: 1428185556.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 1
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq1cca5
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: QuadeCooper
+    :parent_id: t3_31g59x
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: I will never ever join the witch hunt for removing someone from their job
+      which they probably cherish just because they say the odd thing every now and
+      then. This is ridiculous, imagine someone petitioned to have you fired?
+    :edited: false
+    :author_flair_css_class: england
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I will never ever join the witch hunt for removing someone from their job which they probably cherish just because they say the odd thing every now and then. This is ridiculous, imagine someone petitioned to have you fired?&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1cca5
+    :created: 1428214000.0
+    :author_flair_text: THE ARCHBISHOP OF BANTERBURY
+    :created_utc: 1428185200.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31g59x
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: jk4h5hwyvf30fc88032bf96f3f6d4b85fc01c6523e8269df8c
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31g59x
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: jk4h5hwyvf30fc88032bf96f3f6d4b85fc01c6523e8269df8c
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31g59x
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq1eylm
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: fernta
+                    :parent_id: t1_cq1ewob
+                    :score: 1
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: boomfa
+                    :edited: false
+                    :author_flair_css_class: crusaders
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;boomfa&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq1eylm
+                    :created: 1428219110.0
+                    :author_flair_text: Canterbury/Crusaders/All Blacks
+                    :created_utc: 1428190310.0
+                    :ups: 1
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq1ewob
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: LegendxFundz
+            :parent_id: t1_cq1bo1v
+            :score: 1
+            :approved_by: 
+            :controversiality: 0
+            :body: 'I find Barnes'' deep voice soothing. Can''t stand Marshall''s
+              "razzle dazzle" '
+            :edited: false
+            :author_flair_css_class: six
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;I find Barnes&amp;#39; deep voice soothing. Can&amp;#39;t stand Marshall&amp;#39;s &amp;quot;razzle dazzle&amp;quot; &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1ewob
+            :created: 1428219008.0
+            :author_flair_text: Openside
+            :created_utc: 1428190208.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 1
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq1bo1v
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: fernta
+    :parent_id: t3_31g59x
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: There was one of these for Justin Marshall before it was cool.
+    :edited: false
+    :author_flair_css_class: crusaders
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;There was one of these for Justin Marshall before it was cool.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1bo1v
+    :created: 1428212750.0
+    :author_flair_text: Canterbury/Crusaders/All Blacks
+    :created_utc: 1428183950.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

@@ -1,0 +1,294 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31dk4x
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: vvqiy18zyt8082b204be21951253eec9e85680b28d0b621db7
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31dk4x
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0shlv
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: wowsuchredditwow
+            :parent_id: t1_cq0l9yy
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: Barrett, Savea and Nonu. Too god.
+            :edited: false
+            :author_flair_css_class: 
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Barrett, Savea and Nonu. Too god.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0shlv
+            :created: 1428136404.0
+            :author_flair_text: 
+            :created_utc: 1428132804.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0l9yy
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: jeffrey2ks
+    :parent_id: t3_31dk4x
+    :score: 7
+    :approved_by: 
+    :controversiality: 0
+    :body: The Hurricanes are by far the most exciting team to watch. Full on man
+      crush with Beauden Barret too.
+    :edited: false
+    :author_flair_css_class: all-blacks
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;The Hurricanes are by far the most exciting team to watch. Full on man crush with Beauden Barret too.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0l9yy
+    :created: 1428141590.0
+    :author_flair_text: All Blacks
+    :created_utc: 1428112790.0
+    :ups: 7
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31dk4x
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0ks0x
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: skeeter1980
+    :parent_id: t3_31dk4x
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: Getty Images [game photo gallery](http://www.gettyimages.com/galleries/events/518586655)
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Getty Images &lt;a href="http://www.gettyimages.com/galleries/events/518586655"&gt;game photo gallery&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0ks0x
+    :created: 1428115271.0
+    :author_flair_text: 
+    :created_utc: 1428111671.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31dk4x
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0xswt
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: 4Tenacious_Dee4
+    :parent_id: t3_31dk4x
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: The ref had a bit of a shocker
+    :edited: false
+    :author_flair_css_class: south-africa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;The ref had a bit of a shocker&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0xswt
+    :created: 1428184664.0
+    :author_flair_text: South Africa
+    :created_utc: 1428155864.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31dk4x
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: vvqiy18zyt8082b204be21951253eec9e85680b28d0b621db7
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31dk4x
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1arzq
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: Patrolling_Enforcer
+            :parent_id: t1_cq0u01t
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: "The referee was pretty even. Consulted the TMO about Savea's try
+              and the TMO got it wrong because the camera angle wasn't great. He then
+              balanced it out with the very generous penalty try. When the touch judge
+              missed Conrad Smith's knock on he generously and deliberately turned
+              a blind eye to Vermeulen's knock on at the base of the scrum a few minutes
+              later.\n\nBurger battled away decently all game, Vermeulen stepped up
+              the 2nd half and Etzebeth was completely overshadowed and schooled by
+              Broadhurst in how to be an athletic lock.\n\nThe Stormers pack may have
+              shat all over us at set piece but you can't put all your eggs in one
+              basket and they need their attack to step up because, although the Hurricanes
+              put in an awesome defensive performance, with the amount of possession
+              and territory they had it was very underwhelming. \n\nThe Highlanders
+              are looking sharp but they don't have too much depth and their defense
+              is a bit leaky but I'm sure they will qualify along with the Hurricanes
+              and I think this resurgent Crusaders side will edge the Chiefs to make
+              the play-offs too. At least next year 4 NZ teams will make it to the
+              play-offs with the new format."
+            :edited: false
+            :author_flair_css_class: hurricanes
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;The referee was pretty even. Consulted the TMO about Savea&amp;#39;s try and the TMO got it wrong because the camera angle wasn&amp;#39;t great. He then balanced it out with the very generous penalty try. When the touch judge missed Conrad Smith&amp;#39;s knock on he generously and deliberately turned a blind eye to Vermeulen&amp;#39;s knock on at the base of the scrum a few minutes later.&lt;/p&gt;
+
+              &lt;p&gt;Burger battled away decently all game, Vermeulen stepped up the 2nd half and Etzebeth was completely overshadowed and schooled by Broadhurst in how to be an athletic lock.&lt;/p&gt;
+
+              &lt;p&gt;The Stormers pack may have shat all over us at set piece but you can&amp;#39;t put all your eggs in one basket and they need their attack to step up because, although the Hurricanes put in an awesome defensive performance, with the amount of possession and territory they had it was very underwhelming. &lt;/p&gt;
+
+              &lt;p&gt;The Highlanders are looking sharp but they don&amp;#39;t have too much depth and their defense is a bit leaky but I&amp;#39;m sure they will qualify along with the Hurricanes and I think this resurgent Crusaders side will edge the Chiefs to make the play-offs too. At least next year 4 NZ teams will make it to the play-offs with the new format.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1arzq
+            :created: 1428210994.0
+            :author_flair_text: Hurricanes
+            :created_utc: 1428182194.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31dk4x
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0vseb
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: fettsack
+            :parent_id: t1_cq0u01t
+            :score: 1
+            :approved_by: 
+            :controversiality: 0
+            :body: What bad decisions did you see in here?
+            :edited: false
+            :author_flair_css_class: biarritz
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;What bad decisions did you see in here?&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0vseb
+            :created: 1428152969.0
+            :author_flair_text: Biarritz
+            :created_utc: 1428149369.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 1
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0u01t
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: 4Tenacious_Dee4
+    :parent_id: t3_31dk4x
+    :score: 0
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      The highlight reel of the bad referee decisions can be longer than this.
+
+      Highlanders are still the best team in the tourny so far, and my favourite non-saffa team.
+
+      Seeing Vermeulen, Etzebeth and Burger playing well together was great.
+    :edited: false
+    :author_flair_css_class: south-africa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;The highlight reel of the bad referee decisions can be longer than this.&lt;/p&gt;
+
+      &lt;p&gt;Highlanders are still the best team in the tourny so far, and my favourite non-saffa team.&lt;/p&gt;
+
+      &lt;p&gt;Seeing Vermeulen, Etzebeth and Burger playing well together was great.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0u01t
+    :created: 1428168924.0
+    :author_flair_text: South Africa
+    :created_utc: 1428140124.0
+    :ups: 0
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

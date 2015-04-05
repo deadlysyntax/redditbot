@@ -1,0 +1,2321 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31dz82
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31dz82
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31dz82
+                    :likes: 
+                    :replies:
+                      :kind: Listing
+                      :data:
+                        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                        :children:
+                        - :kind: t1
+                          :data:
+                            :subreddit_id: t5_2qkbe
+                            :banned_by: 
+                            :link_id: t3_31dz82
+                            :likes: 
+                            :replies: ''
+                            :user_reports: []
+                            :saved: false
+                            :id: cq0w7vy
+                            :gilded: 0
+                            :archived: false
+                            :report_reasons: 
+                            :author: crouchtouchpause
+                            :parent_id: t1_cq0u8q5
+                            :score: 2
+                            :approved_by: 
+                            :controversiality: 0
+                            :body: ':)'
+                            :edited: false
+                            :author_flair_css_class: england
+                            :downs: 0
+                            :body_html: |-
+                              &lt;div class="md"&gt;&lt;p&gt;:)&lt;/p&gt;
+                              &lt;/div&gt;
+                            :subreddit: rugbyunion
+                            :score_hidden: false
+                            :name: t1_cq0w7vy
+                            :created: 1428179755.0
+                            :author_flair_text: England
+                            :created_utc: 1428150955.0
+                            :distinguished: 
+                            :mod_reports: []
+                            :num_reports: 
+                            :ups: 2
+                        :after: 
+                        :before: 
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0u8q5
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: I_Gets_The_Reference
+                    :parent_id: t1_cq0u8e0
+                    :score: 17
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: I patriotically disagree.
+                    :edited: false
+                    :author_flair_css_class: south-africa
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;I patriotically disagree.&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0u8q5
+                    :created: 1428170237.0
+                    :author_flair_text: South Africa
+                    :created_utc: 1428141437.0
+                    :ups: 17
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31dz82
+                    :likes: 
+                    :replies:
+                      :kind: Listing
+                      :data:
+                        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                        :children:
+                        - :kind: t1
+                          :data:
+                            :subreddit_id: t5_2qkbe
+                            :banned_by: 
+                            :link_id: t3_31dz82
+                            :likes: 
+                            :replies: ''
+                            :user_reports: []
+                            :saved: false
+                            :id: cq0w7sd
+                            :gilded: 0
+                            :archived: false
+                            :report_reasons: 
+                            :author: crouchtouchpause
+                            :parent_id: t1_cq0vys7
+                            :score: 12
+                            :approved_by: 
+                            :controversiality: 0
+                            :body: Correct! You are an astute observer of the game.
+                            :edited: false
+                            :author_flair_css_class: england
+                            :downs: 0
+                            :body_html: |-
+                              &lt;div class="md"&gt;&lt;p&gt;Correct! You are an astute observer of the game.&lt;/p&gt;
+                              &lt;/div&gt;
+                            :subreddit: rugbyunion
+                            :score_hidden: false
+                            :name: t1_cq0w7sd
+                            :created: 1428179744.0
+                            :author_flair_text: England
+                            :created_utc: 1428150944.0
+                            :distinguished: 
+                            :mod_reports: []
+                            :num_reports: 
+                            :ups: 12
+                        - :kind: t1
+                          :data:
+                            :subreddit_id: t5_2qkbe
+                            :banned_by: 
+                            :link_id: t3_31dz82
+                            :likes: 
+                            :replies:
+                              :kind: Listing
+                              :data:
+                                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                                :children:
+                                - :kind: t1
+                                  :data:
+                                    :subreddit_id: t5_2qkbe
+                                    :banned_by: 
+                                    :link_id: t3_31dz82
+                                    :likes: 
+                                    :replies: ''
+                                    :user_reports: []
+                                    :saved: false
+                                    :id: cq1jtau
+                                    :gilded: 0
+                                    :archived: false
+                                    :report_reasons: 
+                                    :author: ruckovercdn
+                                    :parent_id: t1_cq1795g
+                                    :score: 3
+                                    :approved_by: 
+                                    :controversiality: 0
+                                    :body: Just pointing out the hypocracy, quite
+                                      a fan of both actually.
+                                    :edited: false
+                                    :author_flair_css_class: 
+                                    :downs: 0
+                                    :body_html: |-
+                                      &lt;div class="md"&gt;&lt;p&gt;Just pointing out the hypocracy, quite a fan of both actually.&lt;/p&gt;
+                                      &lt;/div&gt;
+                                    :subreddit: rugbyunion
+                                    :score_hidden: false
+                                    :name: t1_cq1jtau
+                                    :created: 1428228704.0
+                                    :author_flair_text: 
+                                    :created_utc: 1428199904.0
+                                    :ups: 3
+                                    :mod_reports: []
+                                    :num_reports: 
+                                    :distinguished: 
+                                :after: 
+                                :before: 
+                            :user_reports: []
+                            :saved: false
+                            :id: cq1795g
+                            :gilded: 0
+                            :archived: false
+                            :report_reasons: 
+                            :author: FleeCircus
+                            :parent_id: t1_cq0vys7
+                            :score: 4
+                            :approved_by: 
+                            :controversiality: 0
+                            :body: You may want to get that chip on your shoulder
+                              looked at.
+                            :edited: false
+                            :author_flair_css_class: munster
+                            :downs: 0
+                            :body_html: |-
+                              &lt;div class="md"&gt;&lt;p&gt;You may want to get that chip on your shoulder looked at.&lt;/p&gt;
+                              &lt;/div&gt;
+                            :subreddit: rugbyunion
+                            :score_hidden: false
+                            :name: t1_cq1795g
+                            :created: 1428204239.0
+                            :author_flair_text: Munster
+                            :created_utc: 1428175439.0
+                            :distinguished: 
+                            :mod_reports: []
+                            :num_reports: 
+                            :ups: 4
+                        :after: 
+                        :before: 
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0vys7
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: ruckovercdn
+                    :parent_id: t1_cq0u8e0
+                    :score: 9
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: 'Where as Courtney Lawes is a darling of the game and has
+                      a nearly saint like disposition. '
+                    :edited: false
+                    :author_flair_css_class: 
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;Where as Courtney Lawes is a darling of the game and has a nearly saint like disposition. &lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0vys7
+                    :created: 1428178878.0
+                    :author_flair_text: 
+                    :created_utc: 1428150078.0
+                    :ups: 9
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0u8e0
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: crouchtouchpause
+            :parent_id: t1_cq0pqpf
+            :score: 18
+            :approved_by: 
+            :controversiality: 0
+            :body: "Except Savea stops smiling when Etzebeth slaps him.\n\nEtzebeth
+              is a huge wind-up merchant on the pitch. He's a very good player with
+              the potential to be a great of the game, but he's in danger of being
+              viewed as a massive twat by everyone bar Saffas. "
+            :edited: false
+            :author_flair_css_class: england
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Except Savea stops smiling when Etzebeth slaps him.&lt;/p&gt;
+
+              &lt;p&gt;Etzebeth is a huge wind-up merchant on the pitch. He&amp;#39;s a very good player with the potential to be a great of the game, but he&amp;#39;s in danger of being viewed as a massive twat by everyone bar Saffas. &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0u8e0
+            :created: 1428170186.0
+            :author_flair_text: England
+            :created_utc: 1428141386.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 18
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31dz82
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31dz82
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0ubsr
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: poolnallinnit
+                    :parent_id: t1_cq0t7kc
+                    :score: 9
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: This type of carry on wasnt Thorn's game.
+                    :edited: false
+                    :author_flair_css_class: 
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;This type of carry on wasnt Thorn&amp;#39;s game.&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0ubsr
+                    :created: 1428170705.0
+                    :author_flair_text: 
+                    :created_utc: 1428141905.0
+                    :ups: 9
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31dz82
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq1iwts
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: ThaFuck
+                    :parent_id: t1_cq0t7kc
+                    :score: 4
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: Don't put him in the same camp as Thorn. Bakkies if you
+                      like, but Thorn's role as an enforcer didn't involve slapping.
+                      In fact he'd probably have something to say about it from a
+                      general man point of view.
+                    :edited: false
+                    :author_flair_css_class: all-blacks
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;Don&amp;#39;t put him in the same camp as Thorn. Bakkies if you like, but Thorn&amp;#39;s role as an enforcer didn&amp;#39;t involve slapping. In fact he&amp;#39;d probably have something to say about it from a general man point of view.&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq1iwts
+                    :created: 1428226932.0
+                    :author_flair_text: All Blacks
+                    :created_utc: 1428198132.0
+                    :ups: 4
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0t7kc
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: KingShish
+            :parent_id: t1_cq0pqpf
+            :score: 6
+            :approved_by: 
+            :controversiality: 0
+            :body: He's playing his part as the enforcer.  Just like Thorn did and
+              Bakkies
+            :edited: false
+            :author_flair_css_class: south-africa
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;He&amp;#39;s playing his part as the enforcer.  Just like Thorn did and Bakkies&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0t7kc
+            :created: 1428164873.0
+            :author_flair_text: South Africa
+            :created_utc: 1428136073.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 6
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31dz82
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0pxnf
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: scag315
+            :parent_id: t1_cq0pqpf
+            :score: 5
+            :approved_by: 
+            :controversiality: 0
+            :body: 'He''s a huge fucking Lock. '
+            :edited: false
+            :author_flair_css_class: 
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;He&amp;#39;s a huge fucking Lock. &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0pxnf
+            :created: 1428152831.0
+            :author_flair_text: 
+            :created_utc: 1428124031.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 5
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0pqpf
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: young-febreeze
+    :parent_id: t3_31dz82
+    :score: 21
+    :approved_by: 
+    :controversiality: 0
+    :body: 'If Etzebeth wasn''t so damn scary this might almost be a charming moment '
+    :edited: false
+    :author_flair_css_class: exeter-chiefs
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;If Etzebeth wasn&amp;#39;t so damn scary this might almost be a charming moment &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0pqpf
+    :created: 1428152279.0
+    :author_flair_text: Exeter Chiefs
+    :created_utc: 1428123479.0
+    :ups: 21
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31dz82
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31dz82
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0tz1l
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: 4Tenacious_Dee4
+            :parent_id: t1_cq0trdv
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: Yup, that's the rule. Then again, rules dont apply these days with
+              the type of shit referees out there.
+            :edited: false
+            :author_flair_css_class: south-africa
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Yup, that&amp;#39;s the rule. Then again, rules dont apply these days with the type of shit referees out there.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0tz1l
+            :created: 1428143560.0
+            :author_flair_text: South Africa
+            :created_utc: 1428139960.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31dz82
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31dz82
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0udw5
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: elljaysa
+                    :parent_id: t1_cq0tz6a
+                    :score: 7
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: "Looking again via TMO, we've got Eben, Savea, high shot
+                      from Eben then a tummy tickle from Savea. \n\nDecision: Savea
+                      is still it.\n\nOh I am Serious, and don't call me Bus..."
+                    :edited: false
+                    :author_flair_css_class: bulls
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;Looking again via TMO, we&amp;#39;ve got Eben, Savea, high shot from Eben then a tummy tickle from Savea. &lt;/p&gt;
+
+                      &lt;p&gt;Decision: Savea is still it.&lt;/p&gt;
+
+                      &lt;p&gt;Oh I am Serious, and don&amp;#39;t call me Bus...&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0udw5
+                    :created: 1428171036.0
+                    :author_flair_text: Bulls
+                    :created_utc: 1428142236.0
+                    :ups: 7
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0tz6a
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: SmartGuy2435
+            :parent_id: t1_cq0trdv
+            :score: 3
+            :approved_by: 
+            :controversiality: 0
+            :body: He went low on that last one doesn't count sorry bus.
+            :edited: false
+            :author_flair_css_class: highlanders
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;He went low on that last one doesn&amp;#39;t count sorry bus.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0tz6a
+            :created: 1428168780.0
+            :author_flair_text: Highlanders
+            :created_utc: 1428139980.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 3
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0trdv
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: elljaysa
+    :parent_id: t3_31dz82
+    :score: 17
+    :approved_by: 
+    :controversiality: 0
+    :body: Looking at this gif closely and studying the rules of "face slap", I can
+      only deduce that technically Savea is still "it".
+    :edited: false
+    :author_flair_css_class: bulls
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Looking at this gif closely and studying the rules of &amp;quot;face slap&amp;quot;, I can only deduce that technically Savea is still &amp;quot;it&amp;quot;.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0trdv
+    :created: 1428167635.0
+    :author_flair_text: Bulls
+    :created_utc: 1428138835.0
+    :ups: 17
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31dz82
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0sq8e
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Cpt_PP
+    :parent_id: t3_31dz82
+    :score: 14
+    :approved_by: 
+    :controversiality: 0
+    :body: How can she slap!
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;How can she slap!&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0sq8e
+    :created: 1428162648.0
+    :author_flair_text: 
+    :created_utc: 1428133848.0
+    :ups: 14
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31dz82
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31dz82
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1aako
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: young-febreeze
+            :parent_id: t1_cq14d3f
+            :score: 3
+            :approved_by: 
+            :controversiality: 0
+            :body: Oh lord is that Corey Jane with dreads?.. *cringe*
+            :edited: false
+            :author_flair_css_class: exeter-chiefs
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Oh lord is that Corey Jane with dreads?.. &lt;em&gt;cringe&lt;/em&gt;&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1aako
+            :created: 1428210062.0
+            :author_flair_text: Exeter Chiefs
+            :created_utc: 1428181262.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 3
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq14d3f
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: well_memed_friend
+    :parent_id: t3_31dz82
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: '[Reminds me of this gem back in the day](https://babobski.files.wordpress.com/2010/05/bekker-the-enforcer.jpg)'
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://babobski.files.wordpress.com/2010/05/bekker-the-enforcer.jpg"&gt;Reminds me of this gem back in the day&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq14d3f
+    :created: 1428198683.0
+    :author_flair_text: 
+    :created_utc: 1428169883.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31dz82
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq16xqq
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Tech46
+    :parent_id: t3_31dz82
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: '[They''re New Order fans, obviously.](https://www.youtube.com/watch?v=mfI1S0PKJR8)'
+    :edited: false
+    :author_flair_css_class: connacht
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=mfI1S0PKJR8"&gt;They&amp;#39;re New Order fans, obviously.&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq16xqq
+    :created: 1428203624.0
+    :author_flair_text: Connacht
+    :created_utc: 1428174824.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31dz82
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31dz82
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31dz82
+                    :likes: 
+                    :replies:
+                      :kind: Listing
+                      :data:
+                        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                        :children:
+                        - :kind: t1
+                          :data:
+                            :subreddit_id: t5_2qkbe
+                            :banned_by: 
+                            :link_id: t3_31dz82
+                            :likes: 
+                            :replies: ''
+                            :user_reports: []
+                            :saved: false
+                            :id: cq0tzac
+                            :gilded: 0
+                            :archived: false
+                            :report_reasons: 
+                            :author: bigstee
+                            :parent_id: t1_cq0tavf
+                            :score: 9
+                            :approved_by: 
+                            :controversiality: 0
+                            :body: basically if you arent faster than the coconut
+                              you get cocofucked.
+                            :edited: false
+                            :author_flair_css_class: 
+                            :downs: 0
+                            :body_html: |-
+                              &lt;div class="md"&gt;&lt;p&gt;basically if you arent faster than the coconut you get cocofucked.&lt;/p&gt;
+                              &lt;/div&gt;
+                            :subreddit: rugbyunion
+                            :score_hidden: false
+                            :name: t1_cq0tzac
+                            :created: 1428168798.0
+                            :author_flair_text: 
+                            :created_utc: 1428139998.0
+                            :distinguished: 
+                            :mod_reports: []
+                            :num_reports: 
+                            :ups: 9
+                        :after: 
+                        :before: 
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0tavf
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: Skuzzn
+                    :parent_id: t1_cq0r2e8
+                    :score: 17
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: You don't punch a coconut in the head and walk away with
+                      all the bones in your hands intact.
+                    :edited: false
+                    :author_flair_css_class: 
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;You don&amp;#39;t punch a coconut in the head and walk away with all the bones in your hands intact.&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0tavf
+                    :created: 1428165307.0
+                    :author_flair_text: 
+                    :created_utc: 1428136507.0
+                    :ups: 17
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31dz82
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0seia
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: tuiznew
+                    :parent_id: t1_cq0r2e8
+                    :score: 2
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: 'You''re off your head mate. '
+                    :edited: false
+                    :author_flair_css_class: 
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;You&amp;#39;re off your head mate. &lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0seia
+                    :created: 1428161247.0
+                    :author_flair_text: 
+                    :created_utc: 1428132447.0
+                    :ups: 2
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31dz82
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0rh3r
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: BoatCat
+                    :parent_id: t1_cq0r2e8
+                    :score: 1
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: |-
+                      Mate, youre dreamin'!
+
+                      *I can only afford one apostrophe*
+                    :edited: false
+                    :author_flair_css_class: 
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;Mate, youre dreamin&amp;#39;!&lt;/p&gt;
+
+                      &lt;p&gt;&lt;em&gt;I can only afford one apostrophe&lt;/em&gt;&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0rh3r
+                    :created: 1428157655.0
+                    :author_flair_text: 
+                    :created_utc: 1428128855.0
+                    :ups: 1
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0r2e8
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: KingShish
+            :parent_id: t1_cq0q43h
+            :score: 12
+            :approved_by: 
+            :controversiality: 0
+            :body: Eben
+            :edited: false
+            :author_flair_css_class: south-africa
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Eben&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0r2e8
+            :created: 1428156256.0
+            :author_flair_text: South Africa
+            :created_utc: 1428127456.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 12
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31dz82
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31dz82
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0uujs
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: BoatCat
+                    :parent_id: t1_cq0ukf0
+                    :score: 8
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: Even if it's just me I didn't think my comment was hurting
+                      anyone
+                    :edited: false
+                    :author_flair_css_class: 
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;Even if it&amp;#39;s just me I didn&amp;#39;t think my comment was hurting anyone&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0uujs
+                    :created: 1428173610.0
+                    :author_flair_text: 
+                    :created_utc: 1428144810.0
+                    :ups: 8
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0ukf0
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: elljaysa
+            :parent_id: t1_cq0q43h
+            :score: -6
+            :approved_by: 
+            :controversiality: 0
+            :body: I wonder who else would give a shit?
+            :edited: false
+            :author_flair_css_class: bulls
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;I wonder who else would give a shit?&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0ukf0
+            :created: 1428172021.0
+            :author_flair_text: Bulls
+            :created_utc: 1428143221.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: -6
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0q43h
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: BoatCat
+    :parent_id: t3_31dz82
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: I wonder who would win in a fight...
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I wonder who would win in a fight...&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0q43h
+    :created: 1428153343.0
+    :author_flair_text: 
+    :created_utc: 1428124543.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31dz82
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq0s8yt
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: squatdog_nz
+    :parent_id: t3_31dz82
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Etsebeth slapped him from the opposite touchline.
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Etsebeth slapped him from the opposite touchline.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0s8yt
+    :created: 1428135419.0
+    :author_flair_text: 
+    :created_utc: 1428131819.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31dz82
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1j7v3
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: ThaFuck
+    :parent_id: t3_31dz82
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Who's the little Chihuahua who thinks its outrageous that Savea should
+      defend himself?
+    :edited: false
+    :author_flair_css_class: all-blacks
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Who&amp;#39;s the little Chihuahua who thinks its outrageous that Savea should defend himself?&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1j7v3
+    :created: 1428227534.0
+    :author_flair_text: All Blacks
+    :created_utc: 1428198734.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31dz82
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31dz82
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31dz82
+                    :likes: 
+                    :replies:
+                      :kind: Listing
+                      :data:
+                        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                        :children:
+                        - :kind: t1
+                          :data:
+                            :subreddit_id: t5_2qkbe
+                            :banned_by: 
+                            :link_id: t3_31dz82
+                            :likes: 
+                            :replies: ''
+                            :user_reports: []
+                            :saved: false
+                            :id: cq0tnlx
+                            :gilded: 0
+                            :archived: false
+                            :report_reasons: 
+                            :author: Foveaux
+                            :parent_id: t1_cq0t94r
+                            :score: 2
+                            :approved_by: 
+                            :controversiality: 0
+                            :body: 'I dunno man, every time I see him play he''s a
+                              beast but seems to get really hot headed at small things.
+                              Then again so do many people, I guess. '
+                            :edited: false
+                            :author_flair_css_class: highlanders
+                            :downs: 0
+                            :body_html: |-
+                              &lt;div class="md"&gt;&lt;p&gt;I dunno man, every time I see him play he&amp;#39;s a beast but seems to get really hot headed at small things. Then again so do many people, I guess. &lt;/p&gt;
+                              &lt;/div&gt;
+                            :subreddit: rugbyunion
+                            :score_hidden: false
+                            :name: t1_cq0tnlx
+                            :created: 1428167087.0
+                            :author_flair_text: Licence Plate FEK8OA
+                            :created_utc: 1428138287.0
+                            :distinguished: 
+                            :mod_reports: []
+                            :num_reports: 
+                            :ups: 2
+                        :after: 
+                        :before: 
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0t94r
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: I_Gets_The_Reference
+                    :parent_id: t1_cq0pvqe
+                    :score: 2
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: 'I don''t think he does - not really. He sort-of used to,
+                      but he''s controlled now. '
+                    :edited: false
+                    :author_flair_css_class: south-africa
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;I don&amp;#39;t think he does - not really. He sort-of used to, but he&amp;#39;s controlled now. &lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0t94r
+                    :created: 1428165079.0
+                    :author_flair_text: South Africa
+                    :created_utc: 1428136279.0
+                    :ups: 2
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0pvqe
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: Foveaux
+            :parent_id: t1_cq0prpb
+            :score: 18
+            :approved_by: 
+            :controversiality: 0
+            :body: 'He seems like the kind of person who can give out plenty of shit
+              but really can''t handle it in return; let''s it get to his head. '
+            :edited: false
+            :author_flair_css_class: highlanders
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;He seems like the kind of person who can give out plenty of shit but really can&amp;#39;t handle it in return; let&amp;#39;s it get to his head. &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0pvqe
+            :created: 1428152677.0
+            :author_flair_text: Licence Plate FEK8OA
+            :created_utc: 1428123877.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 18
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31dz82
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31dz82
+                    :likes: 
+                    :replies:
+                      :kind: Listing
+                      :data:
+                        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                        :children:
+                        - :kind: t1
+                          :data:
+                            :subreddit_id: t5_2qkbe
+                            :banned_by: 
+                            :link_id: t3_31dz82
+                            :likes: 
+                            :replies:
+                              :kind: Listing
+                              :data:
+                                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                                :children:
+                                - :kind: t1
+                                  :data:
+                                    :subreddit_id: t5_2qkbe
+                                    :banned_by: 
+                                    :link_id: t3_31dz82
+                                    :likes: 
+                                    :replies:
+                                      :kind: Listing
+                                      :data:
+                                        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                                        :children:
+                                        - :kind: t1
+                                          :data:
+                                            :subreddit_id: t5_2qkbe
+                                            :banned_by: 
+                                            :link_id: t3_31dz82
+                                            :likes: 
+                                            :replies:
+                                              :kind: Listing
+                                              :data:
+                                                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                                                :children:
+                                                - :kind: t1
+                                                  :data:
+                                                    :subreddit_id: t5_2qkbe
+                                                    :banned_by: 
+                                                    :link_id: t3_31dz82
+                                                    :likes: 
+                                                    :replies:
+                                                      :kind: Listing
+                                                      :data:
+                                                        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                                                        :children:
+                                                        - :kind: t1
+                                                          :data:
+                                                            :subreddit_id: t5_2qkbe
+                                                            :banned_by: 
+                                                            :link_id: t3_31dz82
+                                                            :likes: 
+                                                            :replies: ''
+                                                            :user_reports: []
+                                                            :saved: false
+                                                            :id: cq0uj0u
+                                                            :gilded: 0
+                                                            :archived: false
+                                                            :report_reasons: 
+                                                            :author: poolnallinnit
+                                                            :parent_id: t1_cq0uh0y
+                                                            :score: 4
+                                                            :approved_by: 
+                                                            :controversiality: 0
+                                                            :body: "Ali Williams was
+                                                              the shit-stirrer of
+                                                              those two and by some
+                                                              distance! \n\nElzabeth
+                                                              doesnt strike me as
+                                                              an enforcer. He's that
+                                                              niggle-merchant role
+                                                              more than enforcer.
+                                                              At this stage of his
+                                                              career at least."
+                                                            :edited: false
+                                                            :author_flair_css_class: 
+                                                            :downs: 0
+                                                            :body_html: |-
+                                                              &lt;div class="md"&gt;&lt;p&gt;Ali Williams was the shit-stirrer of those two and by some distance! &lt;/p&gt;
+
+                                                              &lt;p&gt;Elzabeth doesnt strike me as an enforcer. He&amp;#39;s that niggle-merchant role more than enforcer. At this stage of his career at least.&lt;/p&gt;
+                                                              &lt;/div&gt;
+                                                            :subreddit: rugbyunion
+                                                            :score_hidden: false
+                                                            :name: t1_cq0uj0u
+                                                            :created: 1428171807.0
+                                                            :author_flair_text: 
+                                                            :created_utc: 1428143007.0
+                                                            :distinguished: 
+                                                            :mod_reports: []
+                                                            :num_reports: 
+                                                            :ups: 4
+                                                        :after: 
+                                                        :before: 
+                                                    :user_reports: []
+                                                    :saved: false
+                                                    :id: cq0uh0y
+                                                    :gilded: 0
+                                                    :archived: false
+                                                    :report_reasons: 
+                                                    :author: 4Tenacious_Dee4
+                                                    :parent_id: t1_cq0ud98
+                                                    :score: 1
+                                                    :approved_by: 
+                                                    :controversiality: 0
+                                                    :body: Yeah Thorn was an enforcer
+                                                      IMO... and Ali Williams the
+                                                      lineout guy. I also remember
+                                                      Thorn tip tackling John Smit
+                                                      viciously one time, which had
+                                                      the Saffa cryers up in arms.
+                                                    :edited: false
+                                                    :author_flair_css_class: south-africa
+                                                    :downs: 0
+                                                    :body_html: |-
+                                                      &lt;div class="md"&gt;&lt;p&gt;Yeah Thorn was an enforcer IMO... and Ali Williams the lineout guy. I also remember Thorn tip tackling John Smit viciously one time, which had the Saffa cryers up in arms.&lt;/p&gt;
+                                                      &lt;/div&gt;
+                                                    :subreddit: rugbyunion
+                                                    :score_hidden: false
+                                                    :name: t1_cq0uh0y
+                                                    :created: 1428146307.0
+                                                    :author_flair_text: South Africa
+                                                    :created_utc: 1428142707.0
+                                                    :ups: 1
+                                                    :mod_reports: []
+                                                    :num_reports: 
+                                                    :distinguished: 
+                                                :after: 
+                                                :before: 
+                                            :user_reports: []
+                                            :saved: false
+                                            :id: cq0ud98
+                                            :gilded: 0
+                                            :archived: false
+                                            :report_reasons: 
+                                            :author: poolnallinnit
+                                            :parent_id: t1_cq0ty2d
+                                            :score: 3
+                                            :approved_by: 
+                                            :controversiality: 0
+                                            :body: |-
+                                              Im surpised to see 2 Saffer's mention Thorn playing the role of shit-stirrer. My recollection doesnt involve that sort of carry on from Thorn.
+
+                                              But given there are now two Saffers saying he was at it, perhaps im wrong?
+                                            :edited: false
+                                            :author_flair_css_class: 
+                                            :downs: 0
+                                            :body_html: |-
+                                              &lt;div class="md"&gt;&lt;p&gt;Im surpised to see 2 Saffer&amp;#39;s mention Thorn playing the role of shit-stirrer. My recollection doesnt involve that sort of carry on from Thorn.&lt;/p&gt;
+
+                                              &lt;p&gt;But given there are now two Saffers saying he was at it, perhaps im wrong?&lt;/p&gt;
+                                              &lt;/div&gt;
+                                            :subreddit: rugbyunion
+                                            :score_hidden: false
+                                            :name: t1_cq0ud98
+                                            :created: 1428170935.0
+                                            :author_flair_text: 
+                                            :created_utc: 1428142135.0
+                                            :distinguished: 
+                                            :mod_reports: []
+                                            :num_reports: 
+                                            :ups: 3
+                                        - :kind: t1
+                                          :data:
+                                            :subreddit_id: t5_2qkbe
+                                            :banned_by: 
+                                            :link_id: t3_31dz82
+                                            :likes: 
+                                            :replies:
+                                              :kind: Listing
+                                              :data:
+                                                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                                                :children:
+                                                - :kind: t1
+                                                  :data:
+                                                    :subreddit_id: t5_2qkbe
+                                                    :banned_by: 
+                                                    :link_id: t3_31dz82
+                                                    :likes: 
+                                                    :replies:
+                                                      :kind: Listing
+                                                      :data:
+                                                        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                                                        :children:
+                                                        - :kind: t1
+                                                          :data:
+                                                            :subreddit_id: t5_2qkbe
+                                                            :banned_by: 
+                                                            :link_id: t3_31dz82
+                                                            :likes: 
+                                                            :replies: ''
+                                                            :user_reports: []
+                                                            :saved: false
+                                                            :id: cq0w8pl
+                                                            :gilded: 0
+                                                            :archived: false
+                                                            :report_reasons: 
+                                                            :author: crouchtouchpause
+                                                            :parent_id: t1_cq0uhye
+                                                            :score: 1
+                                                            :approved_by: 
+                                                            :controversiality: 0
+                                                            :body: |
+                                                              Eben seems to like a bit of niggle...
+
+                                                              He's also a very, very good player. This may cloud my view of him a touch.
+                                                            :edited: false
+                                                            :author_flair_css_class: england
+                                                            :downs: 0
+                                                            :body_html: |-
+                                                              &lt;div class="md"&gt;&lt;p&gt;Eben seems to like a bit of niggle...&lt;/p&gt;
+
+                                                              &lt;p&gt;He&amp;#39;s also a very, very good player. This may cloud my view of him a touch.&lt;/p&gt;
+                                                              &lt;/div&gt;
+                                                            :subreddit: rugbyunion
+                                                            :score_hidden: false
+                                                            :name: t1_cq0w8pl
+                                                            :created: 1428179834.0
+                                                            :author_flair_text: England
+                                                            :created_utc: 1428151034.0
+                                                            :distinguished: 
+                                                            :mod_reports: []
+                                                            :num_reports: 
+                                                            :ups: 1
+                                                        :after: 
+                                                        :before: 
+                                                    :user_reports: []
+                                                    :saved: false
+                                                    :id: cq0uhye
+                                                    :gilded: 0
+                                                    :archived: false
+                                                    :report_reasons: 
+                                                    :author: 4Tenacious_Dee4
+                                                    :parent_id: t1_cq0u6jk
+                                                    :score: 4
+                                                    :approved_by: 
+                                                    :controversiality: 0
+                                                    :body: |-
+                                                      Martin Johnson not a wind up? lol
+
+                                                      To be fair, Eben has been very young, and fell for a few wind ups in the beginning. Now he just laughs it off, and has had great discipline for a while now. But you know, some people just have those faces.
+                                                    :edited: false
+                                                    :author_flair_css_class: south-africa
+                                                    :downs: 0
+                                                    :body_html: |-
+                                                      &lt;div class="md"&gt;&lt;p&gt;Martin Johnson not a wind up? lol&lt;/p&gt;
+
+                                                      &lt;p&gt;To be fair, Eben has been very young, and fell for a few wind ups in the beginning. Now he just laughs it off, and has had great discipline for a while now. But you know, some people just have those faces.&lt;/p&gt;
+                                                      &lt;/div&gt;
+                                                    :subreddit: rugbyunion
+                                                    :score_hidden: false
+                                                    :name: t1_cq0uhye
+                                                    :created: 1428171644.0
+                                                    :author_flair_text: South Africa
+                                                    :created_utc: 1428142844.0
+                                                    :ups: 4
+                                                    :mod_reports: []
+                                                    :num_reports: 
+                                                    :distinguished: 
+                                                - :kind: t1
+                                                  :data:
+                                                    :subreddit_id: t5_2qkbe
+                                                    :banned_by: 
+                                                    :link_id: t3_31dz82
+                                                    :likes: 
+                                                    :replies:
+                                                      :kind: Listing
+                                                      :data:
+                                                        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                                                        :children:
+                                                        - :kind: t1
+                                                          :data:
+                                                            :subreddit_id: t5_2qkbe
+                                                            :banned_by: 
+                                                            :link_id: t3_31dz82
+                                                            :likes: 
+                                                            :replies:
+                                                              :kind: Listing
+                                                              :data:
+                                                                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                                                                :children:
+                                                                - :kind: t1
+                                                                  :data:
+                                                                    :subreddit_id: t5_2qkbe
+                                                                    :banned_by: 
+                                                                    :link_id: t3_31dz82
+                                                                    :likes: 
+                                                                    :replies:
+                                                                      :kind: Listing
+                                                                      :data:
+                                                                        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                                                                        :children:
+                                                                        - :kind: t1
+                                                                          :data:
+                                                                            :subreddit_id: t5_2qkbe
+                                                                            :banned_by: 
+                                                                            :link_id: t3_31dz82
+                                                                            :likes: 
+                                                                            :replies: ''
+                                                                            :user_reports: []
+                                                                            :saved: false
+                                                                            :id: cq19dsm
+                                                                            :gilded: 0
+                                                                            :archived: false
+                                                                            :report_reasons: 
+                                                                            :author: crouchtouchpause
+                                                                            :parent_id: t1_cq17dby
+                                                                            :score: 2
+                                                                            :approved_by: 
+                                                                            :controversiality: 0
+                                                                            :body: "Haha.\n\n*puts
+                                                                              a brave
+                                                                              face
+                                                                              on things*\n\n\U0001F622"
+                                                                            :edited: false
+                                                                            :author_flair_css_class: england
+                                                                            :downs: 0
+                                                                            :body_html: "&lt;div
+                                                                              class=\"md\"&gt;&lt;p&gt;Haha.&lt;/p&gt;\n\n&lt;p&gt;&lt;em&gt;puts
+                                                                              a brave
+                                                                              face
+                                                                              on things&lt;/em&gt;&lt;/p&gt;\n\n&lt;p&gt;\U0001F622&lt;/p&gt;\n&lt;/div&gt;"
+                                                                            :subreddit: rugbyunion
+                                                                            :score_hidden: false
+                                                                            :name: t1_cq19dsm
+                                                                            :created: 1428208280.0
+                                                                            :author_flair_text: England
+                                                                            :created_utc: 1428179480.0
+                                                                            :distinguished: 
+                                                                            :mod_reports: []
+                                                                            :num_reports: 
+                                                                            :ups: 2
+                                                                        :after: 
+                                                                        :before: 
+                                                                    :user_reports: []
+                                                                    :saved: false
+                                                                    :id: cq17dby
+                                                                    :gilded: 0
+                                                                    :archived: false
+                                                                    :report_reasons: 
+                                                                    :author: FleeCircus
+                                                                    :parent_id: t1_cq14lae
+                                                                    :score: 4
+                                                                    :approved_by: 
+                                                                    :controversiality: 0
+                                                                    :body: I'll just
+                                                                      leave [this](https://www.youtube.com/watch?v=L2EKXYNZTKg)
+                                                                      here.
+                                                                    :edited: false
+                                                                    :author_flair_css_class: munster
+                                                                    :downs: 0
+                                                                    :body_html: |-
+                                                                      &lt;div class="md"&gt;&lt;p&gt;I&amp;#39;ll just leave &lt;a href="https://www.youtube.com/watch?v=L2EKXYNZTKg"&gt;this&lt;/a&gt; here.&lt;/p&gt;
+                                                                      &lt;/div&gt;
+                                                                    :subreddit: rugbyunion
+                                                                    :score_hidden: false
+                                                                    :name: t1_cq17dby
+                                                                    :created: 1428204465.0
+                                                                    :author_flair_text: Munster
+                                                                    :created_utc: 1428175665.0
+                                                                    :ups: 4
+                                                                    :mod_reports: []
+                                                                    :num_reports: 
+                                                                    :distinguished: 
+                                                                :after: 
+                                                                :before: 
+                                                            :user_reports: []
+                                                            :saved: false
+                                                            :id: cq14lae
+                                                            :gilded: 0
+                                                            :archived: false
+                                                            :report_reasons: 
+                                                            :author: crouchtouchpause
+                                                            :parent_id: t1_cq0zd2w
+                                                            :score: 1
+                                                            :approved_by: 
+                                                            :controversiality: 0
+                                                            :body: Is this about muddy
+                                                              shoes?
+                                                            :edited: false
+                                                            :author_flair_css_class: england
+                                                            :downs: 0
+                                                            :body_html: |-
+                                                              &lt;div class="md"&gt;&lt;p&gt;Is this about muddy shoes?&lt;/p&gt;
+                                                              &lt;/div&gt;
+                                                            :subreddit: rugbyunion
+                                                            :score_hidden: false
+                                                            :name: t1_cq14lae
+                                                            :created: 1428199126.0
+                                                            :author_flair_text: England
+                                                            :created_utc: 1428170326.0
+                                                            :distinguished: 
+                                                            :mod_reports: []
+                                                            :num_reports: 
+                                                            :ups: 1
+                                                        :after: 
+                                                        :before: 
+                                                    :user_reports: []
+                                                    :saved: false
+                                                    :id: cq0zd2w
+                                                    :gilded: 0
+                                                    :archived: false
+                                                    :report_reasons: 
+                                                    :author: heresyourhardware
+                                                    :parent_id: t1_cq0u6jk
+                                                    :score: 2
+                                                    :approved_by: 
+                                                    :controversiality: 0
+                                                    :body: Johnson was a massive WUM!
+                                                    :edited: false
+                                                    :author_flair_css_class: ireland
+                                                    :downs: 0
+                                                    :body_html: |-
+                                                      &lt;div class="md"&gt;&lt;p&gt;Johnson was a massive WUM!&lt;/p&gt;
+                                                      &lt;/div&gt;
+                                                    :subreddit: rugbyunion
+                                                    :score_hidden: false
+                                                    :name: t1_cq0zd2w
+                                                    :created: 1428188543.0
+                                                    :author_flair_text: Ireland
+                                                    :created_utc: 1428159743.0
+                                                    :ups: 2
+                                                    :mod_reports: []
+                                                    :num_reports: 
+                                                    :distinguished: 
+                                                :after: 
+                                                :before: 
+                                            :user_reports: []
+                                            :saved: false
+                                            :id: cq0u6jk
+                                            :gilded: 0
+                                            :archived: false
+                                            :report_reasons: 
+                                            :author: crouchtouchpause
+                                            :parent_id: t1_cq0ty2d
+                                            :score: 1
+                                            :approved_by: 
+                                            :controversiality: 0
+                                            :body: 'But Etzebeth is a wind-up merchant
+                                              - the two you mention are anything but. '
+                                            :edited: false
+                                            :author_flair_css_class: england
+                                            :downs: 0
+                                            :body_html: |-
+                                              &lt;div class="md"&gt;&lt;p&gt;But Etzebeth is a wind-up merchant - the two you mention are anything but. &lt;/p&gt;
+                                              &lt;/div&gt;
+                                            :subreddit: rugbyunion
+                                            :score_hidden: false
+                                            :name: t1_cq0u6jk
+                                            :created: 1428144699.0
+                                            :author_flair_text: England
+                                            :created_utc: 1428141099.0
+                                            :distinguished: 
+                                            :mod_reports: []
+                                            :num_reports: 
+                                            :ups: 1
+                                        :after: 
+                                        :before: 
+                                    :user_reports: []
+                                    :saved: false
+                                    :id: cq0ty2d
+                                    :gilded: 0
+                                    :archived: false
+                                    :report_reasons: 
+                                    :author: 4Tenacious_Dee4
+                                    :parent_id: t1_cq0su9h
+                                    :score: 2
+                                    :approved_by: 
+                                    :controversiality: 0
+                                    :body: It's his job. Every team has them. I used
+                                      to hate Thorn, Martin Johnson etc... now i think
+                                      they're great.
+                                    :edited: false
+                                    :author_flair_css_class: south-africa
+                                    :downs: 0
+                                    :body_html: |-
+                                      &lt;div class="md"&gt;&lt;p&gt;It&amp;#39;s his job. Every team has them. I used to hate Thorn, Martin Johnson etc... now i think they&amp;#39;re great.&lt;/p&gt;
+                                      &lt;/div&gt;
+                                    :subreddit: rugbyunion
+                                    :score_hidden: false
+                                    :name: t1_cq0ty2d
+                                    :created: 1428168613.0
+                                    :author_flair_text: South Africa
+                                    :created_utc: 1428139813.0
+                                    :ups: 2
+                                    :mod_reports: []
+                                    :num_reports: 
+                                    :distinguished: 
+                                :after: 
+                                :before: 
+                            :user_reports: []
+                            :saved: false
+                            :id: cq0su9h
+                            :gilded: 0
+                            :archived: false
+                            :report_reasons: 
+                            :author: Ed-0510
+                            :parent_id: t1_cq0rtl5
+                            :score: 7
+                            :approved_by: 
+                            :controversiality: 0
+                            :body: Whilst he is a big boy, I'm not sure it's the intimidation
+                              that makes him unlikable, I think it's more because
+                              on the pitch he's a bit of a twat!
+                            :edited: false
+                            :author_flair_css_class: 
+                            :downs: 0
+                            :body_html: |-
+                              &lt;div class="md"&gt;&lt;p&gt;Whilst he is a big boy, I&amp;#39;m not sure it&amp;#39;s the intimidation that makes him unlikable, I think it&amp;#39;s more because on the pitch he&amp;#39;s a bit of a twat!&lt;/p&gt;
+                              &lt;/div&gt;
+                            :subreddit: rugbyunion
+                            :score_hidden: false
+                            :name: t1_cq0su9h
+                            :created: 1428163147.0
+                            :author_flair_text: 
+                            :created_utc: 1428134347.0
+                            :distinguished: 
+                            :mod_reports: []
+                            :num_reports: 
+                            :ups: 7
+                        - :kind: t1
+                          :data:
+                            :subreddit_id: t5_2qkbe
+                            :banned_by: 
+                            :link_id: t3_31dz82
+                            :likes: 
+                            :replies:
+                              :kind: Listing
+                              :data:
+                                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                                :children:
+                                - :kind: t1
+                                  :data:
+                                    :subreddit_id: t5_2qkbe
+                                    :banned_by: 
+                                    :link_id: t3_31dz82
+                                    :likes: 
+                                    :replies: ''
+                                    :user_reports: []
+                                    :saved: false
+                                    :id: cq1lywy
+                                    :gilded: 0
+                                    :archived: false
+                                    :report_reasons: 
+                                    :author: BoatCat
+                                    :parent_id: t1_cq1j4na
+                                    :score: 1
+                                    :approved_by: 
+                                    :controversiality: 0
+                                    :body: It was some tongue in cheek sarcasm mate.
+                                      No one describes a slapper as stoic
+                                    :edited: false
+                                    :author_flair_css_class: 
+                                    :downs: 0
+                                    :body_html: |-
+                                      &lt;div class="md"&gt;&lt;p&gt;It was some tongue in cheek sarcasm mate. No one describes a slapper as stoic&lt;/p&gt;
+                                      &lt;/div&gt;
+                                    :subreddit: rugbyunion
+                                    :score_hidden: false
+                                    :name: t1_cq1lywy
+                                    :created: 1428233048.0
+                                    :author_flair_text: 
+                                    :created_utc: 1428204248.0
+                                    :ups: 1
+                                    :mod_reports: []
+                                    :num_reports: 
+                                    :distinguished: 
+                                :after: 
+                                :before: 
+                            :user_reports: []
+                            :saved: false
+                            :id: cq1j4na
+                            :gilded: 0
+                            :archived: false
+                            :report_reasons: 
+                            :author: ThaFuck
+                            :parent_id: t1_cq0rtl5
+                            :score: 1
+                            :approved_by: 
+                            :controversiality: 0
+                            :body: You don't know what stoicism means if you think
+                              this gif represents it in any way.
+                            :edited: false
+                            :author_flair_css_class: all-blacks
+                            :downs: 0
+                            :body_html: |-
+                              &lt;div class="md"&gt;&lt;p&gt;You don&amp;#39;t know what stoicism means if you think this gif represents it in any way.&lt;/p&gt;
+                              &lt;/div&gt;
+                            :subreddit: rugbyunion
+                            :score_hidden: false
+                            :name: t1_cq1j4na
+                            :created: 1428227365.0
+                            :author_flair_text: All Blacks
+                            :created_utc: 1428198565.0
+                            :distinguished: 
+                            :mod_reports: []
+                            :num_reports: 
+                            :ups: 1
+                        :after: 
+                        :before: 
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0rtl5
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: BoatCat
+                    :parent_id: t1_cq0r2ar
+                    :score: 8
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: 'South African stoicism can be intimidating '
+                    :edited: false
+                    :author_flair_css_class: 
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;South African stoicism can be intimidating &lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0rtl5
+                    :created: 1428158936.0
+                    :author_flair_text: 
+                    :created_utc: 1428130136.0
+                    :ups: 8
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31dz82
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq1922n
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: wowsuchredditwow
+                    :parent_id: t1_cq0r2ar
+                    :score: 1
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: People are completely different characters on and off the
+                      pitch 99.99% of the time. Hell if say even Dylan Hartley is
+                      a nice guy.
+                    :edited: false
+                    :author_flair_css_class: 
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;People are completely different characters on and off the pitch 99.99% of the time. Hell if say even Dylan Hartley is a nice guy.&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq1922n
+                    :created: 1428207648.0
+                    :author_flair_text: 
+                    :created_utc: 1428178848.0
+                    :ups: 1
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0r2ar
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: KingShish
+            :parent_id: t1_cq0prpb
+            :score: 8
+            :approved_by: 
+            :controversiality: 0
+            :body: "Why?\n\nI've met him and he is a really nice guy.  Just really
+              fucking huge. "
+            :edited: false
+            :author_flair_css_class: south-africa
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Why?&lt;/p&gt;
+
+              &lt;p&gt;I&amp;#39;ve met him and he is a really nice guy.  Just really fucking huge. &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0r2ar
+            :created: 1428156247.0
+            :author_flair_text: South Africa
+            :created_utc: 1428127447.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 8
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31dz82
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31dz82
+                    :likes: 
+                    :replies:
+                      :kind: Listing
+                      :data:
+                        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                        :children:
+                        - :kind: t1
+                          :data:
+                            :subreddit_id: t5_2qkbe
+                            :banned_by: 
+                            :link_id: t3_31dz82
+                            :likes: 
+                            :replies:
+                              :kind: Listing
+                              :data:
+                                :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                                :children:
+                                - :kind: t1
+                                  :data:
+                                    :subreddit_id: t5_2qkbe
+                                    :banned_by: 
+                                    :link_id: t3_31dz82
+                                    :likes: 
+                                    :replies:
+                                      :kind: Listing
+                                      :data:
+                                        :modhash: 0ffo6519roc014c37572f7f247760a0b1d20d5fa257f93f961
+                                        :children:
+                                        - :kind: t1
+                                          :data:
+                                            :subreddit_id: t5_2qkbe
+                                            :banned_by: 
+                                            :link_id: t3_31dz82
+                                            :likes: 
+                                            :replies: ''
+                                            :user_reports: []
+                                            :saved: false
+                                            :id: cq0tosq
+                                            :gilded: 0
+                                            :archived: false
+                                            :report_reasons: 
+                                            :author: SmartGuy2435
+                                            :parent_id: t1_cq0t1jq
+                                            :score: 6
+                                            :approved_by: 
+                                            :controversiality: 0
+                                            :body: r/rugbyunion's finest ^
+                                            :edited: false
+                                            :author_flair_css_class: highlanders
+                                            :downs: 0
+                                            :body_html: |-
+                                              &lt;div class="md"&gt;&lt;p&gt;r/rugbyunion&amp;#39;s finest ^&lt;/p&gt;
+                                              &lt;/div&gt;
+                                            :subreddit: rugbyunion
+                                            :score_hidden: false
+                                            :name: t1_cq0tosq
+                                            :created: 1428167259.0
+                                            :author_flair_text: Highlanders
+                                            :created_utc: 1428138459.0
+                                            :distinguished: 
+                                            :mod_reports: []
+                                            :num_reports: 
+                                            :ups: 6
+                                        - :kind: t1
+                                          :data:
+                                            :subreddit_id: t5_2qkbe
+                                            :banned_by: 
+                                            :link_id: t3_31dz82
+                                            :likes: 
+                                            :replies: ''
+                                            :user_reports: []
+                                            :saved: false
+                                            :id: cq0tuc8
+                                            :gilded: 0
+                                            :archived: false
+                                            :report_reasons: 
+                                            :author: cookiemonster113
+                                            :parent_id: t1_cq0t1jq
+                                            :score: 5
+                                            :approved_by: 
+                                            :controversiality: 0
+                                            :body: 'This comment sums up my whole
+                                              time on this site. '
+                                            :edited: false
+                                            :author_flair_css_class: england
+                                            :downs: 0
+                                            :body_html: |-
+                                              &lt;div class="md"&gt;&lt;p&gt;This comment sums up my whole time on this site. &lt;/p&gt;
+                                              &lt;/div&gt;
+                                            :subreddit: rugbyunion
+                                            :score_hidden: false
+                                            :name: t1_cq0tuc8
+                                            :created: 1428168051.0
+                                            :author_flair_text: England
+                                            :created_utc: 1428139251.0
+                                            :distinguished: 
+                                            :mod_reports: []
+                                            :num_reports: 
+                                            :ups: 5
+                                        :after: 
+                                        :before: 
+                                    :user_reports: []
+                                    :saved: false
+                                    :id: cq0t1jq
+                                    :gilded: 0
+                                    :archived: false
+                                    :report_reasons: 
+                                    :author: Jdds92
+                                    :parent_id: t1_cq0szuf
+                                    :score: 14
+                                    :approved_by: 
+                                    :controversiality: 0
+                                    :body: 'Your comment is too reasonable, I don''t
+                                      like it. '
+                                    :edited: false
+                                    :author_flair_css_class: melbourne-rebels
+                                    :downs: 0
+                                    :body_html: |-
+                                      &lt;div class="md"&gt;&lt;p&gt;Your comment is too reasonable, I don&amp;#39;t like it. &lt;/p&gt;
+                                      &lt;/div&gt;
+                                    :subreddit: rugbyunion
+                                    :score_hidden: false
+                                    :name: t1_cq0t1jq
+                                    :created: 1428164090.0
+                                    :author_flair_text: Melbourne Rebels
+                                    :created_utc: 1428135290.0
+                                    :ups: 14
+                                    :mod_reports: []
+                                    :num_reports: 
+                                    :distinguished: 
+                                :after: 
+                                :before: 
+                            :user_reports: []
+                            :saved: false
+                            :id: cq0szuf
+                            :gilded: 0
+                            :archived: false
+                            :report_reasons: 
+                            :author: SmartGuy2435
+                            :parent_id: t1_cq0sa9r
+                            :score: 5
+                            :approved_by: 
+                            :controversiality: 0
+                            :body: Yeah that's a fair call.
+                            :edited: false
+                            :author_flair_css_class: highlanders
+                            :downs: 0
+                            :body_html: |-
+                              &lt;div class="md"&gt;&lt;p&gt;Yeah that&amp;#39;s a fair call.&lt;/p&gt;
+                              &lt;/div&gt;
+                            :subreddit: rugbyunion
+                            :score_hidden: false
+                            :name: t1_cq0szuf
+                            :created: 1428163863.0
+                            :author_flair_text: Highlanders
+                            :created_utc: 1428135063.0
+                            :distinguished: 
+                            :mod_reports: []
+                            :num_reports: 
+                            :ups: 5
+                        :after: 
+                        :before: 
+                    :user_reports: []
+                    :saved: false
+                    :id: cq0sa9r
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: Jdds92
+                    :parent_id: t1_cq0ptjc
+                    :score: 8
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: 'I''d say a player like Bakkies has a bit of mongrel in
+                      him, Etzebeth just seems like a childish twat, highly unlikable.
+                      Though he looks to be developing into a great player. '
+                    :edited: false
+                    :author_flair_css_class: melbourne-rebels
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;I&amp;#39;d say a player like Bakkies has a bit of mongrel in him, Etzebeth just seems like a childish twat, highly unlikable. Though he looks to be developing into a great player. &lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq0sa9r
+                    :created: 1428160773.0
+                    :author_flair_text: Melbourne Rebels
+                    :created_utc: 1428131973.0
+                    :ups: 8
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq0ptjc
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: SmartGuy2435
+            :parent_id: t1_cq0prpb
+            :score: 1
+            :approved_by: 
+            :controversiality: 0
+            :body: He has real mongrel blood in him.
+            :edited: false
+            :author_flair_css_class: highlanders
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;He has real mongrel blood in him.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0ptjc
+            :created: 1428152500.0
+            :author_flair_text: Highlanders
+            :created_utc: 1428123700.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 1
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0prpb
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Grealish
+    :parent_id: t3_31dz82
+    :score: 11
+    :approved_by: 
+    :controversiality: 0
+    :body: I really dislike Etzebeth.
+    :edited: false
+    :author_flair_css_class: ireland
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I really dislike Etzebeth.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0prpb
+    :created: 1428152354.0
+    :author_flair_text: Ireland and the four Provinces
+    :created_utc: 1428123554.0
+    :ups: 11
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31dz82
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1svwj
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Chambo
+    :parent_id: t3_31dz82
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: This was brilliant!
+    :edited: false
+    :author_flair_css_class: all-blacks
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;This was brilliant!&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1svwj
+    :created: 1428254575.0
+    :author_flair_text: All Blacks
+    :created_utc: 1428225775.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

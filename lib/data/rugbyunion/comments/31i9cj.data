@@ -1,0 +1,38 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31i9cj
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1u3z2
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: skeeter1980
+    :parent_id: t3_31i9cj
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: Great stuff, thanks for sharing.  Was that from your seat, or you do you
+      have a press credential for photography?
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Great stuff, thanks for sharing.  Was that from your seat, or you do you have a press credential for photography?&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: true
+    :name: t1_cq1u3z2
+    :created: 1428261082.0
+    :author_flair_text: 
+    :created_utc: 1428232282.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

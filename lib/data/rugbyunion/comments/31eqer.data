@@ -1,0 +1,37 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31eqer
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1orr8
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: SHOUTIN
+    :parent_id: t3_31eqer
+    :score: 0
+    :approved_by: 
+    :controversiality: 0
+    :body: And kisth
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;And kisth&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1orr8
+    :created: 1428239368.0
+    :author_flair_text: 
+    :created_utc: 1428210568.0
+    :ups: 0
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

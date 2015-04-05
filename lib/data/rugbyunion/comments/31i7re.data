@@ -1,0 +1,118 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31i7re
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1suuf
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: EverythingIsByDesign
+    :parent_id: t3_31i7re
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: He's made out to be about as popular as ISIS, is the another side to this
+      story Edinburgh fans would like to share?
+    :edited: false
+    :author_flair_css_class: llanelli-scarlets
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;He&amp;#39;s made out to be about as popular as ISIS, is the another side to this story Edinburgh fans would like to share?&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1suuf
+    :created: 1428254423.0
+    :author_flair_text: Llanelli Scarlets
+    :created_utc: 1428225623.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31i7re
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 7231ebugvg0a3b8f3248ee7058b81c445bf6915a4136ab9231
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31i7re
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1ue43
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: SparkleRhino
+            :parent_id: t1_cq1u8qt
+            :score: 1
+            :approved_by: 
+            :controversiality: 0
+            :body: Listed but the page has been deleted
+            :edited: false
+            :author_flair_css_class: scotland
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Listed but the page has been deleted&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: true
+            :name: t1_cq1ue43
+            :created: 1428262471.0
+            :author_flair_text: Scotland
+            :created_utc: 1428233671.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 1
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq1u8qt
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: J0nShannow
+    :parent_id: t3_31i7re
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      Interestingly Ms Dingwall is still on the backroom staff list on Edinburgh's website.
+      http://www.edinburghrugby.org/about-us/who-we-are/backroom-staff
+    :edited: false
+    :author_flair_css_class: harlequins
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Interestingly Ms Dingwall is still on the backroom staff list on Edinburgh&amp;#39;s website.
+      &lt;a href="http://www.edinburghrugby.org/about-us/who-we-are/backroom-staff"&gt;http://www.edinburghrugby.org/about-us/who-we-are/backroom-staff&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: true
+    :name: t1_cq1u8qt
+    :created: 1428261736.0
+    :author_flair_text: Harlequins
+    :created_utc: 1428232936.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

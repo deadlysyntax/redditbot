@@ -1,0 +1,83 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31emp6
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 88dyk5lmbgba2b6570f00e23538baa772d0d5a929601f8b297
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31emp6
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq0v1w8
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: tfh_jp
+            :parent_id: t1_cq0untw
+            :score: 5
+            :approved_by: 
+            :controversiality: 0
+            :body: 'obviously because he''s a shill for the website '
+            :edited: false
+            :author_flair_css_class: france
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;obviously because he&amp;#39;s a shill for the website &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq0v1w8
+            :created: 1428174710.0
+            :author_flair_text: France
+            :created_utc: 1428145910.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 5
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq0untw
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Athrul
+    :parent_id: t3_31emp6
+    :score: 7
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      Why post a link to a website that did nothing besides embedding the video, when you could just post the video instead?
+
+      You know, like [this](https://www.youtube.com/watch?v=OLl0Ssqt42E).
+    :edited: false
+    :author_flair_css_class: germany
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Why post a link to a website that did nothing besides embedding the video, when you could just post the video instead?&lt;/p&gt;
+
+      &lt;p&gt;You know, like &lt;a href="https://www.youtube.com/watch?v=OLl0Ssqt42E"&gt;this&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq0untw
+    :created: 1428172564.0
+    :author_flair_text: Germany
+    :created_utc: 1428143764.0
+    :ups: 7
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

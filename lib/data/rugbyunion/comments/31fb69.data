@@ -1,0 +1,292 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31fb69
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: vwojpuwgk433f3557e26fc15611609efe8cd85dd79013525e2
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31fb69
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1c9l3
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: Foveaux
+            :parent_id: t1_cq16psr
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: 'Is it a sheer lack of discipline? From what I recall a lot of
+              these card moments with the Sharks or saffa teams seem to be in retaliation
+              from some kind of cynical play. '
+            :edited: false
+            :author_flair_css_class: highlanders
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Is it a sheer lack of discipline? From what I recall a lot of these card moments with the Sharks or saffa teams seem to be in retaliation from some kind of cynical play. &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1c9l3
+            :created: 1428213864.0
+            :author_flair_text: Licence Plate FEK8OA
+            :created_utc: 1428185064.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq16psr
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: I_Gets_The_Reference
+    :parent_id: t3_31fb69
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: "As a South African fan: sigh. \n\nJust sigh.\n\n"
+    :edited: false
+    :author_flair_css_class: south-africa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;As a South African fan: sigh. &lt;/p&gt;
+
+      &lt;p&gt;Just sigh.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq16psr
+    :created: 1428203193.0
+    :author_flair_text: South Africa
+    :created_utc: 1428174393.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31fb69
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: vwojpuwgk433f3557e26fc15611609efe8cd85dd79013525e2
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31fb69
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq139pn
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: SomeBloke
+            :parent_id: t1_cq12ipi
+            :score: 6
+            :approved_by: 
+            :controversiality: 0
+            :body: I'm honestly starting to wonder how I can support this team. This
+              much thuggery has to be a leadership problem. I don't know whether it
+              stops at the door of the senior players, Gary Gold, or John Smit but
+              I'm quickly losing interest in tuning in for their games.
+            :edited: false
+            :author_flair_css_class: sharks
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;I&amp;#39;m honestly starting to wonder how I can support this team. This much thuggery has to be a leadership problem. I don&amp;#39;t know whether it stops at the door of the senior players, Gary Gold, or John Smit but I&amp;#39;m quickly losing interest in tuning in for their games.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq139pn
+            :created: 1428196598.0
+            :author_flair_text: Sharks
+            :created_utc: 1428167798.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 6
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31fb69
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: vwojpuwgk433f3557e26fc15611609efe8cd85dd79013525e2
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31fb69
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq14b53
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: elljaysa
+                    :parent_id: t1_cq12vfe
+                    :score: 2
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: Sorry I thought the déjà vu was the red card itself!
+                    :edited: false
+                    :author_flair_css_class: bulls
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;Sorry I thought the déjà vu was the red card itself!&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq14b53
+                    :created: 1428198578.0
+                    :author_flair_text: Bulls
+                    :created_utc: 1428169778.0
+                    :ups: 2
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq12vfe
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: itoldyouiwouldeatyou
+            :parent_id: t1_cq12ipi
+            :score: 2
+            :approved_by: 
+            :controversiality: 0
+            :body: |+
+              Yeah, that's the deja vu part.
+
+              Red card against the Crusaders for stamping/kneeing a player on the ground.
+
+              Making it hard for themselves, I just wish the Blues got to play them next week, it could be just the kind of boost we need.
+
+            :edited: false
+            :author_flair_css_class: auckland
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Yeah, that&amp;#39;s the deja vu part.&lt;/p&gt;
+
+              &lt;p&gt;Red card against the Crusaders for stamping/kneeing a player on the ground.&lt;/p&gt;
+
+              &lt;p&gt;Making it hard for themselves, I just wish the Blues got to play them next week, it could be just the kind of boost we need.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq12vfe
+            :created: 1428195838.0
+            :author_flair_text: Auckland
+            :created_utc: 1428167038.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 2
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq12ipi
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: elljaysa
+    :parent_id: t3_31fb69
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      Was it Chiefs or Crusaders he got a red in last year for stamping? Sharks sporting 3 bans of 1st team players now...
+
+      Edit: It was Crusaders.
+      https://www.youtube.com/watch?v=YXyYMdAVepo
+    :edited: 1428166611.0
+    :author_flair_css_class: bulls
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Was it Chiefs or Crusaders he got a red in last year for stamping? Sharks sporting 3 bans of 1st team players now...&lt;/p&gt;
+
+      &lt;p&gt;Edit: It was Crusaders.
+      &lt;a href="https://www.youtube.com/watch?v=YXyYMdAVepo"&gt;https://www.youtube.com/watch?v=YXyYMdAVepo&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq12ipi
+    :created: 1428195134.0
+    :author_flair_text: Bulls
+    :created_utc: 1428166334.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31fb69
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1r8j8
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: SouthAfricanD
+    :parent_id: t3_31fb69
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: 'I hope a straight 8 week ban. Not even joking. He pulled the same shit
+      last year with the Crusaders. '
+    :edited: false
+    :author_flair_css_class: sharks
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I hope a straight 8 week ban. Not even joking. He pulled the same shit last year with the Crusaders. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1r8j8
+    :created: 1428247084.0
+    :author_flair_text: Sharks
+    :created_utc: 1428218284.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

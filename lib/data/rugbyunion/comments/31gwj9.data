@@ -1,0 +1,310 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gwj9
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1g6cz
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: krakkerz
+    :parent_id: t3_31gwj9
+    :score: 9
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      Honestly, you need to stop worrying so much. Let's answer all of the questions - starting from the title:
+
+      1. Is Rugby right for me?  Rugby is right for everyone. It is one of the few sports which has a place for everyone.
+
+      2. What can I do to be right for Rugby? Turn up and play. Leave your ego at the sideline, listen well and play hard.
+
+      3. Positional stuff? It doesn't matter. Your coach will find where you are of most use to the team. Don't try to figure it out now.
+
+      4. Are there any players out there who are very shy and anxious yet learnt how to overcome it?  Yes. All of the time. You are not the first and won't be the last to have questions. Make the leap.
+
+      5. Can a loner play Rugby? I'm a loner-type and I can honestly say I was bloody good at it when I was younger. And I think that's why. I could concentrate on me and getting my next job done.
+
+      Of course it's a pack game. That doesn't mean individuals aren't appreciated and valued.
+
+      Here's an idea..... Stop looking for all the reasons not to play and start finding some of the hundreds as to why you should.
+    :edited: false
+    :author_flair_css_class: australia
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Honestly, you need to stop worrying so much. Let&amp;#39;s answer all of the questions - starting from the title:&lt;/p&gt;
+
+      &lt;ol&gt;
+      &lt;li&gt;&lt;p&gt;Is Rugby right for me?  Rugby is right for everyone. It is one of the few sports which has a place for everyone.&lt;/p&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;p&gt;What can I do to be right for Rugby? Turn up and play. Leave your ego at the sideline, listen well and play hard.&lt;/p&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;p&gt;Positional stuff? It doesn&amp;#39;t matter. Your coach will find where you are of most use to the team. Don&amp;#39;t try to figure it out now.&lt;/p&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;p&gt;Are there any players out there who are very shy and anxious yet learnt how to overcome it?  Yes. All of the time. You are not the first and won&amp;#39;t be the last to have questions. Make the leap.&lt;/p&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;p&gt;Can a loner play Rugby? I&amp;#39;m a loner-type and I can honestly say I was bloody good at it when I was younger. And I think that&amp;#39;s why. I could concentrate on me and getting my next job done.&lt;/p&gt;&lt;/li&gt;
+      &lt;/ol&gt;
+
+      &lt;p&gt;Of course it&amp;#39;s a pack game. That doesn&amp;#39;t mean individuals aren&amp;#39;t appreciated and valued.&lt;/p&gt;
+
+      &lt;p&gt;Here&amp;#39;s an idea..... Stop looking for all the reasons not to play and start finding some of the hundreds as to why you should.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1g6cz
+    :created: 1428221478.0
+    :author_flair_text: Australia
+    :created_utc: 1428192678.0
+    :ups: 9
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gwj9
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1fy49
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: MintyLotus
+    :parent_id: t3_31gwj9
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: 'You don''t know unless you try. '
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;You don&amp;#39;t know unless you try. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1fy49
+    :created: 1428221028.0
+    :author_flair_text: 
+    :created_utc: 1428192228.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gwj9
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1gewh
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: BZH_JJM
+    :parent_id: t3_31gwj9
+    :score: 3
+    :approved_by: 
+    :controversiality: 0
+    :body: "To quote myself when asked whether something should play rugby or not:
+      \n\n\"The answer is always yes.\""
+    :edited: false
+    :author_flair_css_class: usa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;To quote myself when asked whether something should play rugby or not: &lt;/p&gt;
+
+      &lt;p&gt;&amp;quot;The answer is always yes.&amp;quot;&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1gewh
+    :created: 1428221944.0
+    :author_flair_text: C-O-L-L-I-D-G-E
+    :created_utc: 1428193144.0
+    :ups: 3
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gwj9
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1hkks
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: J0nShannow
+    :parent_id: t3_31gwj9
+    :score: 4
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      I'll just go ahead and agree with everyone else on here (and the hitchhikers guide to the galaxy) and say DON'T PANIC! Sorry to hear about your problems but don't let them dictate your future. Jason Robinson was an alcoholic among other issues and he went on to be one of the greatest players in rugby history.
+
+      On the shyness and timidity in front of 'alpha males'... front I was very similar, and I overcame it through work rather than rugby, although the result was the same. Once you get to know them the majority of people are nice and happy to help, particularly when you're starting out. If you do find yourself in the unlikely situation of turning up to a team of bellends then you can always walk away, but obviously don't be too hasty with that option. My personal solution is with cracking jokes. Whenever I start somewhere new its difficult to get a word out of me, I just smile and nod. After a while, I mean a couple of weeks, I will start to crack some jokes, I'm a pretty funny guy so the laughter that generates boosts my confidence and after a while people struggle to shut me up. Obviously this is just me but that is how I overcome the anxiety. My main piece of general advice for this bit is to be respectful at first, avoid getting involved in 'banter' initially, do what your told by coaches and senior team members (obviously don't get fucked over with 'get me a long wait' or 'tartan paint' or 'drink your own piss' or anything).
+
+      On the finding your position front your coach should be able to sort you out. Amateur level isn't like International with highly specialised positions. Ive seen obese 10s and rake thin 8s so don't worry about it.
+
+      Hopefully this wasn't too rambling and I hope you do go forth and play. Also where abouts are you based? Obviously not your address but South of England? Northern Wales? Just curiosity, you never know you mite be near someone on here and they could provide a friendly face.
+
+      edit: Hooray for formatting!
+    :edited: false
+    :author_flair_css_class: harlequins
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I&amp;#39;ll just go ahead and agree with everyone else on here (and the hitchhikers guide to the galaxy) and say DON&amp;#39;T PANIC! Sorry to hear about your problems but don&amp;#39;t let them dictate your future. Jason Robinson was an alcoholic among other issues and he went on to be one of the greatest players in rugby history.&lt;/p&gt;
+
+      &lt;p&gt;On the shyness and timidity in front of &amp;#39;alpha males&amp;#39;... front I was very similar, and I overcame it through work rather than rugby, although the result was the same. Once you get to know them the majority of people are nice and happy to help, particularly when you&amp;#39;re starting out. If you do find yourself in the unlikely situation of turning up to a team of bellends then you can always walk away, but obviously don&amp;#39;t be too hasty with that option. My personal solution is with cracking jokes. Whenever I start somewhere new its difficult to get a word out of me, I just smile and nod. After a while, I mean a couple of weeks, I will start to crack some jokes, I&amp;#39;m a pretty funny guy so the laughter that generates boosts my confidence and after a while people struggle to shut me up. Obviously this is just me but that is how I overcome the anxiety. My main piece of general advice for this bit is to be respectful at first, avoid getting involved in &amp;#39;banter&amp;#39; initially, do what your told by coaches and senior team members (obviously don&amp;#39;t get fucked over with &amp;#39;get me a long wait&amp;#39; or &amp;#39;tartan paint&amp;#39; or &amp;#39;drink your own piss&amp;#39; or anything).&lt;/p&gt;
+
+      &lt;p&gt;On the finding your position front your coach should be able to sort you out. Amateur level isn&amp;#39;t like International with highly specialised positions. Ive seen obese 10s and rake thin 8s so don&amp;#39;t worry about it.&lt;/p&gt;
+
+      &lt;p&gt;Hopefully this wasn&amp;#39;t too rambling and I hope you do go forth and play. Also where abouts are you based? Obviously not your address but South of England? Northern Wales? Just curiosity, you never know you mite be near someone on here and they could provide a friendly face.&lt;/p&gt;
+
+      &lt;p&gt;edit: Hooray for formatting!&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1hkks
+    :created: 1428224243.0
+    :author_flair_text: Harlequins
+    :created_utc: 1428195443.0
+    :ups: 4
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gwj9
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1i9n1
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: fernta
+    :parent_id: t3_31gwj9
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      You're scared and I know what it's like to be anxious - but I feel as though you might not be confident at the moment, using rugby as exercise, as meeting new people, etc etc, would be perfect. Like, that could be your method to get involved with people, to boost your confidence, to gain some muscle, to improve your fitness, to rid yourself of depression.
+
+      Maybe you could start running or going to the gym now so you feel a bit more comfortable slotting into it, build a bit more confidence doing that and then come into rugby when you feel as though you have the confidence to begin?
+
+      Honestly, while you're light, you're not tooo light and you're somewhat tall, if you gained a bit of confidence and muscle you might go well in the centres.
+    :edited: false
+    :author_flair_css_class: crusaders
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;You&amp;#39;re scared and I know what it&amp;#39;s like to be anxious - but I feel as though you might not be confident at the moment, using rugby as exercise, as meeting new people, etc etc, would be perfect. Like, that could be your method to get involved with people, to boost your confidence, to gain some muscle, to improve your fitness, to rid yourself of depression.&lt;/p&gt;
+
+      &lt;p&gt;Maybe you could start running or going to the gym now so you feel a bit more comfortable slotting into it, build a bit more confidence doing that and then come into rugby when you feel as though you have the confidence to begin?&lt;/p&gt;
+
+      &lt;p&gt;Honestly, while you&amp;#39;re light, you&amp;#39;re not tooo light and you&amp;#39;re somewhat tall, if you gained a bit of confidence and muscle you might go well in the centres.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1i9n1
+    :created: 1428225655.0
+    :author_flair_text: Canterbury/Crusaders/All Blacks
+    :created_utc: 1428196855.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gwj9
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1k3sk
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Plumbous
+    :parent_id: t3_31gwj9
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Just go and play, the guys will know where you fit best, and you''ll have
+      a good idea too. '
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Just go and play, the guys will know where you fit best, and you&amp;#39;ll have a good idea too. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1k3sk
+    :created: 1428229294.0
+    :author_flair_text: 
+    :created_utc: 1428200494.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gwj9
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1n703
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Roflbattleship
+    :parent_id: t3_31gwj9
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: Don't worry about it so much, give it a shot :)
+    :edited: false
+    :author_flair_css_class: south-africa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Don&amp;#39;t worry about it so much, give it a shot :)&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1n703
+    :created: 1428235643.0
+    :author_flair_text: South Africa
+    :created_utc: 1428206843.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
