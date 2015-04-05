@@ -1,0 +1,215 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ggfo
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1cbx5
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Honey_Otter
+    :parent_id: t3_31ggfo
+    :score: 6
+    :approved_by: 
+    :controversiality: 0
+    :body: Got to respect that kind of attitude.
+    :edited: false
+    :author_flair_css_class: wales
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Got to respect that kind of attitude.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1cbx5
+    :created: 1428213981.0
+    :author_flair_text: Wales
+    :created_utc: 1428185181.0
+    :ups: 6
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ggfo
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 4ux88wnre634aee05494a497aa119f0cd5ccee8a1a29038043
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31ggfo
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1cs82
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: J0nShannow
+            :parent_id: t1_cq1co9e
+            :score: 3
+            :approved_by: 
+            :controversiality: 0
+            :body: You're welcome.
+            :edited: false
+            :author_flair_css_class: harlequins
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;You&amp;#39;re welcome.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1cs82
+            :created: 1428214850.0
+            :author_flair_text: Harlequins
+            :created_utc: 1428186050.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 3
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq1co9e
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: savois-faire
+    :parent_id: t3_31ggfo
+    :score: 6
+    :approved_by: 
+    :controversiality: 0
+    :body: He's a top bloke by all accounts, is Tom. I needed a good laugh after that
+      tragedy, thanks for posting.
+    :edited: false
+    :author_flair_css_class: northampton
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;He&amp;#39;s a top bloke by all accounts, is Tom. I needed a good laugh after that tragedy, thanks for posting.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1co9e
+    :created: 1428214635.0
+    :author_flair_text: Northampton Saints
+    :created_utc: 1428185835.0
+    :ups: 6
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ggfo
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1ed5m
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: MrSouthWest
+    :parent_id: t3_31ggfo
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: Had a small chuckle to myself over this. Tried explaining why it was funny
+      to my girlfriend and she didn't get it. Something only those who play rugby
+      would get.
+    :edited: false
+    :author_flair_css_class: exeter-chiefs
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Had a small chuckle to myself over this. Tried explaining why it was funny to my girlfriend and she didn&amp;#39;t get it. Something only those who play rugby would get.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1ed5m
+    :created: 1428217951.0
+    :author_flair_text: Exeter Chiefs
+    :created_utc: 1428189151.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31ggfo
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1au7s
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: TweetPoster
+    :parent_id: t3_31ggfo
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: |
+      [**@tomwood678**](https://twitter.com/tomwood678):
+      &gt;[2015-04-04 21:03:21 UTC](https://twitter.com/tomwood678/status/584461274324557826)
+
+      &gt;Thanks to Clermont for inviting us to their open training session today. We've left our non contact bibs in the changing rooms [#humbled](https://twitter.com/search?q=%23humbled)
+
+      ----
+
+      [^[Mistake?]](http://www.reddit.com/message/compose/?to=TweetPoster&amp;subject=Error%20Report&amp;message=http://reddit.com/31ggfo%0A%0APlease leave above link unaltered.)
+      [^[Suggestion]](http://www.reddit.com/message/compose/?to=TweetPoster&amp;subject=Suggestion)
+      [^[FAQ]](http://np.reddit.com/r/TweetPoster/comments/13relk/)
+      [^[Code]](https://github.com/buttscicles/TweetPoster)
+      [^[Issues]](https://github.com/buttscicles/TweetPoster/issues)
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://twitter.com/tomwood678"&gt;&lt;strong&gt;@tomwood678&lt;/strong&gt;&lt;/a&gt;:&lt;/p&gt;
+
+      &lt;blockquote&gt;
+      &lt;p&gt;&lt;a href="https://twitter.com/tomwood678/status/584461274324557826"&gt;2015-04-04 21:03:21 UTC&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;Thanks to Clermont for inviting us to their open training session today. We&amp;#39;ve left our non contact bibs in the changing rooms &lt;a href="https://twitter.com/search?q=%23humbled"&gt;#humbled&lt;/a&gt;&lt;/p&gt;
+      &lt;/blockquote&gt;
+
+      &lt;hr/&gt;
+
+      &lt;p&gt;&lt;a href="http://www.reddit.com/message/compose/?to=TweetPoster&amp;amp;subject=Error%20Report&amp;amp;message=http://reddit.com/31ggfo%0A%0APlease%20leave%20above%20link%20unaltered."&gt;&lt;sup&gt;[Mistake?]&lt;/sup&gt;&lt;/a&gt;
+      &lt;a href="http://www.reddit.com/message/compose/?to=TweetPoster&amp;amp;subject=Suggestion"&gt;&lt;sup&gt;[Suggestion]&lt;/sup&gt;&lt;/a&gt;
+      &lt;a href="http://np.reddit.com/r/TweetPoster/comments/13relk/"&gt;&lt;sup&gt;[FAQ]&lt;/sup&gt;&lt;/a&gt;
+      &lt;a href="https://github.com/buttscicles/TweetPoster"&gt;&lt;sup&gt;[Code]&lt;/sup&gt;&lt;/a&gt;
+      &lt;a href="https://github.com/buttscicles/TweetPoster/issues"&gt;&lt;sup&gt;[Issues]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1au7s
+    :created: 1428211113.0
+    :author_flair_text: 
+    :created_utc: 1428182313.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

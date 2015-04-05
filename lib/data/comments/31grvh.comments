@@ -1,0 +1,255 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31grvh
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 1a3unlwzar07cdaf9a6edb4bd583c9fa13d6689923a7e34659
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31grvh
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: 1a3unlwzar07cdaf9a6edb4bd583c9fa13d6689923a7e34659
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31grvh
+                    :likes: 
+                    :replies: ''
+                    :user_reports: []
+                    :saved: false
+                    :id: cq1n78r
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: amplebooty
+                    :parent_id: t1_cq1hmsc
+                    :score: 1
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: "&gt;  but his kicking is still very poor\n\nThat's an
+                      exaggeration "
+                    :edited: false
+                    :author_flair_css_class: england
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;blockquote&gt;
+                      &lt;p&gt;but his kicking is still very poor&lt;/p&gt;
+                      &lt;/blockquote&gt;
+
+                      &lt;p&gt;That&amp;#39;s an exaggeration &lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: true
+                    :name: t1_cq1n78r
+                    :created: 1428235658.0
+                    :author_flair_text: 'England #theempirestrikesback'
+                    :created_utc: 1428206858.0
+                    :ups: 1
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq1hmsc
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: ronnierosenthal
+            :parent_id: t1_cq1e7hi
+            :score: 3
+            :approved_by: 
+            :controversiality: 0
+            :body: He's a great playmaker but his kicking is still very poor. Similar
+              to Madigan - he's great if you're on the front foot and putting the
+              ball through hands, but I'm not convinced he can control a game. He's
+              five years younger than Madigan though so he has time.
+            :edited: false
+            :author_flair_css_class: ireland
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;He&amp;#39;s a great playmaker but his kicking is still very poor. Similar to Madigan - he&amp;#39;s great if you&amp;#39;re on the front foot and putting the ball through hands, but I&amp;#39;m not convinced he can control a game. He&amp;#39;s five years younger than Madigan though so he has time.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1hmsc
+            :created: 1428224365.0
+            :author_flair_text: Ireland
+            :created_utc: 1428195565.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 3
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq1e7hi
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Cpt_PP
+    :parent_id: t3_31grvh
+    :score: 7
+    :approved_by: 
+    :controversiality: 0
+    :body: Ford is developing into an incredible 10
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Ford is developing into an incredible 10&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1e7hi
+    :created: 1428217645.0
+    :author_flair_text: 
+    :created_utc: 1428188845.0
+    :ups: 7
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31grvh
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1endz
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: weedkrum
+    :parent_id: t3_31grvh
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      Madigan V Bath Highlights
+
+      FTFY
+    :edited: false
+    :author_flair_css_class: bath
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Madigan V Bath Highlights&lt;/p&gt;
+
+      &lt;p&gt;FTFY&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1endz
+    :created: 1428218498.0
+    :author_flair_text: Bath
+    :created_utc: 1428189698.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31grvh
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: 1a3unlwzar07cdaf9a6edb4bd583c9fa13d6689923a7e34659
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31grvh
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1fw9w
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: AcrylicPaintSet
+            :parent_id: t1_cq1fc4h
+            :score: 1
+            :approved_by: 
+            :controversiality: 0
+            :body: "He specifically said O'Brien had hands in the ruck, having watched
+              it again, you can clearly see his arms are still wrapped around a leg.
+              \n\nDodgy call none the less, I'm sure it's the last one we'll ever
+              experience!"
+            :edited: false
+            :author_flair_css_class: leinster
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;He specifically said O&amp;#39;Brien had hands in the ruck, having watched it again, you can clearly see his arms are still wrapped around a leg. &lt;/p&gt;
+
+              &lt;p&gt;Dodgy call none the less, I&amp;#39;m sure it&amp;#39;s the last one we&amp;#39;ll ever experience!&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1fw9w
+            :created: 1428220926.0
+            :author_flair_text: Leinster
+            :created_utc: 1428192126.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 1
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq1fc4h
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: bubububen
+    :parent_id: t3_31grvh
+    :score: 5
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      Thought that last penalty from the ref was a shocker.
+
+      That said I dunno what the hell Dallaglio was on about. No Leinster player infringed at that last ruck.
+    :edited: false
+    :author_flair_css_class: ulster
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Thought that last penalty from the ref was a shocker.&lt;/p&gt;
+
+      &lt;p&gt;That said I dunno what the hell Dallaglio was on about. No Leinster player infringed at that last ruck.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1fc4h
+    :created: 1428219834.0
+    :author_flair_text: Ulster
+    :created_utc: 1428191034.0
+    :ups: 5
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

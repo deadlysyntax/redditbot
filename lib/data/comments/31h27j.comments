@@ -1,0 +1,73 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31h27j
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1kel5
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: sdre
+    :parent_id: t3_31h27j
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: WOW. superb stuff from the lions
+    :edited: false
+    :author_flair_css_class: japan
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;WOW. superb stuff from the lions&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1kel5
+    :created: 1428229894.0
+    :author_flair_text: Japan
+    :created_utc: 1428201094.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31h27j
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1j0nj
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: skeeter1980
+    :parent_id: t3_31h27j
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Photo Gallery: http://www.gettyimages.com/galleries/events/518587295'
+    :edited: false
+    :author_flair_css_class: 
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Photo Gallery: &lt;a href="http://www.gettyimages.com/galleries/events/518587295"&gt;http://www.gettyimages.com/galleries/events/518587295&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1j0nj
+    :created: 1428227145.0
+    :author_flair_text: 
+    :created_utc: 1428198345.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1

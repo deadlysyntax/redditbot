@@ -1,5 +1,6 @@
 class Engine
   
+  attr_reader :client
   
   def initialize
     @commands = Commandify::process
@@ -7,13 +8,14 @@ class Engine
   
   
   def run
-    p @commands
-
-    case @commands['action']
-    when 'get_links'
-      p Reddibot::get_links( @commands['options'].sub )
-    end
     
+    if Reddibot::command_list.include? @commands[:action]
+      
+      Reddibot.send( @commands[:action], @commands[:options] )
+
+    else
+      p "Command #{@commands[:action]} not available"
+    end
   end
   
   

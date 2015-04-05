@@ -1,0 +1,556 @@
+---
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gz1r
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1mlpx
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: rogueginger
+    :parent_id: t3_31gz1r
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: HOLY SHIT
+    :edited: false
+    :author_flair_css_class: canada
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;HOLY SHIT&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: true
+    :name: t1_cq1mlpx
+    :created: 1428234367.0
+    :author_flair_text: Canada
+    :created_utc: 1428205567.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gz1r
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1ml54
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Zammy67rocks2
+    :parent_id: t3_31gz1r
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: I can't believe we just beat New Zealand jesus christ
+    :edited: false
+    :author_flair_css_class: canada
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;I can&amp;#39;t believe we just beat New Zealand jesus christ&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: true
+    :name: t1_cq1ml54
+    :created: 1428234331.0
+    :author_flair_text: Canada, Stormers
+    :created_utc: 1428205531.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gz1r
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1mlgm
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: HerbaceousForgotPass
+    :parent_id: t3_31gz1r
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: 'Jesus Christ great performance by Canada against NZ. '
+    :edited: false
+    :author_flair_css_class: canada
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Jesus Christ great performance by Canada against NZ. &lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: true
+    :name: t1_cq1mlgm
+    :created: 1428234350.0
+    :author_flair_text: Canada &amp; Barbos
+    :created_utc: 1428205550.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gz1r
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1mka2
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: ChristianMB1
+    :parent_id: t3_31gz1r
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: CANADA HOLY FUCK
+    :edited: false
+    :author_flair_css_class: usa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;CANADA HOLY FUCK&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: true
+    :name: t1_cq1mka2
+    :created: 1428234281.0
+    :author_flair_text: USA
+    :created_utc: 1428205481.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gz1r
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1j4oi
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: ChristianMB1
+    :parent_id: t3_31gz1r
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      This is the most insane Day 2 schedule I've ever seen.
+
+      Australia, USA and Argentina all going to the Bowl while Japan, France, Scotland and Canada all slip into the Cup.
+
+      Going to be a fun day regardless.
+    :edited: false
+    :author_flair_css_class: usa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;This is the most insane Day 2 schedule I&amp;#39;ve ever seen.&lt;/p&gt;
+
+      &lt;p&gt;Australia, USA and Argentina all going to the Bowl while Japan, France, Scotland and Canada all slip into the Cup.&lt;/p&gt;
+
+      &lt;p&gt;Going to be a fun day regardless.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1j4oi
+    :created: 1428227367.0
+    :author_flair_text: USA
+    :created_utc: 1428198567.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gz1r
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1je8h
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Mariusuiram
+    :parent_id: t3_31gz1r
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: And now Argentina is in the shield. Goofy tournament. Could set up some
+      serious pools of death for Glasgow.
+    :edited: false
+    :author_flair_css_class: usa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;And now Argentina is in the shield. Goofy tournament. Could set up some serious pools of death for Glasgow.&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1je8h
+    :created: 1428227869.0
+    :author_flair_text: USA
+    :created_utc: 1428199069.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gz1r
+    :likes: 
+    :replies:
+      :kind: Listing
+      :data:
+        :modhash: bl6aqznic2bfb51ab4cfb5fbd89a8e5b91909a28899537cfb7
+        :children:
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31gz1r
+            :likes: 
+            :replies:
+              :kind: Listing
+              :data:
+                :modhash: bl6aqznic2bfb51ab4cfb5fbd89a8e5b91909a28899537cfb7
+                :children:
+                - :kind: t1
+                  :data:
+                    :subreddit_id: t5_2qkbe
+                    :banned_by: 
+                    :link_id: t3_31gz1r
+                    :likes: 
+                    :replies:
+                      :kind: Listing
+                      :data:
+                        :modhash: bl6aqznic2bfb51ab4cfb5fbd89a8e5b91909a28899537cfb7
+                        :children:
+                        - :kind: t1
+                          :data:
+                            :subreddit_id: t5_2qkbe
+                            :banned_by: 
+                            :link_id: t3_31gz1r
+                            :likes: 
+                            :replies: ''
+                            :user_reports: []
+                            :saved: false
+                            :id: cq1m1nj
+                            :gilded: 0
+                            :archived: false
+                            :report_reasons: 
+                            :author: ChristianMB1
+                            :parent_id: t1_cq1lok7
+                            :score: 1
+                            :approved_by: 
+                            :controversiality: 0
+                            :body: Just mentioning it because Hughes has been very
+                              poor and Niua has done some kicking for the 15s side
+                              IIRC.
+                            :edited: false
+                            :author_flair_css_class: usa
+                            :downs: 0
+                            :body_html: |-
+                              &lt;div class="md"&gt;&lt;p&gt;Just mentioning it because Hughes has been very poor and Niua has done some kicking for the 15s side IIRC.&lt;/p&gt;
+                              &lt;/div&gt;
+                            :subreddit: rugbyunion
+                            :score_hidden: true
+                            :name: t1_cq1m1nj
+                            :created: 1428233201.0
+                            :author_flair_text: USA
+                            :created_utc: 1428204401.0
+                            :distinguished: 
+                            :mod_reports: []
+                            :num_reports: 
+                            :ups: 1
+                        :after: 
+                        :before: 
+                    :user_reports: []
+                    :saved: false
+                    :id: cq1lok7
+                    :gilded: 0
+                    :archived: false
+                    :report_reasons: 
+                    :author: Mariusuiram
+                    :parent_id: t1_cq1lfzd
+                    :score: 2
+                    :approved_by: 
+                    :controversiality: 0
+                    :body: |-
+                      Ya bender looked good. In HK he looked a little slow but not in japan. We are in a great position in terms of forwards. Just need someone that can backup a Hughes/Niua role
+
+                      I get the sense that Niua is a bit inconsistent? Maybe? So you risk losing more simple kicks. Or Hughes is much better in training? We really don't have anyone that's particularly good. That'll be a bigger issue if we keep contesting top teams. US probably hits under 30% of conversions that aren't near the posts
+                    :edited: false
+                    :author_flair_css_class: usa
+                    :downs: 0
+                    :body_html: |-
+                      &lt;div class="md"&gt;&lt;p&gt;Ya bender looked good. In HK he looked a little slow but not in japan. We are in a great position in terms of forwards. Just need someone that can backup a Hughes/Niua role&lt;/p&gt;
+
+                      &lt;p&gt;I get the sense that Niua is a bit inconsistent? Maybe? So you risk losing more simple kicks. Or Hughes is much better in training? We really don&amp;#39;t have anyone that&amp;#39;s particularly good. That&amp;#39;ll be a bigger issue if we keep contesting top teams. US probably hits under 30% of conversions that aren&amp;#39;t near the posts&lt;/p&gt;
+                      &lt;/div&gt;
+                    :subreddit: rugbyunion
+                    :score_hidden: false
+                    :name: t1_cq1lok7
+                    :created: 1428232490.0
+                    :author_flair_text: USA
+                    :created_utc: 1428203690.0
+                    :ups: 2
+                    :mod_reports: []
+                    :num_reports: 
+                    :distinguished: 
+                :after: 
+                :before: 
+            :user_reports: []
+            :saved: false
+            :id: cq1lfzd
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: ChristianMB1
+            :parent_id: t1_cq1ktwc
+            :score: 1
+            :approved_by: 
+            :controversiality: 0
+            :body: |-
+              Bender was great too. We're a really deep squad now.
+
+              Just curious, why doesn't Niua kick? Feel he'd be MUCH better than Hughes.
+            :edited: false
+            :author_flair_css_class: usa
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Bender was great too. We&amp;#39;re a really deep squad now.&lt;/p&gt;
+
+              &lt;p&gt;Just curious, why doesn&amp;#39;t Niua kick? Feel he&amp;#39;d be MUCH better than Hughes.&lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: false
+            :name: t1_cq1lfzd
+            :created: 1428232000.0
+            :author_flair_text: USA
+            :created_utc: 1428203200.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 1
+        - :kind: t1
+          :data:
+            :subreddit_id: t5_2qkbe
+            :banned_by: 
+            :link_id: t3_31gz1r
+            :likes: 
+            :replies: ''
+            :user_reports: []
+            :saved: false
+            :id: cq1nje9
+            :gilded: 0
+            :archived: false
+            :report_reasons: 
+            :author: walt89
+            :parent_id: t1_cq1ktwc
+            :score: 1
+            :approved_by: 
+            :controversiality: 0
+            :body: 'Give augspurger another look. He''s the truth. '
+            :edited: false
+            :author_flair_css_class: 
+            :downs: 0
+            :body_html: |-
+              &lt;div class="md"&gt;&lt;p&gt;Give augspurger another look. He&amp;#39;s the truth. &lt;/p&gt;
+              &lt;/div&gt;
+            :subreddit: rugbyunion
+            :score_hidden: true
+            :name: t1_cq1nje9
+            :created: 1428236415.0
+            :author_flair_text: 
+            :created_utc: 1428207615.0
+            :distinguished: 
+            :mod_reports: []
+            :num_reports: 
+            :ups: 1
+        :after: 
+        :before: 
+    :user_reports: []
+    :saved: false
+    :id: cq1ktwc
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Mariusuiram
+    :parent_id: t3_31gz1r
+    :score: 2
+    :approved_by: 
+    :controversiality: 0
+    :body: |-
+      Watching the US dismantle Portugal 39-0 makes me happy but even more pissed at Niua for his stupid suspension. The difference with him in the middle is so clear.
+
+      Also Leuta is a beast. I hope he can tackle. I think he may be pushing pat Blair out permanently. Leuta, Barrett, Duratolo, and bender is a nasty group of forwards.
+
+      Subs going forward are probably Leuta and Bender, baker and Iosefo, and don't know the 5th. Iosefo isn't a speedster. You need someone with some pace who can play at fly or scrum. I don't think Augspurger is it. I guess there is some flexibility to move test out into the backs
+    :edited: false
+    :author_flair_css_class: usa
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;Watching the US dismantle Portugal 39-0 makes me happy but even more pissed at Niua for his stupid suspension. The difference with him in the middle is so clear.&lt;/p&gt;
+
+      &lt;p&gt;Also Leuta is a beast. I hope he can tackle. I think he may be pushing pat Blair out permanently. Leuta, Barrett, Duratolo, and bender is a nasty group of forwards.&lt;/p&gt;
+
+      &lt;p&gt;Subs going forward are probably Leuta and Bender, baker and Iosefo, and don&amp;#39;t know the 5th. Iosefo isn&amp;#39;t a speedster. You need someone with some pace who can play at fly or scrum. I don&amp;#39;t think Augspurger is it. I guess there is some flexibility to move test out into the backs&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: false
+    :name: t1_cq1ktwc
+    :created: 1428230776.0
+    :author_flair_text: USA
+    :created_utc: 1428201976.0
+    :ups: 2
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gz1r
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1n21w
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: Uterus_Punch
+    :parent_id: t3_31gz1r
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: When I first saw this thread I was going to comment about how it'll be
+      nice to watch our plate quarter final match ... god thing I didn't make that
+      joke. The Canada that was just on the field was the team from last season and
+      we definitely could have been playing like that all year. We beat England s
+      few months ago so maybe it's not unrealistic to make it into the final?
+    :edited: false
+    :author_flair_css_class: canada
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;When I first saw this thread I was going to comment about how it&amp;#39;ll be nice to watch our plate quarter final match ... god thing I didn&amp;#39;t make that joke. The Canada that was just on the field was the team from last season and we definitely could have been playing like that all year. We beat England s few months ago so maybe it&amp;#39;s not unrealistic to make it into the final?&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: true
+    :name: t1_cq1n21w
+    :created: 1428235349.0
+    :author_flair_text: Canada
+    :created_utc: 1428206549.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gz1r
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1mye1
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: jakewaratahs
+    :parent_id: t3_31gz1r
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: NZ is kill
+    :edited: false
+    :author_flair_css_class: waratahs
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;NZ is kill&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: true
+    :name: t1_cq1mye1
+    :created: 1428235129.0
+    :author_flair_text: NSW Waratahs
+    :created_utc: 1428206329.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
+- !ruby/object:RedditKit::Comment
+  attributes:
+    :subreddit_id: t5_2qkbe
+    :banned_by: 
+    :link_id: t3_31gz1r
+    :likes: 
+    :replies: ''
+    :user_reports: []
+    :saved: false
+    :id: cq1nr06
+    :gilded: 0
+    :archived: false
+    :report_reasons: 
+    :author: KiwiMaoriJapan
+    :parent_id: t3_31gz1r
+    :score: 1
+    :approved_by: 
+    :controversiality: 0
+    :body: "NZs inside defence totally exposed again. \n\nGreat job Canada\n"
+    :edited: false
+    :author_flair_css_class: blues
+    :downs: 0
+    :body_html: |-
+      &lt;div class="md"&gt;&lt;p&gt;NZs inside defence totally exposed again. &lt;/p&gt;
+
+      &lt;p&gt;Great job Canada&lt;/p&gt;
+      &lt;/div&gt;
+    :subreddit: rugbyunion
+    :score_hidden: true
+    :name: t1_cq1nr06
+    :created: 1428236888.0
+    :author_flair_text: Blues
+    :created_utc: 1428208088.0
+    :ups: 1
+    :mod_reports: []
+    :num_reports: 
+    :distinguished: 
+    :kind: t1
