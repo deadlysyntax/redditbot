@@ -20,7 +20,8 @@ module Commandify
           opt :sub,      "Which subreddit",               :type    => String
           opt :category, "Which category of a subreddit", :type    => String, :default => 'hot'
           opt :limit,    "Limit",                         :default => 10
-          opt :filename, "Write data to a file",          :type    => String, :default => ''
+          opt :project,  "Write data to a file",          :type    => String, :default => ''
+          opt :filename, "Write data to a file",          :type => String, :default => ''
         end
         
         
@@ -32,25 +33,11 @@ module Commandify
       
       when "get_comments_on_links"
          Trollop::options do
-           opt :filename, "Write data to a file",     :type => String, :default => '/'
+           opt :project, "Write data to a file",     :type => String, :default => ''
+           opt :filename, "Write data to a file",    :type => String, :default => ''
          end 
         
-        
-      when "write_data"
-        Trollop::options do
-          opt :data,     "The data to write",        :type => String
-          opt :format,   "Which data format to use", :type => String 
-          opt :filename, "Write data to a file",     :type => String, :default => '/'
-        end
-        
-        
-        
-      when "read_data"
-         Trollop::options do
-           opt :filename, "Name of file to read",     :type => String, :default => '/'
-         end 
-        
-        
+
       else
         Trollop::die "Unknown subcommand #{command.inspect}"
       end

@@ -1,0 +1,583 @@
+--- !ruby/object:RedditKit::PaginatedResponse
+before: 
+after: t3_31i9cj
+results:
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: twitter.com
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: rugbyunion
+    :selftext_html: 
+    :selftext: ''
+    :likes: 
+    :user_reports: []
+    :secure_media: 
+    :link_flair_text: 
+    :id: 31hrx4
+    :gilded: 0
+    :archived: false
+    :clicked: false
+    :report_reasons: 
+    :author: bigxblack
+    :num_comments: 32
+    :score: 164
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: http://b.thumbs.redditmedia.com/sN2vqhiBgdZFQqEtFkFNQgDzoYQGvtcLcP3UgL0Rfxc.jpg
+    :subreddit_id: t5_2qkbe
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: canada
+    :downs: 0
+    :secure_media_embed: {}
+    :saved: false
+    :stickied: false
+    :is_self: false
+    :permalink: /r/rugbyunion/comments/31hrx4/canada_7s_beat_new_zealand_1915_in_tokyo_the/
+    :name: t3_31hrx4
+    :created: 1428238735.0
+    :url: https://twitter.com/WorldRugby7s/status/584571995498479617
+    :author_flair_text: Canada
+    :title: CANADA 7S BEAT NEW ZEALAND 19-15 IN TOKYO, THE FIRST TIME CANADA HAS EVER
+      BEATEN NEW ZEALAND
+    :created_utc: 1428209935.0
+    :distinguished: 
+    :media: 
+    :mod_reports: []
+    :visited: false
+    :num_reports: 
+    :ups: 164
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: vid.me
+    :banned_by: 
+    :media_embed:
+      :content: '&lt;iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FzaWl%3Fcard%3D1&amp;url=https%3A%2F%2Fvid.me%2FzaWl%2Fsuperrugby-rd-8-sharks-v-crusaders-highlights-6m&amp;image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F1519168.jpg%3Fv1r1428193497&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=vid"
+        width="600" height="338" scrolling="no" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;'
+      :width: 600
+      :scrolling: false
+      :height: 338
+    :subreddit: rugbyunion
+    :selftext_html: 
+    :selftext: ''
+    :likes: 
+    :user_reports: []
+    :secure_media: 
+    :link_flair_text: 
+    :id: 31h25g
+    :gilded: 0
+    :archived: false
+    :clicked: false
+    :report_reasons: 
+    :author: skeeter1980
+    :num_comments: 10
+    :score: 25
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: http://b.thumbs.redditmedia.com/ddd7IShV94S47mFSXCnfRc9DWBQBLWXD1afaBXL8LKY.jpg
+    :subreddit_id: t5_2qkbe
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :secure_media_embed: {}
+    :saved: false
+    :stickied: false
+    :is_self: false
+    :permalink: /r/rugbyunion/comments/31h25g/superrugby_rd8_sharks_v_crusaders_highlights_6m59s/
+    :name: t3_31h25g
+    :created: 1428222862.0
+    :url: https://vid.me/zaWl
+    :author_flair_text: 
+    :title: SuperRugby Rd.8 | Sharks v Crusaders | Highlights 6m59s
+    :created_utc: 1428194062.0
+    :distinguished: 
+    :media:
+      :type: vid.me
+      :oembed:
+        :provider_url: https://vid.me
+        :description: SuperRugby Rd.8 | Sharks v Crusaders | Highlights 6m59s
+        :title: SuperRugby Rd.8 | Sharks v Crusaders | Highlights 6m59s
+        :thumbnail_width: 640
+        :height: 338
+        :width: 600
+        :html: '&lt;iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FzaWl%3Fcard%3D1&amp;url=https%3A%2F%2Fvid.me%2FzaWl%2Fsuperrugby-rd-8-sharks-v-crusaders-highlights-6m&amp;image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F1519168.jpg%3Fv1r1428193497&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=vid"
+          width="600" height="338" scrolling="no" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;'
+        :version: '1.0'
+        :provider_name: Vidme
+        :thumbnail_url: https://d1wst0behutosd.cloudfront.net/thumbnails/1519168.jpg?v1r1428193497
+        :type: video
+        :thumbnail_height: 360
+    :mod_reports: []
+    :visited: false
+    :num_reports: 
+    :ups: 25
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: twitter.com
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: rugbyunion
+    :selftext_html: 
+    :selftext: ''
+    :likes: 
+    :user_reports: []
+    :secure_media: 
+    :link_flair_text: 
+    :id: 31ggfo
+    :gilded: 0
+    :archived: false
+    :clicked: false
+    :report_reasons: 
+    :author: J0nShannow
+    :num_comments: 6
+    :score: 47
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: http://a.thumbs.redditmedia.com/5Sjix9m2WCnmNxFh0p9prNWoW-uT_wCF8lTi7_T4K_8.jpg
+    :subreddit_id: t5_2qkbe
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: harlequins
+    :downs: 0
+    :secure_media_embed: {}
+    :saved: false
+    :stickied: false
+    :is_self: false
+    :permalink: /r/rugbyunion/comments/31ggfo/tom_woods_tweet_to_clermont_after_getting_smashed/
+    :name: t3_31ggfo
+    :created: 1428211040.0
+    :url: https://twitter.com/tomwood678/status/584461274324557826
+    :author_flair_text: Harlequins
+    :title: Tom Wood's Tweet to Clermont after getting smashed earlier today.
+    :created_utc: 1428182240.0
+    :distinguished: 
+    :media: 
+    :mod_reports: []
+    :visited: false
+    :num_reports: 
+    :ups: 47
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: vid.me
+    :banned_by: 
+    :media_embed:
+      :content: '&lt;iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FXykL%3Fcard%3D1&amp;url=https%3A%2F%2Fvid.me%2FXykL%2Fsuperrugby-rd-8-chiefs-v-blues-highlights-4m40s&amp;image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F1519075.jpg%3Fv1r1428192736&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=vid"
+        width="600" height="338" scrolling="no" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;'
+      :width: 600
+      :scrolling: false
+      :height: 338
+    :subreddit: rugbyunion
+    :selftext_html: 
+    :selftext: ''
+    :likes: 
+    :user_reports: []
+    :secure_media: 
+    :link_flair_text: 
+    :id: 31h1zp
+    :gilded: 0
+    :archived: false
+    :clicked: false
+    :report_reasons: 
+    :author: skeeter1980
+    :num_comments: 1
+    :score: 22
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: http://b.thumbs.redditmedia.com/DX5tY9cg9JtS85MisElnZNblaV8sh_ciL_ekTgwl47I.jpg
+    :subreddit_id: t5_2qkbe
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :secure_media_embed: {}
+    :saved: false
+    :stickied: false
+    :is_self: false
+    :permalink: /r/rugbyunion/comments/31h1zp/superrugby_rd8_chiefs_v_blues_highlights_4m40s/
+    :name: t3_31h1zp
+    :created: 1428222769.0
+    :url: https://vid.me/XykL
+    :author_flair_text: 
+    :title: SuperRugby Rd.8 | Chiefs v Blues | Highlights 4m40s
+    :created_utc: 1428193969.0
+    :distinguished: 
+    :media:
+      :type: vid.me
+      :oembed:
+        :provider_url: https://vid.me
+        :description: SuperRugby Rd.8 | Chiefs v Blues | Highlights 4m40s
+        :title: SuperRugby Rd.8 | Chiefs v Blues | Highlights 4m40s
+        :thumbnail_width: 640
+        :height: 338
+        :width: 600
+        :html: '&lt;iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FXykL%3Fcard%3D1&amp;url=https%3A%2F%2Fvid.me%2FXykL%2Fsuperrugby-rd-8-chiefs-v-blues-highlights-4m40s&amp;image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F1519075.jpg%3Fv1r1428192736&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=vid"
+          width="600" height="338" scrolling="no" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;'
+        :version: '1.0'
+        :provider_name: Vidme
+        :thumbnail_url: https://d1wst0behutosd.cloudfront.net/thumbnails/1519075.jpg?v1r1428192736
+        :type: video
+        :thumbnail_height: 360
+    :mod_reports: []
+    :visited: false
+    :num_reports: 
+    :ups: 22
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: self.rugbyunion
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: rugbyunion
+    :selftext_html: |-
+      &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I am 17 years old and am playing club rugby for a rather small club in Ireland. I only moved from South Africa 2 years ago and am a little confused as to how you advance through the Irish rugby systems. I am 6&amp;#39;3 and 91 kilograms, I play inside centre or outside and am getting extremely serious about rugby. I&amp;#39;ve never represented province or national teams but I&amp;#39;ve never been given an opportunity for it. I want to know if it&amp;#39;s a viable goal and how I can help myself get there! Thanks !  &lt;/p&gt;
+      &lt;/div&gt;&lt;!-- SC_ON --&gt;
+    :selftext: 'I am 17 years old and am playing club rugby for a rather small club
+      in Ireland. I only moved from South Africa 2 years ago and am a little confused
+      as to how you advance through the Irish rugby systems. I am 6''3 and 91 kilograms,
+      I play inside centre or outside and am getting extremely serious about rugby.
+      I''ve never represented province or national teams but I''ve never been given
+      an opportunity for it. I want to know if it''s a viable goal and how I can help
+      myself get there! Thanks !  '
+    :likes: 
+    :user_reports: []
+    :secure_media: 
+    :link_flair_text: 
+    :id: 31i9qd
+    :gilded: 0
+    :archived: false
+    :clicked: false
+    :report_reasons: 
+    :author: Dino_Hunter
+    :num_comments: 4
+    :score: 4
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: self
+    :subreddit_id: t5_2qkbe
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :secure_media_embed: {}
+    :saved: false
+    :stickied: false
+    :is_self: true
+    :permalink: /r/rugbyunion/comments/31i9qd/i_want_to_know_if_i_can_realistically_play/
+    :name: t3_31i9qd
+    :created: 1428255745.0
+    :url: http://www.reddit.com/r/rugbyunion/comments/31i9qd/i_want_to_know_if_i_can_realistically_play/
+    :author_flair_text: 
+    :title: I want to know if I can realistically play professional rugby.
+    :created_utc: 1428226945.0
+    :distinguished: 
+    :media: 
+    :mod_reports: []
+    :visited: false
+    :num_reports: 
+    :ups: 4
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: scotsman.com
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: rugbyunion
+    :selftext_html: 
+    :selftext: ''
+    :likes: 
+    :user_reports: []
+    :secure_media: 
+    :link_flair_text: 
+    :id: 31i7re
+    :gilded: 0
+    :archived: false
+    :clicked: false
+    :report_reasons: 
+    :author: KPATB
+    :num_comments: 1
+    :score: 4
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: http://a.thumbs.redditmedia.com/tEcll2KUPRE1vGavF1b-9k2JKfR_pDJc8ACP7Nz3Kf0.jpg
+    :subreddit_id: t5_2qkbe
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: glasgow
+    :downs: 0
+    :secure_media_embed: {}
+    :saved: false
+    :stickied: false
+    :is_self: false
+    :permalink: /r/rugbyunion/comments/31i7re/edinburgh_players_revolt_over_unfair_sacking_of/
+    :name: t3_31i7re
+    :created: 1428253363.0
+    :url: http://www.scotsman.com/sport/rugby/latest/edinburgh-players-revolt-over-unfair-sacking-1-3738787
+    :author_flair_text: Glasgow Warriors
+    :title: Edinburgh players revolt over 'unfair' sacking of long-serving team manager
+    :created_utc: 1428224563.0
+    :distinguished: 
+    :media: 
+    :mod_reports: []
+    :visited: false
+    :num_reports: 
+    :ups: 4
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: vid.me
+    :banned_by: 
+    :media_embed:
+      :content: '&lt;iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FqkdA%3Fcard%3D1&amp;url=https%3A%2F%2Fvid.me%2FqkdA%2Fsuperrugby-rd-8-lions-v-bulls-highlights-6m59s&amp;image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F1519219.jpg%3Fv1r1428193880&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=vid"
+        width="600" height="338" scrolling="no" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;'
+      :width: 600
+      :scrolling: false
+      :height: 338
+    :subreddit: rugbyunion
+    :selftext_html: 
+    :selftext: ''
+    :likes: 
+    :user_reports: []
+    :secure_media: 
+    :link_flair_text: 
+    :id: 31h27j
+    :gilded: 0
+    :archived: false
+    :clicked: false
+    :report_reasons: 
+    :author: skeeter1980
+    :num_comments: 2
+    :score: 20
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: http://b.thumbs.redditmedia.com/9zmVGb4VXEWbxT88_k5Pse5gXJOT5wxr77Ipvm-LGVM.jpg
+    :subreddit_id: t5_2qkbe
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :secure_media_embed: {}
+    :saved: false
+    :stickied: false
+    :is_self: false
+    :permalink: /r/rugbyunion/comments/31h27j/superrugby_rd8_lions_v_bulls_highlights_6m59s/
+    :name: t3_31h27j
+    :created: 1428222900.0
+    :url: https://vid.me/qkdA
+    :author_flair_text: 
+    :title: SuperRugby Rd.8 | Lions v Bulls | Highlights 6m59s
+    :created_utc: 1428194100.0
+    :distinguished: 
+    :media:
+      :type: vid.me
+      :oembed:
+        :provider_url: https://vid.me
+        :description: SuperRugby Rd.8 | Lions v Bulls | Highlights 6m59s
+        :title: SuperRugby Rd.8 | Lions v Bulls | Highlights 6m59s
+        :thumbnail_width: 640
+        :height: 338
+        :width: 600
+        :html: '&lt;iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FqkdA%3Fcard%3D1&amp;url=https%3A%2F%2Fvid.me%2FqkdA%2Fsuperrugby-rd-8-lions-v-bulls-highlights-6m59s&amp;image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F1519219.jpg%3Fv1r1428193880&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=vid"
+          width="600" height="338" scrolling="no" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;'
+        :version: '1.0'
+        :provider_name: Vidme
+        :thumbnail_url: https://d1wst0behutosd.cloudfront.net/thumbnails/1519219.jpg?v1r1428193880
+        :type: video
+        :thumbnail_height: 360
+    :mod_reports: []
+    :visited: false
+    :num_reports: 
+    :ups: 20
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: vid.me
+    :banned_by: 
+    :media_embed:
+      :content: '&lt;iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FRL1N%3Fcard%3D1&amp;url=https%3A%2F%2Fvid.me%2FRL1N%2Fsuperrugby-rd-8-brumbies-v-cheetahs-highlights-6&amp;image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F1519114.jpg%3Fv1r1428193110&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=vid"
+        width="600" height="338" scrolling="no" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;'
+      :width: 600
+      :scrolling: false
+      :height: 338
+    :subreddit: rugbyunion
+    :selftext_html: 
+    :selftext: ''
+    :likes: 
+    :user_reports: []
+    :secure_media: 
+    :link_flair_text: 
+    :id: 31h22e
+    :gilded: 0
+    :archived: false
+    :clicked: false
+    :report_reasons: 
+    :author: skeeter1980
+    :num_comments: 2
+    :score: 18
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: http://b.thumbs.redditmedia.com/j_AlaBakzFIhMKTzzcIm0yJbECzJfvzliutQx_whllQ.jpg
+    :subreddit_id: t5_2qkbe
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :secure_media_embed: {}
+    :saved: false
+    :stickied: false
+    :is_self: false
+    :permalink: /r/rugbyunion/comments/31h22e/superrugby_rd8_brumbies_v_cheetahs_highlights/
+    :name: t3_31h22e
+    :created: 1428222808.0
+    :url: https://vid.me/RL1N
+    :author_flair_text: 
+    :title: SuperRugby Rd.8 | Brumbies v Cheetahs | Highlights 6m59s
+    :created_utc: 1428194008.0
+    :distinguished: 
+    :media:
+      :oembed:
+        :provider_url: https://vid.me
+        :description: SuperRugby Rd.8 | Brumbies v Cheetahs | Highlights 6m59s
+        :title: SuperRugby Rd.8 | Brumbies v Cheetahs | Highlights 6m59s
+        :type: video
+        :thumbnail_width: 640
+        :height: 338
+        :width: 600
+        :html: '&lt;iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FRL1N%3Fcard%3D1&amp;url=https%3A%2F%2Fvid.me%2FRL1N%2Fsuperrugby-rd-8-brumbies-v-cheetahs-highlights-6&amp;image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F1519114.jpg%3Fv1r1428193110&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=vid"
+          width="600" height="338" scrolling="no" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;'
+        :version: '1.0'
+        :provider_name: Vidme
+        :thumbnail_url: https://d1wst0behutosd.cloudfront.net/thumbnails/1519114.jpg?v1r1428193110
+        :thumbnail_height: 360
+      :type: vid.me
+    :mod_reports: []
+    :visited: false
+    :num_reports: 
+    :ups: 18
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: vid.me
+    :banned_by: 
+    :media_embed:
+      :content: '&lt;iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FScCa%3Fcard%3D1&amp;url=https%3A%2F%2Fvid.me%2FScCa%2Fleinster-v-bath&amp;image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F1518541.jpg%3Fv1r1428188214&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=vid"
+        width="600" height="338" scrolling="no" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;'
+      :width: 600
+      :scrolling: false
+      :height: 338
+    :subreddit: rugbyunion
+    :selftext_html: 
+    :selftext: ''
+    :likes: 
+    :user_reports: []
+    :secure_media: 
+    :link_flair_text: 
+    :id: 31grvh
+    :gilded: 0
+    :archived: false
+    :clicked: false
+    :report_reasons: 
+    :author: skeeter1980
+    :num_comments: 10
+    :score: 24
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: http://a.thumbs.redditmedia.com/NDkrg_fI-brwyv4424sqxA8TDBsjJcqymQ2CoDsMV_8.jpg
+    :subreddit_id: t5_2qkbe
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: 
+    :downs: 0
+    :secure_media_embed: {}
+    :saved: false
+    :stickied: false
+    :is_self: false
+    :permalink: /r/rugbyunion/comments/31grvh/erc_quarterfinal_leinster_v_bath_highlights_2m23s/
+    :name: t3_31grvh
+    :created: 1428217098.0
+    :url: https://vid.me/ScCa
+    :author_flair_text: 
+    :title: ERC Quarterfinal | Leinster v Bath Highlights | 2m23s
+    :created_utc: 1428188298.0
+    :distinguished: 
+    :media:
+      :type: vid.me
+      :oembed:
+        :provider_url: https://vid.me
+        :description: Leinster v Bath
+        :title: Leinster v Bath
+        :thumbnail_width: 1280
+        :height: 338
+        :width: 600
+        :html: '&lt;iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fvid.me%2Fe%2FScCa%3Fcard%3D1&amp;url=https%3A%2F%2Fvid.me%2FScCa%2Fleinster-v-bath&amp;image=https%3A%2F%2Fd1wst0behutosd.cloudfront.net%2Fthumbnails%2F1518541.jpg%3Fv1r1428188214&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=vid"
+          width="600" height="338" scrolling="no" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;'
+        :version: '1.0'
+        :provider_name: Vidme
+        :thumbnail_url: https://d1wst0behutosd.cloudfront.net/thumbnails/1518541.jpg?v1r1428188214
+        :type: video
+        :thumbnail_height: 720
+    :mod_reports: []
+    :visited: false
+    :num_reports: 
+    :ups: 24
+    :kind: t3
+- !ruby/object:RedditKit::Link
+  attributes:
+    :domain: 1drv.ms
+    :banned_by: 
+    :media_embed: {}
+    :subreddit: rugbyunion
+    :selftext_html: 
+    :selftext: ''
+    :likes: 
+    :user_reports: []
+    :secure_media: 
+    :link_flair_text: 
+    :id: 31i9cj
+    :gilded: 0
+    :archived: false
+    :clicked: false
+    :report_reasons: 
+    :author: dmullaney
+    :num_comments: 0
+    :score: 3
+    :approved_by: 
+    :over_18: false
+    :hidden: false
+    :thumbnail: http://b.thumbs.redditmedia.com/PSTLgh3GT_1JX8vzsbLhVDvDNU2oucqGDhzyIzwVe_k.jpg
+    :subreddit_id: t5_2qkbe
+    :edited: false
+    :link_flair_css_class: 
+    :author_flair_css_class: ireland
+    :downs: 0
+    :secure_media_embed: {}
+    :saved: false
+    :stickied: false
+    :is_self: false
+    :permalink: /r/rugbyunion/comments/31i9cj/few_photos_from_madigan_v_bath/
+    :name: t3_31i9cj
+    :created: 1428255251.0
+    :url: http://1drv.ms/1D6C7v5
+    :author_flair_text: Ireland
+    :title: Few photos from Madigan V Bath
+    :created_utc: 1428226451.0
+    :distinguished: 
+    :media: 
+    :mod_reports: []
+    :visited: false
+    :num_reports: 
+    :ups: 3
+    :kind: t3

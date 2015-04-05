@@ -5,6 +5,7 @@ require 'redditkit'
 require 'trollop'
 require 'yaml'
 require 'mechanize'
+require 'fileutils'
 
 
 module Reddibot
@@ -34,22 +35,23 @@ module Reddibot
   #
   def self.get_links options 
     links = @client.links( options[:sub], { :category => options[:category], :limit => options[:limit] } )
-    write_data( options[:filename], links, 'links' ) unless options[:filename] == ''
+    write_data( options[:project], options[:filename], links, 'links' ) unless options[:project] == ''
   end
   
   
   # Expects a link object or link id
   def self.get_link_comments link, limit = 100
     comments = @client.comments( link, :limit => limit )
-    write_data( link.attributes[:id], comments, 'comments' )
   end
 
   
   #
   def self.get_comments_on_links options
-    links = read_data( options[:filename], 'links' ).results
+    links = read_data( options[:project], options[:filename], 'links' ).results
+    #p links
     links.each do |link|
-      get_link_comments( link )
+      comments = get_link_comments( link )
+      write_data( options[:project], link.attributes[:id], comments, 'comments' )
     end 
   end
   
@@ -63,14 +65,23 @@ module Reddibot
   #
   #
   #
-  def self.write_data filename, data, format
-    File.open( 'data/' + format + '/' + filename + '.' + format, 'w') { |file| 
+  def self.write_data project, filename, data, format
+    
+    dirname = File.dirname(__FILE__) + "/data/#{project}/#{format}/"
+
+    unless File.directory?(dirname)
+      FileUtils.mkdir_p(dirname)
+    end
+    
+    File.open( dirname + '/' + filename + '.data', 'w+') { |file| 
       file.write( YAML::dump(data) ) 
     }
   end
   
-  def self.read_data filename, format
-     YAML::load( File.read('data/'+format+'/'+filename+'.'+format) )
+  
+  
+  def self.read_data project, filename, format
+     YAML::load( File.read( File.dirname(__FILE__) + "/data/#{project}/#{format}/#{filename}.data") )
   end
   
 end
