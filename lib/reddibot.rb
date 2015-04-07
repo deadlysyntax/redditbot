@@ -15,7 +15,7 @@ module Reddibot
   
   
   def self.command_list
-    %w(get_links get_subscribes get_comments_on_links)
+    %w(get_links get_subscribes get_comments_on_links get_link_by_name)
   end
   
   
@@ -53,6 +53,15 @@ module Reddibot
       comments = get_link_comments( link )
       write_data( options[:project], link.attributes[:id], comments, 'comments' )
     end 
+  end
+  
+  
+  
+  #
+  def self.get_link_by_name options
+    p options
+    link = @client.link( options[:linkname] )
+    write_data( options[:project], options[:filename], link, 'links' )
   end
   
 

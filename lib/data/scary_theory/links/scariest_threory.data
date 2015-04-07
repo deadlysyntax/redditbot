@@ -1,0 +1,61 @@
+--- !ruby/object:RedditKit::Link
+attributes:
+  :domain: self.AskReddit
+  :banned_by: 
+  :media_embed: {}
+  :subreddit: AskReddit
+  :selftext_html: |-
+    &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;NSFW just in case. &lt;/p&gt;
+
+    &lt;p&gt;EDIT: Obligatory &amp;quot;HORY SHET FRONT PAGE&amp;quot; post.&lt;/p&gt;
+
+    &lt;p&gt;No, but seriously thank you all for all of your comments! First time on the front page of this sub! I&amp;#39;ll reply to as many of you as I can when I get home!&lt;/p&gt;
+
+    &lt;p&gt;Edit2: I don&amp;#39;t think I can get to you all but you guys are great. &lt;/p&gt;
+
+    &lt;p&gt;Edit3: I think I&amp;#39;ve finally read half of the comments. Keep them coming.&lt;/p&gt;
+    &lt;/div&gt;&lt;!-- SC_ON --&gt;
+  :selftext: "NSFW just in case. \n\n\n\n\n\n\nEDIT: Obligatory \"HORY SHET FRONT
+    PAGE\" post.\n\n\n\n\n\n\nNo, but seriously thank you all for all of your comments!
+    First time on the front page of this sub! I'll reply to as many of you as I can
+    when I get home!\n\nEdit2: I don't think I can get to you all but you guys are
+    great. \n\nEdit3: I think I've finally read half of the comments. Keep them coming."
+  :likes: 
+  :user_reports: []
+  :secure_media: 
+  :link_flair_text: 
+  :id: 31nbca
+  :gilded: 1
+  :archived: false
+  :clicked: false
+  :report_reasons: 
+  :author: ILikeBigBunz
+  :num_comments: 20017
+  :score: 3574
+  :approved_by: 
+  :over_18: true
+  :hidden: false
+  :thumbnail: ''
+  :subreddit_id: t5_2qh1i
+  :edited: 1428389088.0
+  :link_flair_css_class: 
+  :author_flair_css_class: 
+  :downs: 0
+  :secure_media_embed: {}
+  :saved: false
+  :stickied: false
+  :is_self: true
+  :permalink: /r/AskReddit/comments/31nbca/whats_the_scariest_theory_known_to_man/
+  :name: t3_31nbca
+  :created: 1428344216.0
+  :url: http://www.reddit.com/r/AskReddit/comments/31nbca/whats_the_scariest_theory_known_to_man/
+  :author_flair_text: 
+  :title: Whats the scariest theory known to man?
+  :created_utc: 1428340616.0
+  :distinguished: 
+  :media: 
+  :mod_reports: []
+  :visited: false
+  :num_reports: 
+  :ups: 3574
+  :kind: t3

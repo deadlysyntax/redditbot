@@ -26,18 +26,26 @@ module Commandify
         
         
         
-      when "get_subscribes"
-        
+      #when "get_subscribes"
       
       
       
       when "get_comments_on_links"
          Trollop::options do
-           opt :project, "Write data to a file",     :type => String, :default => ''
-           opt :filename, "Write data to a file",    :type => String, :default => ''
+           opt :project,  "Write data to a file",     :type => String, :default => ''
+           opt :filename, "Write data to a file",     :type => String, :default => ''
          end 
+       
+       
+      when "get_link_by_name" 
+        Trollop::options do
+          opt :project,   "", :type => String, :default => '' 
+          opt :filename,  "", :type => String, :default => '' 
+          opt :linkname, "", :type => String, :default => '' 
+        end
         
-
+        
+        
       else
         Trollop::die "Unknown subcommand #{command.inspect}"
       end
